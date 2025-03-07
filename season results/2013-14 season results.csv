@@ -1,0 +1,1231 @@
+Date,Time,Visitor,G_Visitor,Home,G_Home,OT_SO,Attendance,LOG,Notes,Day
+2013-10-01,20:00:00,Washington Capitals,4,Chicago Blackhawks,6,,22158,,,Tuesday
+2013-10-01,22:00:00,Winnipeg Jets,5,Edmonton Oilers,4,,16839,,,Tuesday
+2013-10-01,19:00:00,Toronto Maple Leafs,4,Montreal Canadiens,3,,21273,,,Tuesday
+2013-10-02,21:30:00,Anaheim Ducks,1,Colorado Avalanche,6,,18007,,,Wednesday
+2013-10-02,20:00:00,Buffalo Sabres,1,Detroit Red Wings,2,,20066,,,Wednesday
+2013-10-02,19:30:00,Toronto Maple Leafs,3,Philadelphia Flyers,1,,19872,,,Wednesday
+2013-10-03,19:00:00,Tampa Bay Lightning,1,Boston Bruins,3,,17565,,,Thursday
+2013-10-03,20:30:00,Florida Panthers,4,Dallas Stars,2,,16100,,,Thursday
+2013-10-03,20:00:00,Los Angeles Kings,3,Minnesota Wild,2,SO,18511,,,Thursday
+2013-10-03,22:00:00,New York Rangers,1,Phoenix Coyotes,4,,17125,,,Thursday
+2013-10-03,19:00:00,New Jersey Devils,0,Pittsburgh Penguins,3,,18621,,,Thursday
+2013-10-03,22:00:00,Vancouver Canucks,1,San Jose Sharks,4,,17562,,,Thursday
+2013-10-03,20:30:00,Nashville Predators,2,St. Louis Blues,4,,18851,,,Thursday
+2013-10-03,19:00:00,Calgary Flames,4,Washington Capitals,5,SO,18506,,,Thursday
+2013-10-04,19:00:00,Ottawa Senators,1,Buffalo Sabres,0,,19070,,,Friday
+2013-10-04,19:00:00,Detroit Red Wings,3,Carolina Hurricanes,2,OT,18680,,,Friday
+2013-10-04,19:00:00,Calgary Flames,4,Columbus Blue Jackets,3,,18151,,,Friday
+2013-10-04,21:00:00,Nashville Predators,1,Colorado Avalanche,3,,14494,,,Friday
+2013-10-04,19:00:00,New York Islanders,4,New Jersey Devils,3,SO,16624,,,Friday
+2013-10-04,20:00:00,Los Angeles Kings,3,Winnipeg Jets,5,,15004,,,Friday
+2013-10-05,19:00:00,Detroit Red Wings,1,Boston Bruins,4,,17565,,,Saturday
+2013-10-05,20:00:00,Tampa Bay Lightning,3,Chicago Blackhawks,2,SO,21563,,,Saturday
+2013-10-05,20:00:00,Washington Capitals,1,Dallas Stars,2,,17200,,,Saturday
+2013-10-05,20:00:00,Anaheim Ducks,4,Minnesota Wild,3,OT,18213,,,Saturday
+2013-10-05,19:00:00,Philadelphia Flyers,1,Montreal Canadiens,4,,21273,,,Saturday
+2013-10-05,19:00:00,Columbus Blue Jackets,3,New York Islanders,2,SO,16170,,,Saturday
+2013-10-05,19:00:00,Buffalo Sabres,1,Pittsburgh Penguins,4,,18641,,,Saturday
+2013-10-05,22:30:00,Phoenix Coyotes,1,San Jose Sharks,4,,17562,,,Saturday
+2013-10-05,20:00:00,Florida Panthers,0,St. Louis Blues,7,,16264,,,Saturday
+2013-10-05,19:00:00,Ottawa Senators,4,Toronto Maple Leafs,5,SO,19552,,,Saturday
+2013-10-05,22:00:00,Edmonton Oilers,2,Vancouver Canucks,6,,18910,,,Saturday
+2013-10-06,17:00:00,Philadelphia Flyers,1,Carolina Hurricanes,2,,16088,,,Sunday
+2013-10-06,20:00:00,Vancouver Canucks,5,Calgary Flames,4,OT,19289,,,Sunday
+2013-10-06,20:00:00,Anaheim Ducks,3,Winnipeg Jets,2,,15004,,,Sunday
+2013-10-07,21:30:00,New Jersey Devils,4,Edmonton Oilers,5,SO,16839,,,Monday
+2013-10-07,22:30:00,New York Rangers,3,Los Angeles Kings,1,,18118,,,Monday
+2013-10-08,19:30:00,Tampa Bay Lightning,3,Buffalo Sabres,2,OT,18243,,,Tuesday
+2013-10-08,20:00:00,Minnesota Wild,2,Nashville Predators,3,,17196,,,Tuesday
+2013-10-08,19:00:00,Phoenix Coyotes,1,New York Islanders,6,,10288,,,Tuesday
+2013-10-08,19:00:00,Florida Panthers,1,Philadelphia Flyers,2,,19589,,,Tuesday
+2013-10-08,19:00:00,Carolina Hurricanes,2,Pittsburgh Penguins,5,,18451,,,Tuesday
+2013-10-08,22:30:00,New York Rangers,2,San Jose Sharks,9,,17562,,,Tuesday
+2013-10-08,19:00:00,Colorado Avalanche,2,Toronto Maple Leafs,1,,19388,,,Tuesday
+2013-10-08,22:00:00,New Jersey Devils,2,Vancouver Canucks,3,OT,18910,,,Tuesday
+2013-10-09,20:00:00,Montreal Canadiens,2,Calgary Flames,3,,19289,,,Wednesday
+2013-10-09,22:30:00,Ottawa Senators,3,Los Angeles Kings,4,OT,18118,,,Wednesday
+2013-10-09,20:00:00,Chicago Blackhawks,2,St. Louis Blues,3,,16565,,,Wednesday
+2013-10-10,22:00:00,New York Rangers,0,Anaheim Ducks,6,,17179,,,Thursday
+2013-10-10,19:00:00,Colorado Avalanche,2,Boston Bruins,0,,17565,,,Thursday
+2013-10-10,19:00:00,Columbus Blue Jackets,4,Buffalo Sabres,1,,18210,,,Thursday
+2013-10-10,19:30:00,Phoenix Coyotes,4,Detroit Red Wings,2,,20066,,,Thursday
+2013-10-10,21:30:00,Montreal Canadiens,4,Edmonton Oilers,1,,16839,,,Thursday
+2013-10-10,20:00:00,Winnipeg Jets,1,Minnesota Wild,2,,17366,,,Thursday
+2013-10-10,20:00:00,Toronto Maple Leafs,4,Nashville Predators,0,,16671,,,Thursday
+2013-10-10,19:30:00,Florida Panthers,2,Tampa Bay Lightning,7,,19204,,,Thursday
+2013-10-10,22:00:00,San Jose Sharks,4,Vancouver Canucks,1,,18910,,,Thursday
+2013-10-10,19:00:00,Carolina Hurricanes,3,Washington Capitals,2,,18506,,,Thursday
+2013-10-11,19:00:00,Los Angeles Kings,2,Carolina Hurricanes,1,SO,16353,,,Friday
+2013-10-11,21:00:00,New Jersey Devils,2,Calgary Flames,3,,19289,,,Friday
+2013-10-11,20:00:00,New York Islanders,2,Chicago Blackhawks,3,,21196,,,Friday
+2013-10-11,19:30:00,Pittsburgh Penguins,3,Florida Panthers,6,,18584,,,Friday
+2013-10-11,19:00:00,Phoenix Coyotes,2,Philadelphia Flyers,1,,19713,,,Friday
+2013-10-11,20:00:00,Dallas Stars,4,Winnipeg Jets,1,,15004,,,Friday
+2013-10-12,14:00:00,Boston Bruins,3,Columbus Blue Jackets,1,,14092,,,Saturday
+2013-10-12,20:00:00,Buffalo Sabres,1,Chicago Blackhawks,2,,21261,,,Saturday
+2013-10-12,19:00:00,Philadelphia Flyers,2,Detroit Red Wings,5,,20066,,,Saturday
+2013-10-12,20:00:00,Dallas Stars,1,Minnesota Wild,5,,18278,,,Saturday
+2013-10-12,20:00:00,New York Islanders,2,Nashville Predators,3,,17113,,,Saturday
+2013-10-12,22:00:00,Ottawa Senators,2,San Jose Sharks,3,,17562,,,Saturday
+2013-10-12,20:00:00,New York Rangers,3,St. Louis Blues,5,,18130,,,Saturday
+2013-10-12,19:00:00,Pittsburgh Penguins,5,Tampa Bay Lightning,4,,18939,,,Saturday
+2013-10-12,19:00:00,Edmonton Oilers,5,Toronto Maple Leafs,6,OT,19379,,,Saturday
+2013-10-12,22:00:00,Montreal Canadiens,4,Vancouver Canucks,1,,18910,,,Saturday
+2013-10-12,19:00:00,Colorado Avalanche,5,Washington Capitals,1,,18506,,,Saturday
+2013-10-13,20:00:00,Ottawa Senators,1,Anaheim Ducks,4,,17177,,,Sunday
+2013-10-13,13:00:00,Phoenix Coyotes,5,Carolina Hurricanes,3,,15384,,,Sunday
+2013-10-13,15:00:00,Los Angeles Kings,3,Florida Panthers,0,,12810,,,Sunday
+2013-10-13,20:00:00,New Jersey Devils,0,Winnipeg Jets,3,,15004,,,Sunday
+2013-10-14,13:00:00,Detroit Red Wings,3,Boston Bruins,2,,17565,,,Monday
+2013-10-14,19:30:00,Minnesota Wild,2,Buffalo Sabres,1,,18111,,,Monday
+2013-10-14,19:00:00,Edmonton Oilers,2,Washington Capitals,4,,18506,,,Monday
+2013-10-15,19:00:00,Chicago Blackhawks,3,Carolina Hurricanes,2,SO,16263,,,Tuesday
+2013-10-15,21:00:00,Dallas Stars,2,Colorado Avalanche,3,,15208,,,Tuesday
+2013-10-15,20:00:00,Columbus Blue Jackets,1,Detroit Red Wings,2,,20066,,,Tuesday
+2013-10-15,20:00:00,Florida Panthers,3,Nashville Predators,4,,15935,,,Tuesday
+2013-10-15,19:00:00,Buffalo Sabres,4,New York Islanders,3,SO,10512,,,Tuesday
+2013-10-15,19:00:00,Vancouver Canucks,3,Philadelphia Flyers,2,,19588,,,Tuesday
+2013-10-15,22:00:00,Ottawa Senators,4,Phoenix Coyotes,3,OT,10594,,,Tuesday
+2013-10-15,19:00:00,Edmonton Oilers,2,Pittsburgh Penguins,3,,18410,,,Tuesday
+2013-10-15,20:00:00,San Jose Sharks,6,St. Louis Blues,2,,14503,,,Tuesday
+2013-10-15,19:30:00,Los Angeles Kings,1,Tampa Bay Lightning,5,,16310,,,Tuesday
+2013-10-15,19:00:00,Minnesota Wild,1,Toronto Maple Leafs,4,,19283,,,Tuesday
+2013-10-15,20:00:00,Montreal Canadiens,3,Winnipeg Jets,0,,15004,,,Tuesday
+2013-10-16,22:00:00,Calgary Flames,2,Anaheim Ducks,3,,14051,,,Wednesday
+2013-10-16,20:00:00,New York Rangers,2,Washington Capitals,0,,18506,,,Wednesday
+2013-10-17,19:00:00,Vancouver Canucks,3,Buffalo Sabres,0,,18374,,,Thursday
+2013-10-17,20:00:00,St. Louis Blues,3,Chicago Blackhawks,2,SO,21169,,,Thursday
+2013-10-17,21:00:00,Detroit Red Wings,4,Colorado Avalanche,2,,18101,,,Thursday
+2013-10-17,20:30:00,San Jose Sharks,3,Dallas Stars,4,SO,14898,,,Thursday
+2013-10-17,19:30:00,Boston Bruins,3,Florida Panthers,2,,14440,,,Thursday
+2013-10-17,19:30:00,Columbus Blue Jackets,3,Montreal Canadiens,5,,21273,,,Thursday
+2013-10-17,20:00:00,Los Angeles Kings,2,Nashville Predators,1,SO,16416,,,Thursday
+2013-10-17,19:00:00,Edmonton Oilers,2,New York Islanders,3,,10608,,,Thursday
+2013-10-17,19:30:00,New Jersey Devils,2,Ottawa Senators,5,,18867,,,Thursday
+2013-10-17,19:00:00,Pittsburgh Penguins,4,Philadelphia Flyers,1,,19735,,,Thursday
+2013-10-17,19:30:00,Minnesota Wild,1,Tampa Bay Lightning,3,,16454,,,Thursday
+2013-10-17,19:00:00,Carolina Hurricanes,3,Toronto Maple Leafs,2,,19277,,,Thursday
+2013-10-18,22:00:00,Phoenix Coyotes,2,Anaheim Ducks,3,SO,13206,,,Friday
+2013-10-18,20:00:00,St. Louis Blues,3,Winnipeg Jets,4,SO,15004,,,Friday
+2013-10-19,19:00:00,Colorado Avalanche,4,Buffalo Sabres,2,,18422,,,Saturday
+2013-10-19,19:00:00,Toronto Maple Leafs,1,Chicago Blackhawks,3,,21801,,,Saturday
+2013-10-19,19:00:00,Minnesota Wild,1,Florida Panthers,2,SO,13081,,,Saturday
+2013-10-19,22:30:00,Dallas Stars,2,Los Angeles Kings,5,,18118,,,Saturday
+2013-10-19,19:00:00,Nashville Predators,2,Montreal Canadiens,1,,21273,,,Saturday
+2013-10-19,19:00:00,New York Rangers,0,New Jersey Devils,4,,16592,,,Saturday
+2013-10-19,19:00:00,Carolina Hurricanes,4,New York Islanders,3,,13008,,,Saturday
+2013-10-19,14:00:00,Edmonton Oilers,3,Ottawa Senators,1,,18623,,,Saturday
+2013-10-19,21:00:00,Detroit Red Wings,2,Phoenix Coyotes,5,,14624,,,Saturday
+2013-10-19,13:00:00,Vancouver Canucks,3,Pittsburgh Penguins,4,SO,18657,,,Saturday
+2013-10-19,22:00:00,Calgary Flames,3,San Jose Sharks,6,,17562,,,Saturday
+2013-10-19,19:00:00,Boston Bruins,5,Tampa Bay Lightning,0,,18512,,,Saturday
+2013-10-19,19:00:00,Columbus Blue Jackets,1,Washington Capitals,4,,18506,,,Saturday
+2013-10-20,20:00:00,Dallas Stars,3,Anaheim Ducks,6,,14531,,,Sunday
+2013-10-20,18:00:00,Vancouver Canucks,1,Columbus Blue Jackets,3,,14168,,,Sunday
+2013-10-20,20:00:00,Nashville Predators,3,Winnipeg Jets,1,,15004,,,Sunday
+2013-10-21,19:30:00,San Jose Sharks,1,Detroit Red Wings,0,SO,20066,,,Monday
+2013-10-21,22:30:00,Calgary Flames,3,Los Angeles Kings,2,,18118,,,Monday
+2013-10-21,19:30:00,Colorado Avalanche,1,Pittsburgh Penguins,0,,18606,,,Monday
+2013-10-22,19:00:00,New Jersey Devils,1,Columbus Blue Jackets,4,,14357,,,Tuesday
+2013-10-22,19:30:00,Chicago Blackhawks,3,Florida Panthers,2,SO,15779,,,Tuesday
+2013-10-22,20:00:00,Nashville Predators,0,Minnesota Wild,2,,17651,,,Tuesday
+2013-10-22,19:30:00,Edmonton Oilers,4,Montreal Canadiens,3,,21273,,,Tuesday
+2013-10-22,19:00:00,Vancouver Canucks,5,New York Islanders,4,OT,11922,,,Tuesday
+2013-10-22,22:00:00,Calgary Flames,2,Phoenix Coyotes,4,,10141,,,Tuesday
+2013-10-22,19:00:00,Anaheim Ducks,2,Toronto Maple Leafs,4,,19408,,,Tuesday
+2013-10-22,20:00:00,Washington Capitals,5,Winnipeg Jets,4,SO,15004,,,Tuesday
+2013-10-23,20:00:00,Boston Bruins,5,Buffalo Sabres,2,,17645,,,Wednesday
+2013-10-23,19:30:00,Ottawa Senators,6,Detroit Red Wings,1,,20066,,,Wednesday
+2013-10-24,19:00:00,San Jose Sharks,1,Boston Bruins,2,,17565,,,Thursday
+2013-10-24,20:30:00,Calgary Flames,1,Dallas Stars,5,,13122,,,Thursday
+2013-10-24,21:30:00,Washington Capitals,4,Edmonton Oilers,1,,16839,,,Thursday
+2013-10-24,22:30:00,Phoenix Coyotes,4,Los Angeles Kings,7,,18118,,,Thursday
+2013-10-24,20:00:00,Carolina Hurricanes,1,Minnesota Wild,3,,17668,,,Thursday
+2013-10-24,19:30:00,Anaheim Ducks,1,Montreal Canadiens,4,,21273,,,Thursday
+2013-10-24,19:00:00,Vancouver Canucks,3,New Jersey Devils,2,SO,13203,,,Thursday
+2013-10-24,20:00:00,Winnipeg Jets,2,Nashville Predators,3,OT,16075,,,Thursday
+2013-10-24,19:00:00,New York Rangers,1,Philadelphia Flyers,2,,19768,,,Thursday
+2013-10-24,19:30:00,Chicago Blackhawks,5,Tampa Bay Lightning,6,OT,18820,,,Thursday
+2013-10-25,19:00:00,Toronto Maple Leafs,2,Columbus Blue Jackets,5,,13930,,,Friday
+2013-10-25,21:00:00,Carolina Hurricanes,2,Colorado Avalanche,4,,16177,,,Friday
+2013-10-25,19:30:00,Buffalo Sabres,3,Florida Panthers,1,,12984,,,Friday
+2013-10-25,19:30:00,Anaheim Ducks,2,Ottawa Senators,1,,17590,,,Friday
+2013-10-25,19:00:00,New York Islanders,4,Pittsburgh Penguins,3,,18664,,,Friday
+2013-10-25,20:00:00,Vancouver Canucks,3,St. Louis Blues,2,OT,17604,,,Friday
+2013-10-26,19:00:00,New Jersey Devils,4,Boston Bruins,3,,17565,,,Saturday
+2013-10-26,22:00:00,Washington Capitals,2,Calgary Flames,5,,19289,,,Saturday
+2013-10-26,20:00:00,Minnesota Wild,5,Chicago Blackhawks,3,,21521,,,Saturday
+2013-10-26,19:00:00,Winnipeg Jets,2,Dallas Stars,1,SO,13875,,,Saturday
+2013-10-26,19:00:00,New York Rangers,3,Detroit Red Wings,2,OT,20066,,,Saturday
+2013-10-26,19:00:00,San Jose Sharks,2,Montreal Canadiens,0,,21273,,,Saturday
+2013-10-26,20:00:00,St. Louis Blues,6,Nashville Predators,1,,16681,,,Saturday
+2013-10-26,19:00:00,Philadelphia Flyers,5,New York Islanders,2,,13620,,,Saturday
+2013-10-26,15:00:00,Edmonton Oilers,4,Phoenix Coyotes,5,,11684,,,Saturday
+2013-10-26,19:00:00,Buffalo Sabres,2,Tampa Bay Lightning,3,,18088,,,Saturday
+2013-10-26,19:00:00,Pittsburgh Penguins,1,Toronto Maple Leafs,4,,19539,,,Saturday
+2013-10-27,18:00:00,Anaheim Ducks,4,Columbus Blue Jackets,3,,10542,,,Sunday
+2013-10-27,20:00:00,Winnipeg Jets,2,Colorado Avalanche,3,,13927,,,Sunday
+2013-10-27,17:00:00,Tampa Bay Lightning,4,Florida Panthers,3,SO,12336,,,Sunday
+2013-10-27,21:00:00,Edmonton Oilers,1,Los Angeles Kings,2,SO,18118,,,Sunday
+2013-10-27,17:00:00,San Jose Sharks,5,Ottawa Senators,2,,17145,,,Sunday
+2013-10-28,19:00:00,Dallas Stars,4,Buffalo Sabres,3,,18295,,,Monday
+2013-10-28,19:00:00,Pittsburgh Penguins,3,Carolina Hurricanes,1,,15042,,,Monday
+2013-10-28,20:00:00,Chicago Blackhawks,5,Minnesota Wild,1,,18685,,,Monday
+2013-10-28,19:30:00,Montreal Canadiens,2,New York Rangers,0,,18006,,,Monday
+2013-10-28,22:00:00,Washington Capitals,2,Vancouver Canucks,3,,18910,,,Monday
+2013-10-29,20:00:00,Ottawa Senators,5,Chicago Blackhawks,6,,21123,,,Tuesday
+2013-10-29,21:00:00,Toronto Maple Leafs,4,Edmonton Oilers,0,,16839,,,Tuesday
+2013-10-29,19:00:00,Dallas Stars,1,Montreal Canadiens,2,,21273,,,Tuesday
+2013-10-29,19:30:00,Tampa Bay Lightning,1,New Jersey Devils,2,,13501,,,Tuesday
+2013-10-29,19:00:00,New York Rangers,3,New York Islanders,2,,16170,,,Tuesday
+2013-10-29,19:00:00,Anaheim Ducks,3,Philadelphia Flyers,2,,19615,,,Tuesday
+2013-10-29,22:00:00,Los Angeles Kings,1,Phoenix Coyotes,3,,10452,,,Tuesday
+2013-10-29,20:00:00,Winnipeg Jets,2,St. Louis Blues,3,,15287,,,Tuesday
+2013-10-30,20:00:00,Toronto Maple Leafs,4,Calgary Flames,2,,19289,,,Wednesday
+2013-10-30,22:30:00,San Jose Sharks,3,Los Angeles Kings,4,OT,18118,,,Wednesday
+2013-10-30,20:00:00,Boston Bruins,2,Pittsburgh Penguins,3,,18627,,,Wednesday
+2013-10-30,22:30:00,Detroit Red Wings,2,Vancouver Canucks,1,,18910,,,Wednesday
+2013-10-31,19:00:00,Anaheim Ducks,2,Boston Bruins,3,SO,17565,,,Thursday
+2013-10-31,19:00:00,Buffalo Sabres,0,New York Rangers,2,,18006,,,Thursday
+2013-10-31,22:00:00,Nashville Predators,4,Phoenix Coyotes,5,SO,7401,,,Thursday
+2013-11-01,19:00:00,Tampa Bay Lightning,3,Carolina Hurricanes,0,,14828,,,Friday
+2013-11-01,21:00:00,Detroit Red Wings,4,Calgary Flames,3,,19289,,,Friday
+2013-11-01,20:30:00,Colorado Avalanche,3,Dallas Stars,2,OT,15223,,,Friday
+2013-11-01,19:30:00,St. Louis Blues,4,Florida Panthers,0,,12922,,,Friday
+2013-11-01,20:00:00,Montreal Canadiens,3,Minnesota Wild,4,,18207,,,Friday
+2013-11-01,19:30:00,New York Islanders,5,Ottawa Senators,4,SO,15589,,,Friday
+2013-11-01,19:00:00,Washington Capitals,7,Philadelphia Flyers,0,,19702,,,Friday
+2013-11-01,19:00:00,Columbus Blue Jackets,2,Pittsburgh Penguins,4,,18620,,,Friday
+2013-11-02,19:00:00,Anaheim Ducks,6,Buffalo Sabres,3,,19070,,,Saturday
+2013-11-02,19:00:00,Pittsburgh Penguins,3,Columbus Blue Jackets,0,,18634,,,Saturday
+2013-11-02,22:00:00,Montreal Canadiens,1,Colorado Avalanche,4,,18152,,,Saturday
+2013-11-02,22:00:00,Detroit Red Wings,5,Edmonton Oilers,0,,16839,,,Saturday
+2013-11-02,22:30:00,Nashville Predators,4,Los Angeles Kings,3,,18118,,,Saturday
+2013-11-02,19:00:00,Philadelphia Flyers,1,New Jersey Devils,0,,13705,,,Saturday
+2013-11-02,19:00:00,Boston Bruins,1,New York Islanders,3,,14018,,,Saturday
+2013-11-02,19:00:00,Carolina Hurricanes,1,New York Rangers,5,,18006,,,Saturday
+2013-11-02,22:30:00,Phoenix Coyotes,3,San Jose Sharks,2,SO,17562,,,Saturday
+2013-11-02,19:00:00,St. Louis Blues,2,Tampa Bay Lightning,4,,18885,,,Saturday
+2013-11-02,19:00:00,Toronto Maple Leafs,0,Vancouver Canucks,4,,18910,,,Saturday
+2013-11-02,15:00:00,Chicago Blackhawks,5,Winnipeg Jets,1,,15004,,,Saturday
+2013-11-02,19:00:00,Florida Panthers,2,Washington Capitals,3,SO,18506,,,Saturday
+2013-11-03,19:30:00,Calgary Flames,3,Chicago Blackhawks,2,OT,21229,,,Sunday
+2013-11-03,20:00:00,New Jersey Devils,0,Minnesota Wild,4,,17571,,,Sunday
+2013-11-03,13:00:00,Dallas Stars,4,Ottawa Senators,3,SO,18106,,,Sunday
+2013-11-04,19:30:00,Anaheim Ducks,2,New York Rangers,1,,18006,,,Monday
+2013-11-04,20:00:00,Detroit Red Wings,2,Winnipeg Jets,4,,15004,,,Monday
+2013-11-05,19:00:00,Dallas Stars,3,Boston Bruins,2,SO,17565,,,Tuesday
+2013-11-05,19:30:00,Philadelphia Flyers,1,Carolina Hurricanes,2,OT,15519,,,Tuesday
+2013-11-05,19:00:00,Ottawa Senators,4,Columbus Blue Jackets,1,,13122,,,Tuesday
+2013-11-05,19:30:00,Edmonton Oilers,4,Florida Panthers,3,OT,12035,,,Tuesday
+2013-11-05,20:00:00,Calgary Flames,1,Minnesota Wild,5,,17708,,,Tuesday
+2013-11-05,19:30:00,St. Louis Blues,3,Montreal Canadiens,2,SO,21273,,,Tuesday
+2013-11-05,21:00:00,Vancouver Canucks,2,Phoenix Coyotes,3,SO,13459,,,Tuesday
+2013-11-05,22:30:00,Buffalo Sabres,5,San Jose Sharks,4,SO,17562,,,Tuesday
+2013-11-05,19:00:00,New York Islanders,2,Washington Capitals,6,,18506,,,Tuesday
+2013-11-06,22:00:00,Phoenix Coyotes,2,Anaheim Ducks,5,,14045,,,Wednesday
+2013-11-06,20:00:00,Winnipeg Jets,1,Chicago Blackhawks,4,,21122,,,Wednesday
+2013-11-06,21:30:00,Nashville Predators,6,Colorado Avalanche,4,,14043,,,Wednesday
+2013-11-06,19:30:00,Pittsburgh Penguins,1,New York Rangers,5,,18006,,,Wednesday
+2013-11-07,19:00:00,Florida Panthers,1,Boston Bruins,4,,17565,,,Thursday
+2013-11-07,19:00:00,New York Islanders,0,Carolina Hurricanes,1,,11541,,,Thursday
+2013-11-07,19:00:00,New York Rangers,4,Columbus Blue Jackets,2,,11746,,,Thursday
+2013-11-07,19:30:00,Dallas Stars,4,Detroit Red Wings,3,OT,20066,,,Thursday
+2013-11-07,22:30:00,Buffalo Sabres,0,Los Angeles Kings,2,,18118,,,Thursday
+2013-11-07,19:00:00,Montreal Canadiens,1,Ottawa Senators,4,,19292,,,Thursday
+2013-11-07,19:00:00,New Jersey Devils,3,Philadelphia Flyers,0,,19604,,,Thursday
+2013-11-07,22:30:00,Vancouver Canucks,4,San Jose Sharks,2,,17562,,,Thursday
+2013-11-07,20:00:00,Calgary Flames,2,St. Louis Blues,3,,14877,,,Thursday
+2013-11-07,19:30:00,Edmonton Oilers,2,Tampa Bay Lightning,4,,18695,,,Thursday
+2013-11-07,19:00:00,Minnesota Wild,2,Washington Capitals,3,SO,18506,,,Thursday
+2013-11-08,22:00:00,Buffalo Sabres,2,Anaheim Ducks,6,,15577,,,Friday
+2013-11-08,21:00:00,Calgary Flames,2,Colorado Avalanche,4,,17620,,,Friday
+2013-11-08,19:30:00,New Jersey Devils,1,Toronto Maple Leafs,2,SO,19377,,,Friday
+2013-11-08,20:00:00,Nashville Predators,0,Winnipeg Jets,5,,15004,,,Friday
+2013-11-09,19:00:00,Toronto Maple Leafs,1,Boston Bruins,3,,17565,,,Saturday
+2013-11-09,19:00:00,Minnesota Wild,3,Carolina Hurricanes,2,SO,14704,,,Saturday
+2013-11-09,19:00:00,New York Islanders,2,Columbus Blue Jackets,5,,13949,,,Saturday
+2013-11-09,20:00:00,Chicago Blackhawks,5,Dallas Stars,2,,17167,,,Saturday
+2013-11-09,19:00:00,Tampa Bay Lightning,3,Detroit Red Wings,2,OT,20066,,,Saturday
+2013-11-09,22:00:00,Vancouver Canucks,1,Los Angeles Kings,5,,18118,,,Saturday
+2013-11-09,14:00:00,Florida Panthers,2,Ottawa Senators,3,,16244,,,Saturday
+2013-11-09,13:00:00,Edmonton Oilers,2,Philadelphia Flyers,4,,19725,,,Saturday
+2013-11-09,20:00:00,Washington Capitals,3,Phoenix Coyotes,4,SO,16106,,,Saturday
+2013-11-09,20:00:00,Pittsburgh Penguins,1,St. Louis Blues,2,,18685,,,Saturday
+2013-11-10,20:00:00,Vancouver Canucks,1,Anaheim Ducks,3,,17174,,,Sunday
+2013-11-10,19:30:00,Edmonton Oilers,4,Chicago Blackhawks,5,,21185,,,Sunday
+2013-11-10,20:00:00,Washington Capitals,1,Colorado Avalanche,4,,17625,,,Sunday
+2013-11-10,18:00:00,New York Islanders,2,Montreal Canadiens,4,,21273,,,Sunday
+2013-11-10,19:00:00,Nashville Predators,0,New Jersey Devils,5,,12964,,,Sunday
+2013-11-10,19:00:00,Florida Panthers,3,New York Rangers,4,,18006,,,Sunday
+2013-11-10,20:00:00,San Jose Sharks,4,Winnipeg Jets,5,SO,15004,,,Sunday
+2013-11-11,13:00:00,Tampa Bay Lightning,0,Boston Bruins,3,,17565,,,Monday
+2013-11-12,19:00:00,Los Angeles Kings,2,Buffalo Sabres,3,SO,18281,,,Tuesday
+2013-11-12,19:00:00,Colorado Avalanche,1,Carolina Hurricanes,2,,13278,,,Tuesday
+2013-11-12,21:00:00,San Jose Sharks,3,Calgary Flames,2,OT,19289,,,Tuesday
+2013-11-12,19:30:00,Winnipeg Jets,3,Detroit Red Wings,2,SO,20066,,,Tuesday
+2013-11-12,19:30:00,Anaheim Ducks,2,Florida Panthers,3,,13354,,,Tuesday
+2013-11-12,19:30:00,Tampa Bay Lightning,2,Montreal Canadiens,1,SO,21273,,,Tuesday
+2013-11-12,19:00:00,Nashville Predators,1,New York Islanders,3,,12108,,,Tuesday
+2013-11-12,19:00:00,New Jersey Devils,3,New York Rangers,2,,18006,,,Tuesday
+2013-11-12,19:30:00,Philadelphia Flyers,5,Ottawa Senators,0,,16398,,,Tuesday
+2013-11-12,20:00:00,Phoenix Coyotes,3,St. Louis Blues,2,OT,15678,,,Tuesday
+2013-11-12,19:00:00,Columbus Blue Jackets,3,Washington Capitals,4,OT,18506,,,Tuesday
+2013-11-13,22:00:00,Dallas Stars,3,Edmonton Oilers,0,,16839,,,Wednesday
+2013-11-13,19:30:00,Toronto Maple Leafs,1,Minnesota Wild,2,SO,17897,,,Wednesday
+2013-11-13,20:00:00,Philadelphia Flyers,2,Pittsburgh Penguins,1,,18656,,,Wednesday
+2013-11-14,19:00:00,Columbus Blue Jackets,2,Boston Bruins,3,OT,17565,,,Thursday
+2013-11-14,21:00:00,Dallas Stars,7,Calgary Flames,3,,19289,,,Thursday
+2013-11-14,20:00:00,Phoenix Coyotes,4,Chicago Blackhawks,5,SO,21762,,,Thursday
+2013-11-14,19:00:00,Los Angeles Kings,3,New York Islanders,2,,13922,,,Thursday
+2013-11-14,20:00:00,Colorado Avalanche,3,St. Louis Blues,7,,14190,,,Thursday
+2013-11-14,19:30:00,Anaheim Ducks,1,Tampa Bay Lightning,5,,17763,,,Thursday
+2013-11-14,22:00:00,San Jose Sharks,2,Vancouver Canucks,1,OT,18910,,,Thursday
+2013-11-15,19:00:00,Toronto Maple Leafs,1,Buffalo Sabres,3,,19070,,,Friday
+2013-11-15,19:00:00,Anaheim Ducks,2,Carolina Hurricanes,3,SO,14802,,,Friday
+2013-11-15,19:00:00,Montreal Canadiens,3,Columbus Blue Jackets,2,SO,11562,,,Friday
+2013-11-15,19:30:00,Washington Capitals,4,Detroit Red Wings,3,SO,20066,,,Friday
+2013-11-15,22:00:00,San Jose Sharks,3,Edmonton Oilers,1,,16839,,,Friday
+2013-11-15,20:00:00,Florida Panthers,2,Minnesota Wild,3,,18102,,,Friday
+2013-11-15,19:00:00,Los Angeles Kings,2,New Jersey Devils,0,,12168,,,Friday
+2013-11-15,19:30:00,Boston Bruins,2,Ottawa Senators,4,,19538,,,Friday
+2013-11-15,19:00:00,Nashville Predators,1,Pittsburgh Penguins,4,,18606,,,Friday
+2013-11-15,20:00:00,Philadelphia Flyers,2,Winnipeg Jets,3,SO,15004,,,Friday
+2013-11-16,22:00:00,Edmonton Oilers,4,Calgary Flames,2,,19289,,,Saturday
+2013-11-16,21:00:00,Florida Panthers,4,Colorado Avalanche,1,,17321,,,Saturday
+2013-11-16,19:00:00,New York Rangers,1,Montreal Canadiens,0,,21273,,,Saturday
+2013-11-16,19:00:00,Pittsburgh Penguins,1,New Jersey Devils,4,,14205,,,Saturday
+2013-11-16,20:00:00,Chicago Blackhawks,2,Nashville Predators,7,,17113,,,Saturday
+2013-11-16,19:00:00,Detroit Red Wings,4,New York Islanders,5,SO,15619,,,Saturday
+2013-11-16,20:00:00,Tampa Bay Lightning,3,Phoenix Coyotes,6,,12562,,,Saturday
+2013-11-16,20:00:00,Carolina Hurricanes,2,St. Louis Blues,4,,17936,,,Saturday
+2013-11-16,19:00:00,Buffalo Sabres,2,Toronto Maple Leafs,4,,19447,,,Saturday
+2013-11-17,19:00:00,San Jose Sharks,1,Chicago Blackhawks,5,,21434,,,Sunday
+2013-11-17,20:00:00,Winnipeg Jets,1,Minnesota Wild,2,,18283,,,Sunday
+2013-11-17,19:00:00,Los Angeles Kings,1,New York Rangers,0,,18006,,,Sunday
+2013-11-17,13:00:00,Columbus Blue Jackets,4,Ottawa Senators,1,,15535,,,Sunday
+2013-11-17,20:00:00,Dallas Stars,2,Vancouver Canucks,1,,18910,,,Sunday
+2013-11-17,18:00:00,St. Louis Blues,1,Washington Capitals,4,,18506,,,Sunday
+2013-11-18,19:00:00,Boston Bruins,4,Carolina Hurricanes,1,,13919,,,Monday
+2013-11-18,19:30:00,Anaheim Ducks,1,Pittsburgh Penguins,3,,18614,,,Monday
+2013-11-18,20:00:00,Calgary Flames,5,Winnipeg Jets,4,SO,15004,,,Monday
+2013-11-19,19:00:00,St. Louis Blues,4,Buffalo Sabres,1,,17710,,,Tuesday
+2013-11-19,21:00:00,Chicago Blackhawks,1,Colorado Avalanche,5,,17348,,,Tuesday
+2013-11-19,19:30:00,Nashville Predators,2,Detroit Red Wings,0,,20066,,,Tuesday
+2013-11-19,21:30:00,Columbus Blue Jackets,0,Edmonton Oilers,7,,16839,,,Tuesday
+2013-11-19,22:30:00,Tampa Bay Lightning,2,Los Angeles Kings,5,,18118,,,Tuesday
+2013-11-19,19:30:00,Minnesota Wild,2,Montreal Canadiens,6,,21273,,,Tuesday
+2013-11-19,19:30:00,Boston Bruins,2,New York Rangers,1,,18006,,,Tuesday
+2013-11-19,19:00:00,Ottawa Senators,2,Philadelphia Flyers,5,,19724,,,Tuesday
+2013-11-19,19:00:00,New York Islanders,2,Toronto Maple Leafs,5,,19446,,,Tuesday
+2013-11-19,22:00:00,Florida Panthers,3,Vancouver Canucks,2,SO,18910,,,Tuesday
+2013-11-20,22:00:00,New Jersey Devils,4,Anaheim Ducks,3,OT,14306,,,Wednesday
+2013-11-20,22:00:00,Columbus Blue Jackets,2,Calgary Flames,1,OT,19289,,,Wednesday
+2013-11-20,19:30:00,Minnesota Wild,4,Ottawa Senators,3,,16642,,,Wednesday
+2013-11-20,20:00:00,Pittsburgh Penguins,4,Washington Capitals,0,,18506,,,Wednesday
+2013-11-21,19:00:00,St. Louis Blues,3,Boston Bruins,2,SO,17565,,,Thursday
+2013-11-21,20:30:00,New York Rangers,3,Dallas Stars,2,,15127,,,Thursday
+2013-11-21,19:30:00,Carolina Hurricanes,3,Detroit Red Wings,4,,20066,,,Thursday
+2013-11-21,21:30:00,Florida Panthers,1,Edmonton Oilers,4,,16839,,,Thursday
+2013-11-21,22:30:00,New Jersey Devils,2,Los Angeles Kings,1,OT,18118,,,Thursday
+2013-11-21,19:00:00,Buffalo Sabres,1,Philadelphia Flyers,4,,19973,,,Thursday
+2013-11-21,21:00:00,Colorado Avalanche,4,Phoenix Coyotes,3,OT,12285,,,Thursday
+2013-11-21,22:30:00,Tampa Bay Lightning,1,San Jose Sharks,5,,17562,,,Thursday
+2013-11-21,19:00:00,Nashville Predators,4,Toronto Maple Leafs,2,,19256,,,Thursday
+2013-11-21,20:00:00,Chicago Blackhawks,6,Winnipeg Jets,3,,15004,,,Thursday
+2013-11-22,22:00:00,Tampa Bay Lightning,0,Anaheim Ducks,1,OT,16648,,,Friday
+2013-11-22,21:00:00,Florida Panthers,3,Calgary Flames,4,SO,19289,,,Friday
+2013-11-22,19:00:00,New York Islanders,3,Pittsburgh Penguins,4,,18515,,,Friday
+2013-11-22,22:00:00,Columbus Blue Jackets,2,Vancouver Canucks,6,,18910,,,Friday
+2013-11-22,19:00:00,Montreal Canadiens,3,Washington Capitals,2,,18506,,,Friday
+2013-11-23,13:00:00,Carolina Hurricanes,2,Boston Bruins,3,OT,17565,,,Saturday
+2013-11-23,19:00:00,Ottawa Senators,4,Detroit Red Wings,2,,20066,,,Saturday
+2013-11-23,22:30:00,Colorado Avalanche,1,Los Angeles Kings,0,OT,18118,,,Saturday
+2013-11-23,19:00:00,Pittsburgh Penguins,2,Montreal Canadiens,3,,21273,,,Saturday
+2013-11-23,20:00:00,New York Rangers,2,Nashville Predators,0,,17127,,,Saturday
+2013-11-23,19:00:00,New York Islanders,2,Philadelphia Flyers,5,,19829,,,Saturday
+2013-11-23,20:00:00,Anaheim Ducks,4,Phoenix Coyotes,2,,13490,,,Saturday
+2013-11-23,22:30:00,New Jersey Devils,1,San Jose Sharks,2,,17562,,,Saturday
+2013-11-23,20:00:00,Dallas Stars,1,St. Louis Blues,6,,18037,,,Saturday
+2013-11-23,19:00:00,Washington Capitals,1,Toronto Maple Leafs,2,SO,19473,,,Saturday
+2013-11-23,22:00:00,Chicago Blackhawks,2,Vancouver Canucks,1,,18910,,,Saturday
+2013-11-23,15:00:00,Minnesota Wild,3,Winnipeg Jets,2,SO,15004,,,Saturday
+2013-11-24,17:00:00,Detroit Red Wings,3,Buffalo Sabres,1,,18721,,,Sunday
+2013-11-24,17:00:00,Ottawa Senators,1,Carolina Hurricanes,4,,13657,,,Sunday
+2013-11-25,19:00:00,Pittsburgh Penguins,3,Boston Bruins,4,OT,17565,,,Monday
+2013-11-25,21:30:00,Chicago Blackhawks,5,Edmonton Oilers,1,,16839,,,Monday
+2013-11-25,19:30:00,Philadelphia Flyers,1,Florida Panthers,3,,14299,,,Monday
+2013-11-25,19:00:00,Winnipeg Jets,3,New Jersey Devils,1,,12253,,,Monday
+2013-11-25,20:00:00,Phoenix Coyotes,2,Nashville Predators,4,,15728,,,Monday
+2013-11-25,20:00:00,Minnesota Wild,0,St. Louis Blues,3,,15832,,,Monday
+2013-11-25,19:30:00,New York Rangers,0,Tampa Bay Lightning,5,,19204,,,Monday
+2013-11-25,19:00:00,Columbus Blue Jackets,6,Toronto Maple Leafs,0,,19241,,,Monday
+2013-11-25,22:00:00,Los Angeles Kings,3,Vancouver Canucks,2,OT,18910,,,Monday
+2013-11-26,20:00:00,Anaheim Ducks,3,Dallas Stars,6,,15792,,,Tuesday
+2013-11-27,19:00:00,Montreal Canadiens,3,Buffalo Sabres,1,,18497,,,Wednesday
+2013-11-27,19:00:00,Nashville Predators,4,Columbus Blue Jackets,0,,11893,,,Wednesday
+2013-11-27,22:00:00,Chicago Blackhawks,3,Calgary Flames,2,,19289,,,Wednesday
+2013-11-27,21:00:00,St. Louis Blues,4,Colorado Avalanche,1,,17595,,,Wednesday
+2013-11-27,19:30:00,Boston Bruins,1,Detroit Red Wings,6,,20066,,,Wednesday
+2013-11-27,19:30:00,New York Rangers,5,Florida Panthers,2,,17268,,,Wednesday
+2013-11-27,20:00:00,Phoenix Coyotes,3,Minnesota Wild,1,,18265,,,Wednesday
+2013-11-27,19:00:00,Carolina Hurricanes,4,New Jersey Devils,3,,16592,,,Wednesday
+2013-11-27,19:00:00,Winnipeg Jets,3,New York Islanders,2,,12008,,,Wednesday
+2013-11-27,19:30:00,Toronto Maple Leafs,5,Pittsburgh Penguins,6,SO,18660,,,Wednesday
+2013-11-27,22:30:00,Los Angeles Kings,2,San Jose Sharks,3,SO,17562,,,Wednesday
+2013-11-27,19:30:00,Philadelphia Flyers,2,Tampa Bay Lightning,4,,18427,,,Wednesday
+2013-11-27,19:00:00,Ottawa Senators,6,Washington Capitals,4,,18506,,,Wednesday
+2013-11-28,20:00:00,Edmonton Oilers,3,Nashville Predators,0,,16279,,,Thursday
+2013-11-28,19:30:00,Vancouver Canucks,5,Ottawa Senators,2,,17931,,,Thursday
+2013-11-29,16:00:00,Calgary Flames,2,Anaheim Ducks,5,,17174,,,Friday
+2013-11-29,13:00:00,New York Rangers,2,Boston Bruins,3,,17565,,,Friday
+2013-11-29,19:30:00,Toronto Maple Leafs,2,Buffalo Sabres,3,OT,19070,,,Friday
+2013-11-29,19:00:00,New Jersey Devils,5,Carolina Hurricanes,2,,15034,,,Friday
+2013-11-29,19:00:00,Edmonton Oilers,2,Columbus Blue Jackets,4,,14360,,,Friday
+2013-11-29,20:30:00,Chicago Blackhawks,2,Dallas Stars,1,SO,18532,,,Friday
+2013-11-29,18:00:00,Colorado Avalanche,3,Minnesota Wild,1,,19081,,,Friday
+2013-11-29,16:00:00,Detroit Red Wings,5,New York Islanders,0,,14826,,,Friday
+2013-11-29,11:30:00,Winnipeg Jets,1,Philadelphia Flyers,2,,19937,,,Friday
+2013-11-29,16:00:00,St. Louis Blues,3,San Jose Sharks,6,,17562,,,Friday
+2013-11-29,16:00:00,Pittsburgh Penguins,3,Tampa Bay Lightning,0,,19065,,,Friday
+2013-11-29,17:00:00,Montreal Canadiens,2,Washington Capitals,3,SO,18506,,,Friday
+2013-11-30,19:00:00,Columbus Blue Jackets,1,Boston Bruins,3,,17565,,,Saturday
+2013-11-30,21:00:00,Minnesota Wild,2,Colorado Avalanche,3,SO,17857,,,Saturday
+2013-11-30,19:00:00,Pittsburgh Penguins,5,Florida Panthers,1,,17583,,,Saturday
+2013-11-30,22:00:00,Calgary Flames,2,Los Angeles Kings,1,,18118,,,Saturday
+2013-11-30,19:00:00,Toronto Maple Leafs,2,Montreal Canadiens,4,,21273,,,Saturday
+2013-11-30,19:00:00,Buffalo Sabres,0,New Jersey Devils,1,OT,15226,,,Saturday
+2013-11-30,20:00:00,Philadelphia Flyers,3,Nashville Predators,2,SO,17136,,,Saturday
+2013-11-30,19:00:00,Washington Capitals,3,New York Islanders,2,OT,14819,,,Saturday
+2013-11-30,14:00:00,Vancouver Canucks,2,New York Rangers,5,,18006,,,Saturday
+2013-11-30,20:00:00,Chicago Blackhawks,5,Phoenix Coyotes,2,,17321,,,Saturday
+2013-11-30,22:30:00,Anaheim Ducks,3,San Jose Sharks,4,SO,17562,,,Saturday
+2013-12-01,13:00:00,Vancouver Canucks,3,Carolina Hurricanes,2,,14916,,,Sunday
+2013-12-01,18:00:00,Edmonton Oilers,3,Dallas Stars,2,SO,12673,,,Sunday
+2013-12-01,17:30:00,Detroit Red Wings,4,Ottawa Senators,2,,20011,,,Sunday
+2013-12-02,22:30:00,St. Louis Blues,2,Los Angeles Kings,3,,18118,,,Monday
+2013-12-02,20:00:00,Philadelphia Flyers,0,Minnesota Wild,2,,17676,,,Monday
+2013-12-02,19:30:00,New Jersey Devils,2,Montreal Canadiens,3,,21273,,,Monday
+2013-12-02,19:00:00,Winnipeg Jets,5,New York Rangers,2,,18006,,,Monday
+2013-12-03,22:00:00,Los Angeles Kings,3,Anaheim Ducks,2,SO,17294,,,Tuesday
+2013-12-03,19:00:00,Tampa Bay Lightning,0,Columbus Blue Jackets,1,,10223,,,Tuesday
+2013-12-03,20:00:00,Dallas Stars,4,Chicago Blackhawks,3,,21411,,,Tuesday
+2013-12-03,21:30:00,Phoenix Coyotes,6,Edmonton Oilers,2,,16839,,,Tuesday
+2013-12-03,19:30:00,Ottawa Senators,4,Florida Panthers,2,,10074,,,Tuesday
+2013-12-03,20:00:00,Vancouver Canucks,3,Nashville Predators,1,,15330,,,Tuesday
+2013-12-03,19:00:00,Pittsburgh Penguins,3,New York Islanders,2,OT,13915,,,Tuesday
+2013-12-03,19:00:00,San Jose Sharks,4,Toronto Maple Leafs,2,,19360,,,Tuesday
+2013-12-03,19:00:00,Carolina Hurricanes,4,Washington Capitals,1,,18506,,,Tuesday
+2013-12-04,22:00:00,Phoenix Coyotes,1,Calgary Flames,4,,19289,,,Wednesday
+2013-12-04,20:00:00,Philadelphia Flyers,6,Detroit Red Wings,3,,20066,,,Wednesday
+2013-12-04,19:00:00,Montreal Canadiens,4,New Jersey Devils,3,SO,12742,,,Wednesday
+2013-12-05,19:00:00,New York Rangers,3,Buffalo Sabres,1,,18088,,,Thursday
+2013-12-05,21:30:00,Colorado Avalanche,2,Edmonton Oilers,8,,16839,,,Thursday
+2013-12-05,19:30:00,Winnipeg Jets,2,Florida Panthers,5,,10966,,,Thursday
+2013-12-05,20:00:00,Chicago Blackhawks,3,Minnesota Wild,4,,18852,,,Thursday
+2013-12-05,19:30:00,Boston Bruins,1,Montreal Canadiens,2,,21273,,,Thursday
+2013-12-05,20:00:00,Carolina Hurricanes,5,Nashville Predators,2,,15768,,,Thursday
+2013-12-05,19:00:00,San Jose Sharks,1,Pittsburgh Penguins,5,,18522,,,Thursday
+2013-12-05,20:00:00,New York Islanders,1,St. Louis Blues,5,,14152,,,Thursday
+2013-12-05,19:30:00,Ottawa Senators,1,Tampa Bay Lightning,3,,16562,,,Thursday
+2013-12-05,19:00:00,Dallas Stars,2,Toronto Maple Leafs,3,OT,19164,,,Thursday
+2013-12-06,19:00:00,San Jose Sharks,3,Carolina Hurricanes,5,,14553,,,Friday
+2013-12-06,19:00:00,Minnesota Wild,0,Columbus Blue Jackets,4,,11319,,,Friday
+2013-12-06,21:00:00,Colorado Avalanche,3,Calgary Flames,2,,19289,,,Friday
+2013-12-06,20:00:00,Anaheim Ducks,3,Chicago Blackhawks,2,SO,21586,,,Friday
+2013-12-06,19:00:00,Detroit Red Wings,3,New Jersey Devils,1,,13223,,,Friday
+2013-12-06,22:00:00,Phoenix Coyotes,2,Vancouver Canucks,3,OT,18910,,,Friday
+2013-12-07,19:00:00,Pittsburgh Penguins,2,Boston Bruins,3,,17565,,,Saturday
+2013-12-07,14:00:00,Philadelphia Flyers,1,Dallas Stars,5,,8567,,,Saturday
+2013-12-07,19:00:00,Florida Panthers,2,Detroit Red Wings,1,,20066,,,Saturday
+2013-12-07,22:00:00,Calgary Flames,2,Edmonton Oilers,1,OT,16839,,,Saturday
+2013-12-07,22:30:00,New York Islanders,0,Los Angeles Kings,3,,18118,,,Saturday
+2013-12-07,19:00:00,Buffalo Sabres,2,Montreal Canadiens,3,,21273,,,Saturday
+2013-12-07,19:30:00,New Jersey Devils,4,New York Rangers,3,OT,18006,,,Saturday
+2013-12-07,19:00:00,Toronto Maple Leafs,4,Ottawa Senators,3,SO,19559,,,Saturday
+2013-12-07,20:00:00,Anaheim Ducks,5,St. Louis Blues,2,,17646,,,Saturday
+2013-12-07,19:00:00,Winnipeg Jets,2,Tampa Bay Lightning,1,OT,18354,,,Saturday
+2013-12-07,19:00:00,Nashville Predators,2,Washington Capitals,5,,18506,,,Saturday
+2013-12-08,19:00:00,Florida Panthers,2,Chicago Blackhawks,6,,21119,,,Sunday
+2013-12-08,18:00:00,San Jose Sharks,1,Minnesota Wild,3,,18411,,,Sunday
+2013-12-08,19:00:00,Washington Capitals,4,New York Rangers,1,,18006,,,Sunday
+2013-12-08,19:00:00,Boston Bruins,5,Toronto Maple Leafs,2,,19165,,,Sunday
+2013-12-08,20:00:00,Colorado Avalanche,1,Vancouver Canucks,3,,18910,,,Sunday
+2013-12-09,22:00:00,New York Islanders,2,Anaheim Ducks,5,,14830,,,Monday
+2013-12-09,19:30:00,Philadelphia Flyers,4,Ottawa Senators,5,SO,15786,,,Monday
+2013-12-09,19:30:00,Columbus Blue Jackets,1,Pittsburgh Penguins,2,,18520,,,Monday
+2013-12-09,22:00:00,Carolina Hurricanes,0,Vancouver Canucks,2,,18910,,,Monday
+2013-12-10,19:00:00,Ottawa Senators,1,Buffalo Sabres,2,SO,18594,,,Tuesday
+2013-12-10,19:00:00,New Jersey Devils,4,Columbus Blue Jackets,5,,11905,,,Tuesday
+2013-12-10,21:30:00,Boston Bruins,2,Calgary Flames,1,,19289,,,Tuesday
+2013-12-10,21:00:00,Phoenix Coyotes,3,Colorado Avalanche,1,,14110,,,Tuesday
+2013-12-10,20:30:00,Chicago Blackhawks,6,Dallas Stars,2,,12542,,,Tuesday
+2013-12-10,21:30:00,Carolina Hurricanes,4,Edmonton Oilers,5,OT,16839,,,Tuesday
+2013-12-10,19:30:00,Detroit Red Wings,2,Florida Panthers,3,SO,13358,,,Tuesday
+2013-12-10,19:00:00,Los Angeles Kings,6,Montreal Canadiens,0,,21273,,,Tuesday
+2013-12-10,19:30:00,Nashville Predators,4,New York Rangers,1,,18006,,,Tuesday
+2013-12-10,22:30:00,New York Islanders,3,San Jose Sharks,2,SO,17562,,,Tuesday
+2013-12-10,20:00:00,St. Louis Blues,2,Winnipeg Jets,1,,15004,,,Tuesday
+2013-12-10,19:00:00,Tampa Bay Lightning,5,Washington Capitals,6,SO,18506,,,Tuesday
+2013-12-11,22:30:00,Minnesota Wild,1,Anaheim Ducks,2,,15252,,,Wednesday
+2013-12-11,20:00:00,Philadelphia Flyers,2,Chicago Blackhawks,7,,21144,,,Wednesday
+2013-12-11,19:30:00,Los Angeles Kings,3,Toronto Maple Leafs,1,,19375,,,Wednesday
+2013-12-12,21:00:00,Carolina Hurricanes,1,Calgary Flames,2,OT,19289,,,Thursday
+2013-12-12,21:30:00,Boston Bruins,4,Edmonton Oilers,2,,16839,,,Thursday
+2013-12-12,20:00:00,Dallas Stars,1,Nashville Predators,3,,16347,,,Thursday
+2013-12-12,19:00:00,Columbus Blue Jackets,4,New York Rangers,2,,18006,,,Thursday
+2013-12-12,19:30:00,Buffalo Sabres,1,Ottawa Senators,2,,15578,,,Thursday
+2013-12-12,19:00:00,Montreal Canadiens,1,Philadelphia Flyers,2,,19748,,,Thursday
+2013-12-12,21:00:00,New York Islanders,3,Phoenix Coyotes,6,,10996,,,Thursday
+2013-12-12,22:30:00,Minnesota Wild,1,San Jose Sharks,3,,17562,,,Thursday
+2013-12-12,20:00:00,Toronto Maple Leafs,3,St. Louis Blues,6,,16073,,,Thursday
+2013-12-12,19:30:00,Detroit Red Wings,1,Tampa Bay Lightning,2,SO,19204,,,Thursday
+2013-12-12,20:00:00,Colorado Avalanche,4,Winnipeg Jets,3,SO,15004,,,Thursday
+2013-12-13,19:30:00,Washington Capitals,2,Florida Panthers,3,SO,15097,,,Friday
+2013-12-13,19:00:00,New Jersey Devils,2,Pittsburgh Penguins,3,,18582,,,Friday
+2013-12-13,21:00:00,Edmonton Oilers,0,Vancouver Canucks,4,,18910,,,Friday
+2013-12-14,14:00:00,Calgary Flames,2,Buffalo Sabres,1,OT,18368,,,Saturday
+2013-12-14,19:00:00,St. Louis Blues,4,Columbus Blue Jackets,3,OT,13801,,,Saturday
+2013-12-14,21:00:00,Minnesota Wild,2,Colorado Avalanche,1,SO,16188,,,Saturday
+2013-12-14,19:00:00,Pittsburgh Penguins,4,Detroit Red Wings,1,,20066,,,Saturday
+2013-12-14,19:00:00,Tampa Bay Lightning,0,New Jersey Devils,3,,13832,,,Saturday
+2013-12-14,20:00:00,San Jose Sharks,2,Nashville Predators,3,,16243,,,Saturday
+2013-12-14,19:00:00,Montreal Canadiens,1,New York Islanders,0,OT,14408,,,Saturday
+2013-12-14,14:00:00,Los Angeles Kings,5,Ottawa Senators,2,,17140,,,Saturday
+2013-12-14,20:00:00,Carolina Hurricanes,3,Phoenix Coyotes,1,,11697,,,Saturday
+2013-12-14,19:00:00,Chicago Blackhawks,3,Toronto Maple Leafs,7,,19603,,,Saturday
+2013-12-14,22:00:00,Boston Bruins,2,Vancouver Canucks,6,,18910,,,Saturday
+2013-12-14,15:00:00,Dallas Stars,6,Winnipeg Jets,4,,15004,,,Saturday
+2013-12-15,20:00:00,Edmonton Oilers,2,Anaheim Ducks,3,,16301,,,Sunday
+2013-12-15,19:00:00,Los Angeles Kings,1,Chicago Blackhawks,3,,21426,,,Sunday
+2013-12-15,17:00:00,Tampa Bay Lightning,3,Detroit Red Wings,0,,20066,,,Sunday
+2013-12-15,18:00:00,Florida Panthers,2,Montreal Canadiens,1,,21273,,,Sunday
+2013-12-15,19:00:00,Calgary Flames,3,New York Rangers,4,SO,18006,,,Sunday
+2013-12-15,15:00:00,Philadelphia Flyers,4,Washington Capitals,5,SO,18506,,,Sunday
+2013-12-16,19:00:00,Winnipeg Jets,3,Columbus Blue Jackets,2,,11448,,,Monday
+2013-12-16,21:00:00,Dallas Stars,2,Colorado Avalanche,6,,13915,,,Monday
+2013-12-16,19:30:00,St. Louis Blues,2,Ottawa Senators,3,OT,16008,,,Monday
+2013-12-16,19:00:00,Toronto Maple Leafs,1,Pittsburgh Penguins,3,,18573,,,Monday
+2013-12-17,19:00:00,Calgary Flames,0,Boston Bruins,2,,17565,,,Tuesday
+2013-12-17,19:00:00,Winnipeg Jets,2,Buffalo Sabres,4,,17795,,,Tuesday
+2013-12-17,20:30:00,Colorado Avalanche,2,Dallas Stars,3,,15143,,,Tuesday
+2013-12-17,19:30:00,Anaheim Ducks,5,Detroit Red Wings,2,,20066,,,Tuesday
+2013-12-17,22:30:00,Edmonton Oilers,0,Los Angeles Kings,3,,18118,,,Tuesday
+2013-12-17,20:00:00,Vancouver Canucks,2,Minnesota Wild,3,SO,18531,,,Tuesday
+2013-12-17,19:30:00,Phoenix Coyotes,1,Montreal Canadiens,3,,21273,,,Tuesday
+2013-12-17,20:00:00,Chicago Blackhawks,3,Nashville Predators,1,,16219,,,Tuesday
+2013-12-17,19:00:00,Tampa Bay Lightning,3,New York Islanders,2,SO,13618,,,Tuesday
+2013-12-17,19:30:00,Washington Capitals,2,Philadelphia Flyers,5,,19788,,,Tuesday
+2013-12-17,20:00:00,San Jose Sharks,4,St. Louis Blues,2,,16323,,,Tuesday
+2013-12-17,19:00:00,Florida Panthers,3,Toronto Maple Leafs,1,,19076,,,Tuesday
+2013-12-18,19:30:00,Ottawa Senators,2,New Jersey Devils,5,,14032,,,Wednesday
+2013-12-18,20:00:00,Pittsburgh Penguins,4,New York Rangers,3,SO,18006,,,Wednesday
+2013-12-19,19:00:00,Boston Bruins,2,Buffalo Sabres,4,,18217,,,Thursday
+2013-12-19,21:30:00,Edmonton Oilers,2,Colorado Avalanche,4,,13135,,,Thursday
+2013-12-19,20:30:00,Vancouver Canucks,1,Dallas Stars,4,,15644,,,Thursday
+2013-12-19,19:30:00,Calgary Flames,2,Detroit Red Wings,3,OT,20066,,,Thursday
+2013-12-19,22:30:00,San Jose Sharks,1,Los Angeles Kings,4,,18118,,,Thursday
+2013-12-19,19:30:00,Florida Panthers,4,Ottawa Senators,2,,15927,,,Thursday
+2013-12-19,19:00:00,Columbus Blue Jackets,4,Philadelphia Flyers,5,,19852,,,Thursday
+2013-12-19,19:00:00,Minnesota Wild,2,Pittsburgh Penguins,5,,18623,,,Thursday
+2013-12-19,20:00:00,Montreal Canadiens,1,St. Louis Blues,5,,17189,,,Thursday
+2013-12-19,19:30:00,Nashville Predators,2,Tampa Bay Lightning,4,,17254,,,Thursday
+2013-12-19,19:00:00,Phoenix Coyotes,1,Toronto Maple Leafs,2,SO,19254,,,Thursday
+2013-12-20,19:00:00,Washington Capitals,4,Carolina Hurricanes,2,,17737,,,Friday
+2013-12-20,20:00:00,Vancouver Canucks,3,Chicago Blackhawks,2,SO,21966,,,Friday
+2013-12-20,19:00:00,Anaheim Ducks,3,New Jersey Devils,2,OT,15723,,,Friday
+2013-12-20,19:00:00,New York Islanders,5,New York Rangers,3,,18006,,,Friday
+2013-12-20,20:00:00,Florida Panthers,2,Winnipeg Jets,5,,15004,,,Friday
+2013-12-21,19:00:00,Buffalo Sabres,1,Boston Bruins,4,,17565,,,Saturday
+2013-12-21,19:00:00,Philadelphia Flyers,3,Columbus Blue Jackets,6,,14090,,,Saturday
+2013-12-21,22:00:00,St. Louis Blues,6,Edmonton Oilers,0,,16839,,,Saturday
+2013-12-21,16:00:00,Colorado Avalanche,2,Los Angeles Kings,3,SO,18118,,,Saturday
+2013-12-21,19:00:00,Montreal Canadiens,4,Nashville Predators,3,OT,16095,,,Saturday
+2013-12-21,19:00:00,Anaheim Ducks,5,New York Islanders,3,,13108,,,Saturday
+2013-12-21,14:00:00,Phoenix Coyotes,4,Ottawa Senators,3,OT,16716,,,Saturday
+2013-12-21,13:00:00,Calgary Flames,3,Pittsburgh Penguins,4,,18663,,,Saturday
+2013-12-21,22:30:00,Dallas Stars,2,San Jose Sharks,3,SO,17562,,,Saturday
+2013-12-21,19:00:00,Carolina Hurricanes,2,Tampa Bay Lightning,3,OT,19204,,,Saturday
+2013-12-21,19:00:00,Detroit Red Wings,5,Toronto Maple Leafs,4,SO,19508,,,Saturday
+2013-12-21,19:00:00,New Jersey Devils,5,Washington Capitals,4,OT,18506,,,Saturday
+2013-12-22,19:30:00,Minnesota Wild,1,New York Rangers,4,,18006,,,Sunday
+2013-12-22,20:00:00,Winnipeg Jets,1,Vancouver Canucks,2,,18910,,,Sunday
+2013-12-23,19:00:00,Phoenix Coyotes,1,Buffalo Sabres,2,OT,18942,,,Monday
+2013-12-23,19:00:00,Columbus Blue Jackets,4,Carolina Hurricanes,3,,16601,,,Monday
+2013-12-23,20:00:00,St. Louis Blues,3,Calgary Flames,4,SO,19289,,,Monday
+2013-12-23,20:00:00,New Jersey Devils,2,Chicago Blackhawks,5,,22019,,,Monday
+2013-12-23,19:30:00,New York Islanders,3,Detroit Red Wings,0,,20066,,,Monday
+2013-12-23,21:30:00,Winnipeg Jets,2,Edmonton Oilers,6,,16839,,,Monday
+2013-12-23,19:30:00,Tampa Bay Lightning,6,Florida Panthers,1,,15942,,,Monday
+2013-12-23,22:30:00,Dallas Stars,5,Los Angeles Kings,2,,18274,,,Monday
+2013-12-23,20:00:00,Boston Bruins,6,Nashville Predators,2,,17207,,,Monday
+2013-12-23,19:00:00,Toronto Maple Leafs,1,New York Rangers,2,SO,18006,,,Monday
+2013-12-23,19:30:00,Pittsburgh Penguins,0,Ottawa Senators,5,,19838,,,Monday
+2013-12-23,19:30:00,Minnesota Wild,1,Philadelphia Flyers,4,,19872,,,Monday
+2013-12-23,22:30:00,Colorado Avalanche,4,San Jose Sharks,5,SO,17562,,,Monday
+2013-12-23,19:00:00,Anaheim Ducks,3,Washington Capitals,2,,18506,,,Monday
+2013-12-27,19:00:00,Ottawa Senators,0,Boston Bruins,5,,17565,,,Friday
+2013-12-27,19:00:00,Pittsburgh Penguins,4,Carolina Hurricanes,3,OT,18124,,,Friday
+2013-12-27,21:00:00,Edmonton Oilers,2,Calgary Flames,0,,19289,,,Friday
+2013-12-27,20:00:00,Colorado Avalanche,2,Chicago Blackhawks,7,,22201,,,Friday
+2013-12-27,20:30:00,Nashville Predators,1,Dallas Stars,4,,17197,,,Friday
+2013-12-27,19:00:00,Columbus Blue Jackets,2,New Jersey Devils,1,SO,16592,,,Friday
+2013-12-27,21:00:00,San Jose Sharks,4,Phoenix Coyotes,3,SO,17125,,,Friday
+2013-12-27,19:30:00,Buffalo Sabres,3,Toronto Maple Leafs,4,SO,19405,,,Friday
+2013-12-27,20:00:00,Minnesota Wild,4,Winnipeg Jets,6,,15004,,,Friday
+2013-12-27,19:00:00,New York Rangers,2,Washington Capitals,3,,18506,,,Friday
+2013-12-28,20:00:00,Phoenix Coyotes,2,Anaheim Ducks,3,OT,17442,,,Saturday
+2013-12-28,22:00:00,Philadelphia Flyers,4,Edmonton Oilers,3,SO,16839,,,Saturday
+2013-12-28,19:00:00,Detroit Red Wings,4,Florida Panthers,3,,18932,,,Saturday
+2013-12-28,20:00:00,Los Angeles Kings,2,Nashville Predators,3,,17113,,,Saturday
+2013-12-28,19:00:00,New Jersey Devils,2,New York Islanders,1,,16012,,,Saturday
+2013-12-28,19:00:00,Boston Bruins,3,Ottawa Senators,4,,20500,,,Saturday
+2013-12-28,20:00:00,Chicago Blackhawks,5,St. Louis Blues,6,SO,20082,,,Saturday
+2013-12-28,19:00:00,Montreal Canadiens,2,Tampa Bay Lightning,1,SO,19204,,,Saturday
+2013-12-29,17:00:00,Washington Capitals,1,Buffalo Sabres,2,SO,19070,,,Sunday
+2013-12-29,18:00:00,Pittsburgh Penguins,5,Columbus Blue Jackets,3,,18871,,,Sunday
+2013-12-29,19:30:00,Vancouver Canucks,2,Calgary Flames,0,,19289,,,Sunday
+2013-12-29,20:00:00,Winnipeg Jets,2,Colorado Avalanche,1,OT,17733,,,Sunday
+2013-12-29,18:00:00,St. Louis Blues,3,Dallas Stars,2,OT,15678,,,Sunday
+2013-12-29,17:00:00,Montreal Canadiens,1,Florida Panthers,4,,19891,,,Sunday
+2013-12-29,20:00:00,New York Islanders,5,Minnesota Wild,4,,18851,,,Sunday
+2013-12-29,22:30:00,Anaheim Ducks,1,San Jose Sharks,3,,17562,,,Sunday
+2013-12-29,19:00:00,New York Rangers,4,Tampa Bay Lightning,3,,19204,,,Sunday
+2013-12-29,19:00:00,Carolina Hurricanes,2,Toronto Maple Leafs,5,,19452,,,Sunday
+2013-12-30,20:00:00,Los Angeles Kings,0,Chicago Blackhawks,1,,22161,,,Monday
+2013-12-30,20:00:00,Detroit Red Wings,4,Nashville Predators,6,,17212,,,Monday
+2013-12-30,19:30:00,Washington Capitals,1,Ottawa Senators,3,,20193,,,Monday
+2013-12-30,22:00:00,Philadelphia Flyers,4,Vancouver Canucks,3,SO,18910,,,Monday
+2013-12-31,20:00:00,San Jose Sharks,3,Anaheim Ducks,6,,17424,,,Tuesday
+2013-12-31,19:00:00,New York Islanders,5,Boston Bruins,3,,17565,,,Tuesday
+2013-12-31,19:00:00,Montreal Canadiens,4,Carolina Hurricanes,5,OT,16807,,,Tuesday
+2013-12-31,21:00:00,Philadelphia Flyers,4,Calgary Flames,1,,19289,,,Tuesday
+2013-12-31,20:00:00,Columbus Blue Jackets,3,Colorado Avalanche,5,,16177,,,Tuesday
+2013-12-31,20:00:00,Los Angeles Kings,2,Dallas Stars,3,,15610,,,Tuesday
+2013-12-31,17:00:00,New York Rangers,2,Florida Panthers,1,SO,16083,,,Tuesday
+2013-12-31,18:00:00,St. Louis Blues,2,Minnesota Wild,1,,18919,,,Tuesday
+2013-12-31,13:00:00,Pittsburgh Penguins,1,New Jersey Devils,2,,16592,,,Tuesday
+2013-12-31,21:00:00,Edmonton Oilers,3,Phoenix Coyotes,4,OT,17416,,,Tuesday
+2013-12-31,19:00:00,Buffalo Sabres,0,Winnipeg Jets,3,,15004,,,Tuesday
+2014-01-01,13:00:00,Toronto Maple Leafs,3,Detroit Red Wings,2,SO,105491,,NHL Winter Classic,Wednesday
+2014-01-01,22:00:00,Tampa Bay Lightning,4,Vancouver Canucks,2,,18910,,,Wednesday
+2014-01-02,19:00:00,Nashville Predators,2,Boston Bruins,3,OT,17565,,,Thursday
+2014-01-02,21:00:00,Philadelphia Flyers,1,Colorado Avalanche,2,,16793,,,Thursday
+2014-01-02,20:30:00,Montreal Canadiens,6,Dallas Stars,4,,13007,,,Thursday
+2014-01-02,20:00:00,Buffalo Sabres,1,Minnesota Wild,4,,18229,,,Thursday
+2014-01-02,19:00:00,Chicago Blackhawks,2,New York Islanders,3,OT,13618,,,Thursday
+2014-01-02,19:30:00,Winnipeg Jets,3,Ottawa Senators,4,,18691,,,Thursday
+2014-01-02,21:00:00,Columbus Blue Jackets,2,Phoenix Coyotes,0,,10539,,,Thursday
+2014-01-02,22:30:00,Edmonton Oilers,1,San Jose Sharks,5,,17562,,,Thursday
+2014-01-02,20:00:00,Los Angeles Kings,0,St. Louis Blues,5,,19839,,,Thursday
+2014-01-02,19:00:00,Carolina Hurricanes,4,Washington Capitals,3,OT,18506,,,Thursday
+2014-01-03,22:00:00,Edmonton Oilers,2,Anaheim Ducks,5,,17174,,,Friday
+2014-01-03,21:00:00,Tampa Bay Lightning,2,Calgary Flames,0,,19289,,,Friday
+2014-01-03,19:00:00,Chicago Blackhawks,5,New Jersey Devils,3,,16592,,,Friday
+2014-01-03,19:00:00,New York Rangers,2,Pittsburgh Penguins,5,,18668,,,Friday
+2014-01-04,13:00:00,Winnipeg Jets,1,Boston Bruins,4,,17565,,,Saturday
+2014-01-04,19:00:00,New Jersey Devils,1,Buffalo Sabres,2,,19070,,,Saturday
+2014-01-04,15:00:00,San Jose Sharks,3,Colorado Avalanche,4,,17154,,,Saturday
+2014-01-04,20:00:00,Detroit Red Wings,5,Dallas Stars,1,,17232,,,Saturday
+2014-01-04,19:00:00,Nashville Predators,4,Florida Panthers,5,SO,15796,,,Saturday
+2014-01-04,22:00:00,Vancouver Canucks,1,Los Angeles Kings,3,,18118,,,Saturday
+2014-01-04,20:00:00,Washington Capitals,3,Minnesota Wild,5,,19022,,,Saturday
+2014-01-04,19:00:00,Ottawa Senators,4,Montreal Canadiens,3,OT,21273,,,Saturday
+2014-01-04,19:00:00,Carolina Hurricanes,3,New York Islanders,2,,14208,,,Saturday
+2014-01-04,20:00:00,Philadelphia Flyers,5,Phoenix Coyotes,3,,14875,,,Saturday
+2014-01-04,20:00:00,Columbus Blue Jackets,2,St. Louis Blues,6,,19611,,,Saturday
+2014-01-04,19:00:00,New York Rangers,7,Toronto Maple Leafs,1,,19362,,,Saturday
+2014-01-05,20:00:00,Vancouver Canucks,3,Anaheim Ducks,4,OT,17174,,,Sunday
+2014-01-05,19:00:00,Nashville Predators,1,Carolina Hurricanes,2,,13994,,,Sunday
+2014-01-05,20:00:00,San Jose Sharks,3,Chicago Blackhawks,2,SO,21599,,,Sunday
+2014-01-05,20:00:00,Tampa Bay Lightning,3,Edmonton Oilers,5,,16839,,,Sunday
+2014-01-05,13:00:00,Winnipeg Jets,5,Pittsburgh Penguins,6,,18652,,,Sunday
+2014-01-06,21:00:00,Calgary Flames,4,Colorado Avalanche,3,,12027,,,Monday
+2014-01-06,19:30:00,Florida Panthers,1,Montreal Canadiens,2,,21273,,,Monday
+2014-01-06,19:00:00,Dallas Stars,3,New York Islanders,7,,11111,,,Monday
+2014-01-06,19:00:00,Columbus Blue Jackets,4,New York Rangers,3,SO,18006,,,Monday
+2014-01-07,22:00:00,Boston Bruins,2,Anaheim Ducks,5,,17238,,,Tuesday
+2014-01-07,21:30:00,St. Louis Blues,5,Edmonton Oilers,2,,16839,,,Tuesday
+2014-01-07,22:30:00,Minnesota Wild,2,Los Angeles Kings,1,SO,18118,,,Tuesday
+2014-01-07,19:30:00,Philadelphia Flyers,3,New Jersey Devils,2,OT,14521,,,Tuesday
+2014-01-07,20:00:00,San Jose Sharks,2,Nashville Predators,3,,15016,,,Tuesday
+2014-01-07,21:00:00,Calgary Flames,0,Phoenix Coyotes,6,,10229,,,Tuesday
+2014-01-07,19:00:00,New York Islanders,5,Toronto Maple Leafs,3,,19164,,,Tuesday
+2014-01-07,22:00:00,Pittsburgh Penguins,5,Vancouver Canucks,4,SO,18910,,,Tuesday
+2014-01-07,20:00:00,Tampa Bay Lightning,4,Winnipeg Jets,2,,15004,,,Tuesday
+2014-01-08,20:00:00,New York Rangers,3,Chicago Blackhawks,2,,21493,,,Wednesday
+2014-01-08,21:30:00,Ottawa Senators,3,Colorado Avalanche,4,OT,12487,,,Wednesday
+2014-01-08,19:30:00,Montreal Canadiens,1,Philadelphia Flyers,3,,19949,,,Wednesday
+2014-01-09,19:00:00,Florida Panthers,2,Buffalo Sabres,1,SO,17872,,,Thursday
+2014-01-09,19:00:00,Toronto Maple Leafs,1,Carolina Hurricanes,6,,16583,,,Thursday
+2014-01-09,21:00:00,St. Louis Blues,5,Calgary Flames,0,,19289,,,Thursday
+2014-01-09,22:30:00,Boston Bruins,2,Los Angeles Kings,4,,18118,,,Thursday
+2014-01-09,19:00:00,Dallas Stars,0,New Jersey Devils,1,,14252,,,Thursday
+2014-01-09,20:00:00,Anaheim Ducks,4,Nashville Predators,3,,15892,,,Thursday
+2014-01-09,21:00:00,Minnesota Wild,4,Phoenix Coyotes,1,,10075,,,Thursday
+2014-01-09,22:30:00,Detroit Red Wings,1,San Jose Sharks,4,,17562,,,Thursday
+2014-01-09,19:30:00,Washington Capitals,4,Tampa Bay Lightning,3,,19204,,,Thursday
+2014-01-10,19:00:00,Carolina Hurricanes,0,Columbus Blue Jackets,3,,16008,,,Friday
+2014-01-10,21:00:00,New York Islanders,2,Colorado Avalanche,1,OT,17430,,,Friday
+2014-01-10,22:00:00,Pittsburgh Penguins,3,Edmonton Oilers,4,OT,16839,,,Friday
+2014-01-10,19:00:00,Dallas Stars,2,New York Rangers,3,,18006,,,Friday
+2014-01-10,22:00:00,St. Louis Blues,1,Vancouver Canucks,2,,18910,,,Friday
+2014-01-10,19:00:00,Toronto Maple Leafs,2,Washington Capitals,3,,18506,,,Friday
+2014-01-11,22:00:00,Pittsburgh Penguins,2,Calgary Flames,1,,19289,,,Saturday
+2014-01-11,22:30:00,Detroit Red Wings,3,Los Angeles Kings,1,,18262,,,Saturday
+2014-01-11,20:00:00,Colorado Avalanche,4,Minnesota Wild,2,,19117,,,Saturday
+2014-01-11,19:00:00,Chicago Blackhawks,1,Montreal Canadiens,2,OT,21273,,,Saturday
+2014-01-11,19:00:00,Florida Panthers,1,New Jersey Devils,2,OT,16592,,,Saturday
+2014-01-11,19:00:00,Ottawa Senators,2,Nashville Predators,1,SO,17113,,,Saturday
+2014-01-11,13:00:00,Tampa Bay Lightning,6,Philadelphia Flyers,3,,19987,,,Saturday
+2014-01-11,20:00:00,Anaheim Ducks,5,Phoenix Coyotes,3,,13289,,,Saturday
+2014-01-11,22:30:00,Boston Bruins,1,San Jose Sharks,0,,17562,,,Saturday
+2014-01-11,19:00:00,Columbus Blue Jackets,6,Winnipeg Jets,3,,15004,,,Saturday
+2014-01-12,20:00:00,Detroit Red Wings,0,Anaheim Ducks,1,,17375,,,Sunday
+2014-01-12,19:00:00,Edmonton Oilers,3,Chicago Blackhawks,5,,21424,,,Sunday
+2014-01-12,18:00:00,New York Islanders,4,Dallas Stars,2,,13765,,,Sunday
+2014-01-12,19:00:00,Minnesota Wild,4,Nashville Predators,0,,16221,,,Sunday
+2014-01-12,19:00:00,Philadelphia Flyers,1,New York Rangers,4,,18006,,,Sunday
+2014-01-12,19:00:00,New Jersey Devils,2,Toronto Maple Leafs,3,SO,19175,,,Sunday
+2014-01-12,15:00:00,Buffalo Sabres,2,Washington Capitals,1,SO,18506,,,Sunday
+2014-01-13,19:00:00,Calgary Flames,2,Carolina Hurricanes,0,,15276,,,Monday
+2014-01-13,19:00:00,Tampa Bay Lightning,2,Columbus Blue Jackets,3,,14070,,,Monday
+2014-01-13,22:30:00,Vancouver Canucks,0,Los Angeles Kings,1,,18118,,,Monday
+2014-01-13,20:00:00,Phoenix Coyotes,1,Winnipeg Jets,5,,15004,,,Monday
+2014-01-14,19:00:00,Toronto Maple Leafs,4,Boston Bruins,3,,17565,,,Tuesday
+2014-01-14,19:30:00,Philadelphia Flyers,4,Buffalo Sabres,3,,18667,,,Tuesday
+2014-01-14,20:00:00,Colorado Avalanche,3,Chicago Blackhawks,2,OT,21412,,,Tuesday
+2014-01-14,20:30:00,Edmonton Oilers,2,Dallas Stars,5,,12823,,,Tuesday
+2014-01-14,19:30:00,New York Islanders,2,Florida Panthers,4,,13730,,,Tuesday
+2014-01-14,20:00:00,Ottawa Senators,3,Minnesota Wild,0,,18117,,,Tuesday
+2014-01-14,19:30:00,New Jersey Devils,4,Montreal Canadiens,1,,21273,,,Tuesday
+2014-01-14,20:00:00,Calgary Flames,2,Nashville Predators,4,,15730,,,Tuesday
+2014-01-14,19:00:00,Tampa Bay Lightning,2,New York Rangers,1,,18006,,,Tuesday
+2014-01-14,20:00:00,Phoenix Coyotes,1,St. Louis Blues,2,,16571,,,Tuesday
+2014-01-14,19:00:00,San Jose Sharks,2,Washington Capitals,1,SO,18506,,,Tuesday
+2014-01-15,22:30:00,Vancouver Canucks,1,Anaheim Ducks,9,,17145,,,Wednesday
+2014-01-15,20:00:00,Washington Capitals,3,Pittsburgh Penguins,4,,18667,,,Wednesday
+2014-01-15,19:30:00,Buffalo Sabres,3,Toronto Maple Leafs,4,SO,19372,,,Wednesday
+2014-01-16,21:00:00,Winnipeg Jets,5,Calgary Flames,2,,19289,,,Thursday
+2014-01-16,21:00:00,New Jersey Devils,1,Colorado Avalanche,2,SO,14090,,,Thursday
+2014-01-16,20:30:00,Boston Bruins,4,Dallas Stars,2,,16890,,,Thursday
+2014-01-16,19:30:00,San Jose Sharks,3,Florida Panthers,0,,13149,,,Thursday
+2014-01-16,20:00:00,Edmonton Oilers,1,Minnesota Wild,4,,18037,,,Thursday
+2014-01-16,19:00:00,Detroit Red Wings,0,New York Rangers,1,,18006,,,Thursday
+2014-01-16,19:30:00,Montreal Canadiens,5,Ottawa Senators,4,OT,19217,,,Thursday
+2014-01-16,19:00:00,Nashville Predators,4,Philadelphia Flyers,3,SO,19917,,,Thursday
+2014-01-16,21:00:00,Vancouver Canucks,0,Phoenix Coyotes,1,,12307,,,Thursday
+2014-01-16,20:00:00,Los Angeles Kings,4,St. Louis Blues,1,,19374,,,Thursday
+2014-01-16,19:30:00,New York Islanders,2,Tampa Bay Lightning,1,SO,18333,,,Thursday
+2014-01-17,19:00:00,Washington Capitals,1,Columbus Blue Jackets,5,,14121,,,Friday
+2014-01-17,20:00:00,Anaheim Ducks,2,Chicago Blackhawks,4,,22064,,,Friday
+2014-01-18,19:00:00,Columbus Blue Jackets,4,Buffalo Sabres,3,SO,19070,,,Saturday
+2014-01-18,19:00:00,Florida Panthers,2,Carolina Hurricanes,3,,15476,,,Saturday
+2014-01-18,19:00:00,Los Angeles Kings,2,Detroit Red Wings,3,SO,20066,,,Saturday
+2014-01-18,21:00:00,Dallas Stars,2,Minnesota Wild,3,OT,19192,,,Saturday
+2014-01-18,20:00:00,Colorado Avalanche,5,Nashville Predators,4,,17113,,,Saturday
+2014-01-18,14:00:00,New York Rangers,4,Ottawa Senators,1,,19978,,,Saturday
+2014-01-18,19:00:00,New York Islanders,4,Philadelphia Flyers,6,,19992,,,Saturday
+2014-01-18,20:00:00,New Jersey Devils,2,Phoenix Coyotes,3,,14005,,,Saturday
+2014-01-18,20:00:00,Anaheim Ducks,3,St. Louis Blues,2,,19910,,,Saturday
+2014-01-18,14:00:00,San Jose Sharks,5,Tampa Bay Lightning,4,,19204,,,Saturday
+2014-01-18,19:00:00,Montreal Canadiens,3,Toronto Maple Leafs,5,,19667,,,Saturday
+2014-01-18,22:00:00,Calgary Flames,2,Vancouver Canucks,3,SO,18910,,,Saturday
+2014-01-18,14:00:00,Edmonton Oilers,2,Winnipeg Jets,3,OT,15004,,,Saturday
+2014-01-19,17:00:00,Tampa Bay Lightning,5,Carolina Hurricanes,3,,16760,,,Sunday
+2014-01-19,12:30:00,Boston Bruins,2,Chicago Blackhawks,3,SO,22197,,,Sunday
+2014-01-19,19:30:00,Washington Capitals,1,New York Rangers,4,,18006,,,Sunday
+2014-01-20,15:00:00,Los Angeles Kings,2,Boston Bruins,3,,17565,,,Monday
+2014-01-20,19:30:00,St. Louis Blues,4,Detroit Red Wings,1,,20066,,,Monday
+2014-01-20,20:00:00,Dallas Stars,1,Nashville Predators,4,,16190,,,Monday
+2014-01-20,13:00:00,Philadelphia Flyers,3,New York Islanders,4,SO,16048,,,Monday
+2014-01-20,20:00:00,Toronto Maple Leafs,4,Phoenix Coyotes,2,,14476,,,Monday
+2014-01-20,19:00:00,Florida Panthers,5,Pittsburgh Penguins,1,,18660,,,Monday
+2014-01-20,22:30:00,Calgary Flames,2,San Jose Sharks,3,,17562,,,Monday
+2014-01-21,22:00:00,Winnipeg Jets,3,Anaheim Ducks,2,,15046,,,Tuesday
+2014-01-21,19:00:00,Florida Panthers,4,Buffalo Sabres,3,,17583,,,Tuesday
+2014-01-21,19:00:00,Los Angeles Kings,3,Columbus Blue Jackets,5,,13286,,,Tuesday
+2014-01-21,21:00:00,Toronto Maple Leafs,5,Colorado Avalanche,2,,14877,,,Tuesday
+2014-01-21,20:00:00,Minnesota Wild,0,Dallas Stars,4,,11191,,,Tuesday
+2014-01-21,21:30:00,Vancouver Canucks,2,Edmonton Oilers,1,,16839,,,Tuesday
+2014-01-21,19:00:00,St. Louis Blues,1,New Jersey Devils,7,,11432,,,Tuesday
+2014-01-21,19:00:00,New York Islanders,5,New York Rangers,3,,18006,,,Tuesday
+2014-01-21,19:00:00,Ottawa Senators,2,Washington Capitals,0,,18506,,,Tuesday
+2014-01-22,21:30:00,Phoenix Coyotes,2,Calgary Flames,3,,19289,,,Wednesday
+2014-01-22,20:00:00,Chicago Blackhawks,4,Detroit Red Wings,5,SO,20066,,,Wednesday
+2014-01-22,18:00:00,Carolina Hurricanes,3,Philadelphia Flyers,2,,19592,,Make-up game from snowstorm on 2014-01-21.,Wednesday
+2014-01-22,19:00:00,Montreal Canadiens,1,Pittsburgh Penguins,5,,18617,,,Wednesday
+2014-01-23,22:00:00,Los Angeles Kings,1,Anaheim Ducks,2,,17503,,,Thursday
+2014-01-23,19:00:00,Carolina Hurricanes,5,Buffalo Sabres,3,,18468,,,Thursday
+2014-01-23,19:00:00,Philadelphia Flyers,2,Columbus Blue Jackets,5,,15571,,,Thursday
+2014-01-23,20:00:00,Toronto Maple Leafs,1,Dallas Stars,7,,13678,,,Thursday
+2014-01-23,20:00:00,Chicago Blackhawks,1,Minnesota Wild,2,,19226,,,Thursday
+2014-01-23,19:30:00,Pittsburgh Penguins,6,New York Islanders,4,,15012,,,Thursday
+2014-01-23,19:00:00,St. Louis Blues,2,New York Rangers,1,,18006,,,Thursday
+2014-01-23,22:30:00,Winnipeg Jets,0,San Jose Sharks,1,,17562,,,Thursday
+2014-01-23,19:30:00,Ottawa Senators,3,Tampa Bay Lightning,4,SO,18751,,,Thursday
+2014-01-23,22:00:00,Nashville Predators,2,Vancouver Canucks,1,,18910,,,Thursday
+2014-01-24,21:00:00,Nashville Predators,4,Calgary Flames,5,SO,19289,,,Friday
+2014-01-24,19:30:00,Montreal Canadiens,1,Detroit Red Wings,4,,20066,,,Friday
+2014-01-24,21:30:00,Phoenix Coyotes,4,Edmonton Oilers,3,,16839,,,Friday
+2014-01-24,19:30:00,Colorado Avalanche,3,Florida Panthers,2,,17274,,,Friday
+2014-01-24,19:00:00,Washington Capitals,1,New Jersey Devils,2,,15742,,,Friday
+2014-01-25,12:00:00,Ottawa Senators,3,Carolina Hurricanes,6,,11458,,Make-up game for postponed 2014-01-24 game.,Saturday
+2014-01-25,19:00:00,Buffalo Sabres,5,Columbus Blue Jackets,2,,16272,,,Saturday
+2014-01-25,20:00:00,Pittsburgh Penguins,0,Dallas Stars,3,,18532,,,Saturday
+2014-01-25,21:30:00,Anaheim Ducks,3,Los Angeles Kings,0,,54099,,NHL Stadium Series,Saturday
+2014-01-25,19:00:00,Washington Capitals,5,Montreal Canadiens,0,,21273,,,Saturday
+2014-01-25,13:00:00,St. Louis Blues,4,New York Islanders,3,SO,15888,,,Saturday
+2014-01-25,13:00:00,Boston Bruins,6,Philadelphia Flyers,1,,19938,,,Saturday
+2014-01-25,22:30:00,Minnesota Wild,2,San Jose Sharks,3,OT,17562,,,Saturday
+2014-01-25,19:00:00,Colorado Avalanche,2,Tampa Bay Lightning,5,,19204,,,Saturday
+2014-01-25,19:00:00,Toronto Maple Leafs,4,Winnipeg Jets,5,OT,15004,,,Saturday
+2014-01-26,19:00:00,Winnipeg Jets,3,Chicago Blackhawks,1,,21841,,,Sunday
+2014-01-26,17:00:00,Florida Panthers,5,Detroit Red Wings,4,SO,20066,,,Sunday
+2014-01-26,20:00:00,Nashville Predators,1,Edmonton Oilers,5,,16839,,,Sunday
+2014-01-26,12:30:00,New York Rangers,7,New Jersey Devils,3,,50105,,NHL Stadium Series,Sunday
+2014-01-26,20:00:00,Phoenix Coyotes,4,Vancouver Canucks,5,OT,18910,,,Sunday
+2014-01-27,19:00:00,Columbus Blue Jackets,2,Carolina Hurricanes,3,,13641,,,Monday
+2014-01-27,20:30:00,Colorado Avalanche,4,Dallas Stars,3,,11678,,,Monday
+2014-01-27,19:00:00,Boston Bruins,6,New York Islanders,3,,13819,,,Monday
+2014-01-27,19:30:00,Buffalo Sabres,0,Pittsburgh Penguins,3,,18563,,,Monday
+2014-01-27,22:00:00,Los Angeles Kings,1,San Jose Sharks,0,,17562,,,Monday
+2014-01-27,22:00:00,Edmonton Oilers,4,Vancouver Canucks,2,,18910,,,Monday
+2014-01-28,22:00:00,Minnesota Wild,4,Anaheim Ducks,2,,15020,,,Tuesday
+2014-01-28,19:00:00,Florida Panthers,2,Boston Bruins,6,,17565,,,Tuesday
+2014-01-28,19:30:00,Washington Capitals,5,Buffalo Sabres,4,OT,18923,,,Tuesday
+2014-01-28,19:00:00,Ottawa Senators,3,Columbus Blue Jackets,2,,13373,,,Tuesday
+2014-01-28,21:30:00,Chicago Blackhawks,4,Calgary Flames,5,OT,19289,,,Tuesday
+2014-01-28,19:30:00,Carolina Hurricanes,0,Montreal Canadiens,3,,21273,,,Tuesday
+2014-01-28,19:00:00,Detroit Red Wings,0,Philadelphia Flyers,5,,19987,,,Tuesday
+2014-01-28,21:00:00,Los Angeles Kings,0,Phoenix Coyotes,3,,13681,,,Tuesday
+2014-01-28,20:00:00,New Jersey Devils,0,St. Louis Blues,3,,16099,,,Tuesday
+2014-01-28,19:00:00,Tampa Bay Lightning,2,Toronto Maple Leafs,3,,19475,,,Tuesday
+2014-01-28,20:00:00,Nashville Predators,4,Winnipeg Jets,3,,15004,,,Tuesday
+2014-01-29,21:30:00,San Jose Sharks,0,Edmonton Oilers,3,,16839,,,Wednesday
+2014-01-29,19:30:00,New York Rangers,2,New York Islanders,1,,50027,,NHL Stadium Series,Wednesday
+2014-01-29,22:30:00,Chicago Blackhawks,5,Vancouver Canucks,2,,18910,,,Wednesday
+2014-01-30,22:00:00,Philadelphia Flyers,3,Anaheim Ducks,5,,16007,,,Thursday
+2014-01-30,19:00:00,Montreal Canadiens,4,Boston Bruins,1,,17565,,,Thursday
+2014-01-30,19:00:00,Washington Capitals,2,Columbus Blue Jackets,5,,16047,,,Thursday
+2014-01-30,21:00:00,San Jose Sharks,1,Calgary Flames,4,,19289,,,Thursday
+2014-01-30,21:00:00,Minnesota Wild,4,Colorado Avalanche,5,,14697,,,Thursday
+2014-01-30,20:30:00,New Jersey Devils,3,Dallas Stars,2,OT,14237,,,Thursday
+2014-01-30,22:30:00,Pittsburgh Penguins,4,Los Angeles Kings,1,,18118,,,Thursday
+2014-01-30,19:30:00,Tampa Bay Lightning,3,Ottawa Senators,5,,19757,,,Thursday
+2014-01-30,21:00:00,Buffalo Sabres,3,Phoenix Coyotes,2,,13000,,,Thursday
+2014-01-30,19:00:00,Florida Panthers,3,Toronto Maple Leafs,6,,19448,,,Thursday
+2014-01-31,19:00:00,St. Louis Blues,1,Carolina Hurricanes,3,,16035,,,Friday
+2014-01-31,19:30:00,Washington Capitals,3,Detroit Red Wings,4,SO,20066,,,Friday
+2014-01-31,20:00:00,New Jersey Devils,2,Nashville Predators,3,OT,17207,,,Friday
+2014-01-31,19:00:00,New York Islanders,1,New York Rangers,4,,18006,,,Friday
+2014-01-31,20:30:00,Vancouver Canucks,3,Winnipeg Jets,4,,15004,,,Friday
+2014-02-01,22:00:00,Dallas Stars,2,Anaheim Ducks,0,,17174,,,Saturday
+2014-02-01,13:00:00,Edmonton Oilers,0,Boston Bruins,4,,17565,,,Saturday
+2014-02-01,19:00:00,Florida Panthers,1,Columbus Blue Jackets,4,,16762,,,Saturday
+2014-02-01,22:00:00,Minnesota Wild,3,Calgary Flames,4,OT,19289,,,Saturday
+2014-02-01,15:00:00,Buffalo Sabres,1,Colorado Avalanche,7,,16649,,,Saturday
+2014-02-01,16:00:00,Philadelphia Flyers,2,Los Angeles Kings,0,,18118,,,Saturday
+2014-02-01,13:00:00,Tampa Bay Lightning,2,Montreal Canadiens,1,OT,21273,,,Saturday
+2014-02-01,20:00:00,Pittsburgh Penguins,1,Phoenix Coyotes,3,,17362,,,Saturday
+2014-02-01,22:30:00,Chicago Blackhawks,1,San Jose Sharks,2,SO,17562,,,Saturday
+2014-02-01,20:00:00,Nashville Predators,3,St. Louis Blues,4,SO,19358,,,Saturday
+2014-02-01,19:00:00,Ottawa Senators,3,Toronto Maple Leafs,6,,19613,,,Saturday
+2014-02-02,13:00:00,Winnipeg Jets,2,Montreal Canadiens,1,,21273,,,Sunday
+2014-02-02,12:30:00,Detroit Red Wings,5,Washington Capitals,6,OT,18506,,,Sunday
+2014-02-03,22:00:00,Columbus Blue Jackets,4,Anaheim Ducks,2,,14044,,,Monday
+2014-02-03,19:00:00,Edmonton Oilers,3,Buffalo Sabres,2,,18531,,,Monday
+2014-02-03,19:30:00,Vancouver Canucks,0,Detroit Red Wings,2,,20066,,,Monday
+2014-02-03,22:30:00,Chicago Blackhawks,5,Los Angeles Kings,3,,18118,,,Monday
+2014-02-03,19:30:00,Colorado Avalanche,2,New Jersey Devils,1,OT,14213,,,Monday
+2014-02-03,19:00:00,Ottawa Senators,1,Pittsburgh Penguins,2,OT,18579,,,Monday
+2014-02-03,22:30:00,Philadelphia Flyers,5,San Jose Sharks,2,,17562,,,Monday
+2014-02-04,19:00:00,Vancouver Canucks,1,Boston Bruins,3,,17565,,,Tuesday
+2014-02-04,19:00:00,Winnipeg Jets,2,Carolina Hurricanes,1,,14033,,,Tuesday
+2014-02-04,19:30:00,Toronto Maple Leafs,1,Florida Panthers,4,,15583,,,Tuesday
+2014-02-04,20:00:00,Tampa Bay Lightning,1,Minnesota Wild,2,,18454,,,Tuesday
+2014-02-04,19:30:00,Calgary Flames,0,Montreal Canadiens,2,,21273,,,Tuesday
+2014-02-04,19:00:00,Colorado Avalanche,1,New York Rangers,5,,18006,,,Tuesday
+2014-02-04,21:00:00,Dallas Stars,3,Phoenix Coyotes,1,,12257,,,Tuesday
+2014-02-04,20:00:00,Ottawa Senators,5,St. Louis Blues,4,SO,14758,,,Tuesday
+2014-02-04,19:30:00,New York Islanders,1,Washington Capitals,0,,18506,,,Tuesday
+2014-02-05,22:00:00,Chicago Blackhawks,2,Anaheim Ducks,0,,17446,,,Wednesday
+2014-02-05,19:30:00,Pittsburgh Penguins,5,Buffalo Sabres,1,,18408,,,Wednesday
+2014-02-05,22:30:00,Dallas Stars,1,San Jose Sharks,2,OT,17562,,,Wednesday
+2014-02-06,19:30:00,Detroit Red Wings,3,Florida Panthers,1,,15623,,,Thursday
+2014-02-06,22:30:00,Columbus Blue Jackets,1,Los Angeles Kings,2,OT,18118,,,Thursday
+2014-02-06,20:00:00,Nashville Predators,2,Minnesota Wild,3,OT,18766,,,Thursday
+2014-02-06,19:30:00,Vancouver Canucks,2,Montreal Canadiens,5,,21273,,,Thursday
+2014-02-06,19:00:00,Calgary Flames,4,New York Islanders,2,,12888,,,Thursday
+2014-02-06,19:00:00,Edmonton Oilers,2,New York Rangers,1,,18006,,,Thursday
+2014-02-06,19:30:00,Buffalo Sabres,2,Ottawa Senators,3,,18426,,,Thursday
+2014-02-06,19:00:00,Colorado Avalanche,1,Philadelphia Flyers,3,,19982,,,Thursday
+2014-02-06,20:00:00,Boston Bruins,2,St. Louis Blues,3,OT,19671,,,Thursday
+2014-02-06,19:30:00,Toronto Maple Leafs,4,Tampa Bay Lightning,1,,19204,,,Thursday
+2014-02-06,19:00:00,Winnipeg Jets,2,Washington Capitals,4,,18506,,,Thursday
+2014-02-07,19:00:00,Florida Panthers,1,Carolina Hurricanes,5,,16132,,,Friday
+2014-02-07,19:00:00,Edmonton Oilers,1,New Jersey Devils,2,OT,16592,,,Friday
+2014-02-07,21:00:00,Chicago Blackhawks,0,Phoenix Coyotes,2,,17525,,,Friday
+2014-02-07,19:00:00,New York Rangers,4,Pittsburgh Penguins,3,SO,18661,,,Friday
+2014-02-07,22:30:00,Columbus Blue Jackets,2,San Jose Sharks,3,,17562,,,Friday
+2014-02-08,15:00:00,Ottawa Senators,2,Boston Bruins,7,,17565,,,Saturday
+2014-02-08,18:00:00,Montreal Canadiens,4,Carolina Hurricanes,1,,18680,,,Saturday
+2014-02-08,20:00:00,Phoenix Coyotes,1,Dallas Stars,2,,18532,,,Saturday
+2014-02-08,20:00:00,Anaheim Ducks,5,Nashville Predators,2,,17139,,,Saturday
+2014-02-08,19:00:00,Colorado Avalanche,5,New York Islanders,2,,15360,,,Saturday
+2014-02-08,13:00:00,Calgary Flames,1,Philadelphia Flyers,2,,19874,,,Saturday
+2014-02-08,14:00:00,Winnipeg Jets,3,St. Louis Blues,4,SO,19052,,,Saturday
+2014-02-08,19:00:00,Detroit Red Wings,2,Tampa Bay Lightning,4,,19204,,,Saturday
+2014-02-08,18:00:00,Vancouver Canucks,1,Toronto Maple Leafs,3,,19662,,,Saturday
+2014-02-08,20:00:00,New Jersey Devils,0,Washington Capitals,3,,18506,,,Saturday
+2014-02-25,19:00:00,Carolina Hurricanes,2,Buffalo Sabres,3,,18719,,Make-up game for blizzard on 2014-01-07.,Tuesday
+2014-02-26,19:30:00,Boston Bruins,4,Buffalo Sabres,5,OT,19070,,,Wednesday
+2014-02-26,22:00:00,Los Angeles Kings,6,Colorado Avalanche,4,,16754,,,Wednesday
+2014-02-26,19:30:00,Detroit Red Wings,2,Montreal Canadiens,1,OT,21273,,,Wednesday
+2014-02-26,22:30:00,St. Louis Blues,0,Vancouver Canucks,1,,18910,,,Wednesday
+2014-02-27,21:30:00,Los Angeles Kings,2,Calgary Flames,0,,19289,,,Thursday
+2014-02-27,20:30:00,Carolina Hurricanes,1,Dallas Stars,4,,16122,,,Thursday
+2014-02-27,21:30:00,Minnesota Wild,3,Edmonton Oilers,0,,16839,,,Thursday
+2014-02-27,19:30:00,Washington Capitals,5,Florida Panthers,4,,14180,,,Thursday
+2014-02-27,19:00:00,Columbus Blue Jackets,2,New Jersey Devils,5,,15185,,,Thursday
+2014-02-27,20:00:00,Tampa Bay Lightning,2,Nashville Predators,3,,17113,,,Thursday
+2014-02-27,19:00:00,Toronto Maple Leafs,4,New York Islanders,5,OT,13922,,,Thursday
+2014-02-27,19:00:00,Chicago Blackhawks,1,New York Rangers,2,,18006,,,Thursday
+2014-02-27,19:30:00,Detroit Red Wings,6,Ottawa Senators,1,,18931,,,Thursday
+2014-02-27,19:00:00,San Jose Sharks,7,Philadelphia Flyers,3,,19879,,,Thursday
+2014-02-27,19:00:00,Montreal Canadiens,6,Pittsburgh Penguins,5,SO,18636,,,Thursday
+2014-02-27,20:00:00,Phoenix Coyotes,2,Winnipeg Jets,3,SO,15004,,,Thursday
+2014-02-28,22:00:00,St. Louis Blues,0,Anaheim Ducks,1,,17369,,,Friday
+2014-02-28,19:00:00,San Jose Sharks,2,Buffalo Sabres,4,,19070,,,Friday
+2014-02-28,21:00:00,Phoenix Coyotes,2,Colorado Avalanche,4,,17649,,,Friday
+2014-02-28,22:00:00,Minnesota Wild,2,Vancouver Canucks,1,SO,18910,,,Friday
+2014-03-01,13:00:00,Washington Capitals,4,Boston Bruins,2,,17565,,,Saturday
+2014-03-01,14:00:00,Florida Panthers,3,Columbus Blue Jackets,6,,15441,,,Saturday
+2014-03-01,20:00:00,Pittsburgh Penguins,1,Chicago Blackhawks,5,,62921,,NHL Stadium Series,Saturday
+2014-03-01,15:00:00,Tampa Bay Lightning,4,Dallas Stars,2,,15897,,,Saturday
+2014-03-01,22:00:00,Calgary Flames,2,Edmonton Oilers,1,OT,16839,,,Saturday
+2014-03-01,16:00:00,Carolina Hurricanes,1,Los Angeles Kings,3,,18118,,,Saturday
+2014-03-01,19:00:00,Toronto Maple Leafs,3,Montreal Canadiens,4,OT,21273,,,Saturday
+2014-03-01,15:00:00,Winnipeg Jets,3,Nashville Predators,1,,17113,,,Saturday
+2014-03-01,13:00:00,New Jersey Devils,6,New York Islanders,1,,15512,,,Saturday
+2014-03-01,13:00:00,New York Rangers,2,Philadelphia Flyers,4,,19988,,,Saturday
+2014-03-02,20:00:00,Carolina Hurricanes,3,Anaheim Ducks,5,,17174,,,Sunday
+2014-03-02,20:00:00,Tampa Bay Lightning,3,Colorado Avalanche,6,,15592,,,Sunday
+2014-03-02,15:00:00,San Jose Sharks,4,New Jersey Devils,2,,16012,,,Sunday
+2014-03-02,15:00:00,Florida Panthers,5,New York Islanders,3,,13008,,,Sunday
+2014-03-02,19:00:00,Boston Bruins,6,New York Rangers,3,,18006,,,Sunday
+2014-03-02,20:00:00,St. Louis Blues,4,Phoenix Coyotes,2,,13955,,,Sunday
+2014-03-02,16:00:00,Ottawa Senators,4,Vancouver Canucks,2,,54194,,NHL Heritage Classic,Sunday
+2014-03-02,12:30:00,Philadelphia Flyers,5,Washington Capitals,4,OT,18506,,,Sunday
+2014-03-03,20:00:00,Buffalo Sabres,2,Dallas Stars,3,,14235,,,Monday
+2014-03-03,22:30:00,Montreal Canadiens,1,Los Angeles Kings,2,,18118,,,Monday
+2014-03-03,20:00:00,Calgary Flames,2,Minnesota Wild,3,,18543,,,Monday
+2014-03-03,19:00:00,Columbus Blue Jackets,2,Toronto Maple Leafs,1,,19577,,,Monday
+2014-03-04,19:00:00,Florida Panthers,1,Boston Bruins,4,,17565,,,Tuesday
+2014-03-04,19:00:00,Dallas Stars,2,Columbus Blue Jackets,4,,15661,,,Tuesday
+2014-03-04,20:00:00,Colorado Avalanche,4,Chicago Blackhawks,2,,21361,,,Tuesday
+2014-03-04,21:30:00,Ottawa Senators,2,Edmonton Oilers,3,,16839,,,Tuesday
+2014-03-04,19:00:00,Detroit Red Wings,3,New Jersey Devils,4,,16592,,,Tuesday
+2014-03-04,20:00:00,Pittsburgh Penguins,3,Nashville Predators,1,,17113,,,Tuesday
+2014-03-04,21:00:00,Vancouver Canucks,0,Phoenix Coyotes,1,,13449,,,Tuesday
+2014-03-04,22:30:00,Carolina Hurricanes,3,San Jose Sharks,2,OT,17562,,,Tuesday
+2014-03-04,20:00:00,Tampa Bay Lightning,2,St. Louis Blues,4,,18602,,,Tuesday
+2014-03-04,20:00:00,New York Islanders,3,Winnipeg Jets,2,OT,15004,,,Tuesday
+2014-03-05,22:00:00,Montreal Canadiens,4,Anaheim Ducks,3,SO,17174,,,Wednesday
+2014-03-05,21:30:00,Ottawa Senators,1,Calgary Flames,4,,19289,,,Wednesday
+2014-03-05,19:00:00,Toronto Maple Leafs,3,New York Rangers,2,OT,18006,,,Wednesday
+2014-03-05,20:00:00,Washington Capitals,4,Philadelphia Flyers,6,,19919,,,Wednesday
+2014-03-06,19:00:00,Washington Capitals,0,Boston Bruins,3,,17565,,,Thursday
+2014-03-06,20:00:00,Columbus Blue Jackets,1,Chicago Blackhawks,6,,21179,,,Thursday
+2014-03-06,20:30:00,Vancouver Canucks,1,Dallas Stars,6,,14634,,,Thursday
+2014-03-06,20:00:00,Colorado Avalanche,3,Detroit Red Wings,2,OT,20066,,,Thursday
+2014-03-06,21:30:00,New York Islanders,2,Edmonton Oilers,3,OT,16839,,,Thursday
+2014-03-06,20:00:00,St. Louis Blues,2,Nashville Predators,1,,16180,,,Thursday
+2014-03-06,21:00:00,Montreal Canadiens,2,Phoenix Coyotes,5,,15282,,,Thursday
+2014-03-06,22:30:00,Pittsburgh Penguins,3,San Jose Sharks,5,,17562,,,Thursday
+2014-03-06,19:30:00,Buffalo Sabres,3,Tampa Bay Lightning,1,,19204,,,Thursday
+2014-03-06,19:00:00,Los Angeles Kings,3,Winnipeg Jets,1,,15004,,,Thursday
+2014-03-07,22:00:00,Pittsburgh Penguins,3,Anaheim Ducks,2,SO,17518,,,Friday
+2014-03-07,19:00:00,New York Rangers,4,Carolina Hurricanes,2,,17547,,,Friday
+2014-03-07,21:00:00,New York Islanders,3,Calgary Flames,4,,19289,,,Friday
+2014-03-07,19:30:00,New Jersey Devils,4,Detroit Red Wings,7,,20066,,,Friday
+2014-03-07,19:30:00,Buffalo Sabres,0,Florida Panthers,2,,14402,,,Friday
+2014-03-08,15:00:00,St. Louis Blues,2,Colorado Avalanche,1,,18137,,,Saturday
+2014-03-08,20:30:00,Minnesota Wild,3,Dallas Stars,4,,19109,,,Saturday
+2014-03-08,19:00:00,Carolina Hurricanes,4,New Jersey Devils,5,,16162,,,Saturday
+2014-03-08,20:00:00,Columbus Blue Jackets,1,Nashville Predators,0,,17113,,,Saturday
+2014-03-08,22:00:00,Montreal Canadiens,0,San Jose Sharks,4,,17562,,,Saturday
+2014-03-08,19:00:00,Boston Bruins,4,Tampa Bay Lightning,3,SO,19204,,,Saturday
+2014-03-08,19:00:00,Philadelphia Flyers,3,Toronto Maple Leafs,4,OT,19583,,,Saturday
+2014-03-08,22:00:00,Calgary Flames,1,Vancouver Canucks,2,,18910,,,Saturday
+2014-03-08,15:00:00,Ottawa Senators,5,Winnipeg Jets,3,,15004,,,Saturday
+2014-03-08,19:00:00,Phoenix Coyotes,2,Washington Capitals,3,,18506,,,Saturday
+2014-03-09,19:30:00,Chicago Blackhawks,2,Buffalo Sabres,1,,19070,,,Sunday
+2014-03-09,20:00:00,Los Angeles Kings,4,Edmonton Oilers,2,,16839,,,Sunday
+2014-03-09,17:00:00,Boston Bruins,5,Florida Panthers,2,,18858,,,Sunday
+2014-03-09,20:00:00,St. Louis Blues,3,Minnesota Wild,2,SO,18909,,,Sunday
+2014-03-09,12:30:00,Detroit Red Wings,0,New York Rangers,3,,18006,,,Sunday
+2014-03-10,22:00:00,Toronto Maple Leafs,3,Anaheim Ducks,1,,17229,,,Monday
+2014-03-10,21:00:00,Los Angeles Kings,3,Calgary Flames,2,,19289,,,Monday
+2014-03-10,21:00:00,Winnipeg Jets,2,Colorado Avalanche,3,OT,15250,,,Monday
+2014-03-10,19:30:00,Nashville Predators,4,Ottawa Senators,3,OT,19063,,,Monday
+2014-03-10,19:30:00,Phoenix Coyotes,4,Tampa Bay Lightning,3,SO,18167,,,Monday
+2014-03-10,22:00:00,New York Islanders,7,Vancouver Canucks,4,,18910,,,Monday
+2014-03-10,19:00:00,Pittsburgh Penguins,3,Washington Capitals,2,,18506,,,Monday
+2014-03-11,19:00:00,Nashville Predators,4,Buffalo Sabres,1,,18659,,,Tuesday
+2014-03-11,19:00:00,New York Rangers,1,Carolina Hurricanes,3,,15667,,,Tuesday
+2014-03-11,19:00:00,Detroit Red Wings,1,Columbus Blue Jackets,4,,14330,,,Tuesday
+2014-03-11,19:30:00,Phoenix Coyotes,3,Florida Panthers,1,,12211,,,Tuesday
+2014-03-11,20:00:00,Edmonton Oilers,4,Minnesota Wild,3,SO,18650,,,Tuesday
+2014-03-11,19:00:00,New Jersey Devils,2,Philadelphia Flyers,1,,19967,,,Tuesday
+2014-03-11,19:30:00,Washington Capitals,0,Pittsburgh Penguins,2,,18646,,,Tuesday
+2014-03-11,22:30:00,Toronto Maple Leafs,2,San Jose Sharks,6,,17562,,,Tuesday
+2014-03-11,20:00:00,Dallas Stars,3,St. Louis Blues,2,OT,16763,,,Tuesday
+2014-03-12,22:00:00,Anaheim Ducks,2,Calgary Flames,7,,19289,,,Wednesday
+2014-03-12,21:30:00,Chicago Blackhawks,2,Colorado Avalanche,3,,18007,,,Wednesday
+2014-03-12,19:30:00,Boston Bruins,4,Montreal Canadiens,1,,21273,,,Wednesday
+2014-03-12,19:30:00,Vancouver Canucks,3,Winnipeg Jets,2,SO,15004,,,Wednesday
+2014-03-13,19:00:00,Phoenix Coyotes,1,Boston Bruins,2,,17565,,,Thursday
+2014-03-13,19:00:00,Buffalo Sabres,2,Carolina Hurricanes,4,,13654,,,Thursday
+2014-03-13,19:00:00,San Jose Sharks,4,Columbus Blue Jackets,3,SO,13851,,,Thursday
+2014-03-13,22:30:00,Toronto Maple Leafs,3,Los Angeles Kings,2,,18319,,,Thursday
+2014-03-13,20:00:00,New York Rangers,1,Minnesota Wild,2,,18885,,,Thursday
+2014-03-13,20:00:00,Edmonton Oilers,2,St. Louis Blues,6,,18084,,,Thursday
+2014-03-13,19:30:00,Florida Panthers,4,Tampa Bay Lightning,5,,18324,,,Thursday
+2014-03-14,20:00:00,Nashville Predators,3,Chicago Blackhawks,2,,22106,,,Friday
+2014-03-14,21:00:00,Anaheim Ducks,6,Colorado Avalanche,4,,18030,,,Friday
+2014-03-14,20:30:00,Calgary Flames,4,Dallas Stars,3,SO,18532,,,Friday
+2014-03-14,19:30:00,Edmonton Oilers,1,Detroit Red Wings,2,SO,20066,,,Friday
+2014-03-14,19:30:00,New Jersey Devils,3,Florida Panthers,5,,14496,,,Friday
+2014-03-14,19:00:00,San Jose Sharks,4,New York Islanders,3,,13128,,,Friday
+2014-03-14,20:00:00,New York Rangers,4,Winnipeg Jets,2,,15004,,,Friday
+2014-03-14,19:00:00,Vancouver Canucks,3,Washington Capitals,4,,18506,,,Friday
+2014-03-15,13:00:00,Carolina Hurricanes,1,Boston Bruins,5,,17565,,,Saturday
+2014-03-15,22:30:00,Anaheim Ducks,2,Los Angeles Kings,1,,18278,,,Saturday
+2014-03-15,20:00:00,Columbus Blue Jackets,2,Minnesota Wild,1,SO,19042,,,Saturday
+2014-03-15,19:00:00,Ottawa Senators,4,Montreal Canadiens,5,OT,21273,,,Saturday
+2014-03-15,20:00:00,St. Louis Blues,4,Nashville Predators,1,,17113,,,Saturday
+2014-03-15,19:00:00,Buffalo Sabres,1,New York Islanders,4,,14388,,,Saturday
+2014-03-15,13:00:00,Pittsburgh Penguins,0,Philadelphia Flyers,4,,19993,,,Saturday
+2014-03-15,22:00:00,Calgary Flames,2,Phoenix Coyotes,3,,16373,,,Saturday
+2014-03-15,19:00:00,New Jersey Devils,0,Tampa Bay Lightning,3,,19204,,,Saturday
+2014-03-16,19:00:00,Montreal Canadiens,2,Buffalo Sabres,0,,19070,,,Sunday
+2014-03-16,15:00:00,Edmonton Oilers,2,Carolina Hurricanes,1,,16588,,,Sunday
+2014-03-16,19:30:00,Detroit Red Wings,1,Chicago Blackhawks,4,,22128,,,Sunday
+2014-03-16,15:00:00,Vancouver Canucks,4,Florida Panthers,3,SO,14215,,,Sunday
+2014-03-16,16:00:00,San Jose Sharks,1,New York Rangers,0,,18006,,,Sunday
+2014-03-16,17:00:00,Colorado Avalanche,3,Ottawa Senators,1,,19501,,,Sunday
+2014-03-16,12:30:00,Philadelphia Flyers,4,Pittsburgh Penguins,3,,18647,,,Sunday
+2014-03-16,20:00:00,Dallas Stars,2,Winnipeg Jets,7,,15004,,,Sunday
+2014-03-16,15:00:00,Toronto Maple Leafs,2,Washington Capitals,4,,18506,,,Sunday
+2014-03-17,19:30:00,Minnesota Wild,1,Boston Bruins,4,,17565,,,Monday
+2014-03-17,22:30:00,Phoenix Coyotes,4,Los Angeles Kings,3,,18118,,,Monday
+2014-03-17,20:00:00,Winnipeg Jets,1,St. Louis Blues,3,,16665,,,Monday
+2014-03-17,19:30:00,Vancouver Canucks,3,Tampa Bay Lightning,4,,19204,,,Monday
+2014-03-18,22:00:00,Washington Capitals,3,Anaheim Ducks,2,,17174,,,Tuesday
+2014-03-18,19:00:00,Carolina Hurricanes,3,Columbus Blue Jackets,1,,15938,,,Tuesday
+2014-03-18,21:00:00,Buffalo Sabres,1,Calgary Flames,3,,19289,,,Tuesday
+2014-03-18,19:30:00,Toronto Maple Leafs,2,Detroit Red Wings,3,,20066,,,Tuesday
+2014-03-18,21:30:00,Nashville Predators,1,Edmonton Oilers,5,,16839,,,Tuesday
+2014-03-18,19:30:00,Colorado Avalanche,3,Montreal Canadiens,6,,21273,,,Tuesday
+2014-03-18,19:00:00,Boston Bruins,4,New Jersey Devils,2,,16138,,,Tuesday
+2014-03-18,19:00:00,Minnesota Wild,6,New York Islanders,0,,14888,,,Tuesday
+2014-03-18,19:30:00,New York Rangers,8,Ottawa Senators,4,,17326,,,Tuesday
+2014-03-18,19:30:00,Chicago Blackhawks,2,Philadelphia Flyers,3,OT,19932,,,Tuesday
+2014-03-18,19:00:00,Dallas Stars,1,Pittsburgh Penguins,5,,18659,,,Tuesday
+2014-03-18,22:30:00,Florida Panthers,3,San Jose Sharks,2,,17562,,,Tuesday
+2014-03-19,20:00:00,St. Louis Blues,0,Chicago Blackhawks,4,,21640,,,Wednesday
+2014-03-19,19:00:00,Tampa Bay Lightning,5,Toronto Maple Leafs,3,,19585,,,Wednesday
+2014-03-19,22:00:00,Nashville Predators,0,Vancouver Canucks,2,,18910,,,Wednesday
+2014-03-19,20:00:00,Colorado Avalanche,4,Winnipeg Jets,5,OT,15004,,,Wednesday
+2014-03-20,19:30:00,Pittsburgh Penguins,4,Detroit Red Wings,5,OT,20066,,,Thursday
+2014-03-20,21:30:00,Buffalo Sabres,3,Edmonton Oilers,1,,16839,,,Thursday
+2014-03-20,22:30:00,Washington Capitals,1,Los Angeles Kings,2,SO,18118,,,Thursday
+2014-03-20,19:30:00,Columbus Blue Jackets,3,Montreal Canadiens,2,,21273,,,Thursday
+2014-03-20,19:00:00,Minnesota Wild,3,New Jersey Devils,4,OT,14772,,,Thursday
+2014-03-20,19:30:00,Tampa Bay Lightning,5,Ottawa Senators,4,,17136,,,Thursday
+2014-03-20,19:00:00,Dallas Stars,2,Philadelphia Flyers,4,,19831,,,Thursday
+2014-03-20,22:00:00,Florida Panthers,1,Phoenix Coyotes,2,,14442,,,Thursday
+2014-03-20,22:30:00,Anaheim Ducks,2,San Jose Sharks,3,,17562,,,Thursday
+2014-03-21,19:00:00,New York Rangers,3,Columbus Blue Jackets,1,,18513,,,Friday
+2014-03-21,21:00:00,Nashville Predators,6,Calgary Flames,5,,19289,,,Friday
+2014-03-21,20:00:00,Carolina Hurricanes,2,Chicago Blackhawks,3,,21857,,,Friday
+2014-03-21,21:00:00,Boston Bruins,2,Colorado Avalanche,0,,18007,,,Friday
+2014-03-22,15:00:00,Ottawa Senators,1,Dallas Stars,3,,16714,,,Saturday
+2014-03-22,22:00:00,Calgary Flames,8,Edmonton Oilers,1,,16839,,,Saturday
+2014-03-22,16:00:00,Florida Panthers,0,Los Angeles Kings,4,,18118,,,Saturday
+2014-03-22,14:00:00,Detroit Red Wings,3,Minnesota Wild,2,,19176,,,Saturday
+2014-03-22,19:00:00,New York Rangers,2,New Jersey Devils,0,,17829,,,Saturday
+2014-03-22,13:00:00,St. Louis Blues,1,Philadelphia Flyers,4,,19942,,,Saturday
+2014-03-22,21:00:00,Boston Bruins,4,Phoenix Coyotes,2,,17468,,,Saturday
+2014-03-22,13:00:00,Tampa Bay Lightning,3,Pittsburgh Penguins,4,OT,18668,,,Saturday
+2014-03-22,22:30:00,Washington Capitals,3,San Jose Sharks,2,SO,17562,,,Saturday
+2014-03-22,19:00:00,Montreal Canadiens,4,Toronto Maple Leafs,3,,19789,,,Saturday
+2014-03-22,19:00:00,Carolina Hurricanes,3,Winnipeg Jets,2,,15004,,,Saturday
+2014-03-23,20:00:00,Florida Panthers,2,Anaheim Ducks,6,,17281,,,Sunday
+2014-03-23,19:00:00,Nashville Predators,2,Chicago Blackhawks,0,,21727,,,Sunday
+2014-03-23,19:30:00,Minnesota Wild,4,Detroit Red Wings,3,OT,20066,,,Sunday
+2014-03-23,19:00:00,Toronto Maple Leafs,2,New Jersey Devils,3,,15328,,,Sunday
+2014-03-23,13:00:00,Columbus Blue Jackets,0,New York Islanders,2,,15008,,,Sunday
+2014-03-23,13:00:00,St. Louis Blues,1,Pittsburgh Penguins,0,,18662,,,Sunday
+2014-03-23,20:00:00,Buffalo Sabres,2,Vancouver Canucks,4,,18910,,,Sunday
+2014-03-24,19:30:00,Montreal Canadiens,2,Boston Bruins,1,SO,17565,,,Monday
+2014-03-24,21:00:00,San Jose Sharks,1,Calgary Flames,2,SO,19829,,,Monday
+2014-03-24,20:30:00,Winnipeg Jets,1,Dallas Stars,2,,15967,,,Monday
+2014-03-24,19:00:00,Phoenix Coyotes,3,New York Rangers,4,OT,18006,,,Monday
+2014-03-24,19:00:00,Los Angeles Kings,3,Philadelphia Flyers,2,,19876,,,Monday
+2014-03-24,19:30:00,Ottawa Senators,4,Tampa Bay Lightning,3,SO,18486,,,Monday
+2014-03-25,19:00:00,New York Islanders,5,Carolina Hurricanes,4,,15176,,,Tuesday
+2014-03-25,19:30:00,Detroit Red Wings,2,Columbus Blue Jackets,4,,15103,,,Tuesday
+2014-03-25,20:00:00,Dallas Stars,2,Chicago Blackhawks,4,,21493,,,Tuesday
+2014-03-25,21:30:00,San Jose Sharks,5,Edmonton Oilers,2,,16839,,,Tuesday
+2014-03-25,19:30:00,Ottawa Senators,2,Florida Panthers,3,SO,13435,,,Tuesday
+2014-03-25,19:30:00,Buffalo Sabres,0,Montreal Canadiens,2,,21273,,,Tuesday
+2014-03-25,20:00:00,Colorado Avalanche,5,Nashville Predators,4,SO,16438,,,Tuesday
+2014-03-25,19:00:00,Phoenix Coyotes,3,Pittsburgh Penguins,2,,18632,,,Tuesday
+2014-03-25,19:00:00,St. Louis Blues,5,Toronto Maple Leafs,3,,19505,,,Tuesday
+2014-03-25,19:00:00,Los Angeles Kings,5,Washington Capitals,4,SO,18506,,,Tuesday
+2014-03-26,22:00:00,Anaheim Ducks,3,Calgary Flames,2,,19289,,,Wednesday
+2014-03-26,19:30:00,Vancouver Canucks,5,Minnesota Wild,2,,19014,,,Wednesday
+2014-03-26,20:00:00,Philadelphia Flyers,1,New York Rangers,3,,18006,,,Wednesday
+2014-03-27,19:00:00,Chicago Blackhawks,0,Boston Bruins,3,,17565,,,Thursday
+2014-03-27,21:00:00,Vancouver Canucks,2,Colorado Avalanche,3,OT,16965,,,Thursday
+2014-03-27,19:00:00,Montreal Canadiens,5,Detroit Red Wings,4,,20066,,,Thursday
+2014-03-27,19:30:00,Carolina Hurricanes,3,Florida Panthers,0,,12379,,,Thursday
+2014-03-27,19:00:00,Phoenix Coyotes,3,New Jersey Devils,2,SO,15583,,,Thursday
+2014-03-27,20:00:00,Buffalo Sabres,1,Nashville Predators,6,,16729,,,Thursday
+2014-03-27,19:00:00,Los Angeles Kings,3,Pittsburgh Penguins,2,,18650,,,Thursday
+2014-03-27,22:30:00,Winnipeg Jets,4,San Jose Sharks,3,,17562,,,Thursday
+2014-03-27,20:00:00,Minnesota Wild,1,St. Louis Blues,5,,19646,,,Thursday
+2014-03-27,19:30:00,New York Islanders,2,Tampa Bay Lightning,3,SO,18554,,,Thursday
+2014-03-28,19:00:00,Pittsburgh Penguins,2,Columbus Blue Jackets,1,,18908,,,Friday
+2014-03-28,21:00:00,New York Rangers,3,Calgary Flames,4,,19289,,,Friday
+2014-03-28,20:30:00,Nashville Predators,3,Dallas Stars,7,,18532,,,Friday
+2014-03-28,21:30:00,Anaheim Ducks,3,Edmonton Oilers,4,OT,16839,,,Friday
+2014-03-28,19:30:00,Chicago Blackhawks,3,Ottawa Senators,5,,18922,,,Friday
+2014-03-28,19:00:00,Toronto Maple Leafs,2,Philadelphia Flyers,4,,19963,,,Friday
+2014-03-29,19:00:00,Tampa Bay Lightning,4,Buffalo Sabres,3,OT,19070,,,Saturday
+2014-03-29,19:00:00,Columbus Blue Jackets,3,Carolina Hurricanes,2,OT,16714,,,Saturday
+2014-03-29,15:00:00,San Jose Sharks,2,Colorado Avalanche,3,,18077,,,Saturday
+2014-03-29,19:00:00,Montreal Canadiens,4,Florida Panthers,1,,17119,,,Saturday
+2014-03-29,22:00:00,Winnipeg Jets,2,Los Angeles Kings,4,,18118,,,Saturday
+2014-03-29,19:00:00,New Jersey Devils,1,New York Islanders,2,SO,15108,,,Saturday
+2014-03-29,21:00:00,Minnesota Wild,3,Phoenix Coyotes,1,,16691,,,Saturday
+2014-03-29,20:00:00,Dallas Stars,4,St. Louis Blues,2,,19703,,,Saturday
+2014-03-29,19:00:00,Detroit Red Wings,4,Toronto Maple Leafs,2,,20270,,,Saturday
+2014-03-29,22:00:00,Anaheim Ducks,5,Vancouver Canucks,1,,18910,,,Saturday
+2014-03-29,12:30:00,Boston Bruins,4,Washington Capitals,2,,18506,,,Saturday
+2014-03-30,17:00:00,Tampa Bay Lightning,2,Detroit Red Wings,3,,20066,,,Sunday
+2014-03-30,20:00:00,New York Rangers,5,Edmonton Oilers,0,,16839,,,Sunday
+2014-03-30,20:00:00,Washington Capitals,3,Nashville Predators,4,SO,16553,,,Sunday
+2014-03-30,17:00:00,Calgary Flames,3,Ottawa Senators,6,,18505,,,Sunday
+2014-03-30,12:30:00,Boston Bruins,4,Philadelphia Flyers,3,SO,19958,,,Sunday
+2014-03-30,19:30:00,Chicago Blackhawks,1,Pittsburgh Penguins,4,,18655,,,Sunday
+2014-03-31,22:00:00,Winnipeg Jets,4,Anaheim Ducks,5,OT,17174,,,Monday
+2014-03-31,22:00:00,Minnesota Wild,3,Los Angeles Kings,2,,18118,,,Monday
+2014-03-31,19:30:00,Florida Panthers,3,New Jersey Devils,6,,15209,,,Monday
+2014-03-31,19:30:00,Carolina Hurricanes,1,Ottawa Senators,2,SO,16732,,,Monday
+2014-04-01,19:00:00,New Jersey Devils,2,Buffalo Sabres,3,SO,19070,,,Tuesday
+2014-04-01,19:00:00,Colorado Avalanche,3,Columbus Blue Jackets,2,OT,16550,,,Tuesday
+2014-04-01,19:00:00,Florida Panthers,2,New York Islanders,4,,11812,,,Tuesday
+2014-04-01,22:00:00,Winnipeg Jets,2,Phoenix Coyotes,1,SO,13724,,,Tuesday
+2014-04-01,19:00:00,Carolina Hurricanes,4,Pittsburgh Penguins,1,,18635,,,Tuesday
+2014-04-01,22:30:00,Edmonton Oilers,4,San Jose Sharks,5,,17562,,,Tuesday
+2014-04-01,20:00:00,Philadelphia Flyers,0,St. Louis Blues,1,SO,18647,,,Tuesday
+2014-04-01,19:30:00,Montreal Canadiens,1,Tampa Bay Lightning,3,,18808,,,Tuesday
+2014-04-01,19:00:00,Calgary Flames,2,Toronto Maple Leafs,3,,19482,,,Tuesday
+2014-04-01,22:00:00,New York Rangers,3,Vancouver Canucks,1,,18910,,,Tuesday
+2014-04-01,19:00:00,Dallas Stars,5,Washington Capitals,0,,18506,,,Tuesday
+2014-04-02,22:00:00,Edmonton Oilers,2,Anaheim Ducks,3,,17174,,,Wednesday
+2014-04-02,20:00:00,Boston Bruins,2,Detroit Red Wings,3,,20066,,,Wednesday
+2014-04-02,22:30:00,Phoenix Coyotes,0,Los Angeles Kings,4,,18118,,,Wednesday
+2014-04-02,19:00:00,New York Islanders,2,Ottawa Senators,1,,16516,,,Wednesday
+2014-04-03,19:00:00,Dallas Stars,1,Carolina Hurricanes,4,,15730,,,Thursday
+2014-04-03,20:00:00,Minnesota Wild,2,Chicago Blackhawks,3,SO,21791,,,Thursday
+2014-04-03,21:00:00,New York Rangers,2,Colorado Avalanche,3,SO,16721,,,Thursday
+2014-04-03,19:00:00,Columbus Blue Jackets,2,Philadelphia Flyers,0,,19981,,,Thursday
+2014-04-03,22:30:00,Los Angeles Kings,1,San Jose Sharks,2,,17562,,,Thursday
+2014-04-03,20:00:00,Buffalo Sabres,1,St. Louis Blues,2,,16146,,,Thursday
+2014-04-03,19:30:00,Calgary Flames,4,Tampa Bay Lightning,1,,17495,,,Thursday
+2014-04-03,19:30:00,Boston Bruins,3,Toronto Maple Leafs,4,OT,19609,,,Thursday
+2014-04-03,20:00:00,Pittsburgh Penguins,4,Winnipeg Jets,2,,15004,,,Thursday
+2014-04-04,22:00:00,Nashville Predators,5,Anaheim Ducks,2,,17174,,,Friday
+2014-04-04,19:00:00,Chicago Blackhawks,4,Columbus Blue Jackets,3,,18695,,,Friday
+2014-04-04,19:30:00,Buffalo Sabres,2,Detroit Red Wings,3,,20066,,,Friday
+2014-04-04,19:30:00,Calgary Flames,2,Florida Panthers,1,,12055,,,Friday
+2014-04-04,19:00:00,Washington Capitals,1,New Jersey Devils,2,,15218,,,Friday
+2014-04-04,19:00:00,Montreal Canadiens,7,Ottawa Senators,4,,19241,,,Friday
+2014-04-04,22:00:00,Edmonton Oilers,3,Phoenix Coyotes,2,SO,14732,,,Friday
+2014-04-05,13:00:00,Philadelphia Flyers,2,Boston Bruins,5,,17565,,,Saturday
+2014-04-05,19:00:00,New Jersey Devils,3,Carolina Hurricanes,1,,16123,,,Saturday
+2014-04-05,20:00:00,Pittsburgh Penguins,0,Minnesota Wild,4,,19409,,,Saturday
+2014-04-05,19:00:00,Detroit Red Wings,3,Montreal Canadiens,5,,21273,,,Saturday
+2014-04-05,17:00:00,Washington Capitals,4,New York Islanders,3,SO,16008,,,Saturday
+2014-04-05,19:00:00,Ottawa Senators,3,New York Rangers,2,,18006,,,Saturday
+2014-04-05,22:30:00,Nashville Predators,3,San Jose Sharks,0,,17562,,,Saturday
+2014-04-05,14:00:00,Colorado Avalanche,4,St. Louis Blues,0,,19153,,,Saturday
+2014-04-05,19:00:00,Dallas Stars,5,Tampa Bay Lightning,2,,19204,,,Saturday
+2014-04-05,19:00:00,Winnipeg Jets,4,Toronto Maple Leafs,2,,19544,,,Saturday
+2014-04-05,22:00:00,Los Angeles Kings,1,Vancouver Canucks,2,,18910,,,Saturday
+2014-04-06,18:00:00,New York Islanders,0,Columbus Blue Jackets,4,,15667,,,Sunday
+2014-04-06,12:30:00,St. Louis Blues,2,Chicago Blackhawks,4,,22184,,,Sunday
+2014-04-06,20:00:00,Pittsburgh Penguins,3,Colorado Avalanche,2,SO,18007,,,Sunday
+2014-04-06,20:00:00,Anaheim Ducks,2,Edmonton Oilers,4,,16839,,,Sunday
+2014-04-06,17:00:00,Dallas Stars,2,Florida Panthers,3,,13366,,,Sunday
+2014-04-06,19:30:00,Buffalo Sabres,2,Philadelphia Flyers,5,,19603,,,Sunday
+2014-04-07,19:00:00,Calgary Flames,1,New Jersey Devils,0,,14297,,,Monday
+2014-04-07,22:00:00,Anaheim Ducks,3,Vancouver Canucks,0,,18910,,,Monday
+2014-04-07,20:00:00,Minnesota Wild,1,Winnipeg Jets,0,,15004,,,Monday
+2014-04-08,19:00:00,Detroit Red Wings,4,Buffalo Sabres,2,,18710,,,Tuesday
+2014-04-08,19:00:00,Phoenix Coyotes,3,Columbus Blue Jackets,4,OT,16289,,,Tuesday
+2014-04-08,20:30:00,Nashville Predators,2,Dallas Stars,3,SO,16219,,,Tuesday
+2014-04-08,21:30:00,Colorado Avalanche,4,Edmonton Oilers,1,,16839,,,Tuesday
+2014-04-08,19:30:00,Philadelphia Flyers,5,Florida Panthers,2,,12487,,,Tuesday
+2014-04-08,20:00:00,Boston Bruins,3,Minnesota Wild,4,SO,18893,,,Tuesday
+2014-04-08,19:00:00,Ottawa Senators,4,New York Islanders,1,,12922,,,Tuesday
+2014-04-08,19:00:00,Carolina Hurricanes,1,New York Rangers,4,,18006,,,Tuesday
+2014-04-08,20:00:00,Washington Capitals,4,St. Louis Blues,1,,17447,,,Tuesday
+2014-04-08,19:30:00,Toronto Maple Leafs,0,Tampa Bay Lightning,3,,18896,,,Tuesday
+2014-04-09,22:30:00,San Jose Sharks,2,Anaheim Ducks,5,,17322,,,Wednesday
+2014-04-09,22:00:00,Los Angeles Kings,3,Calgary Flames,4,SO,19289,,,Wednesday
+2014-04-09,19:30:00,Montreal Canadiens,2,Chicago Blackhawks,3,OT,21571,,,Wednesday
+2014-04-09,20:30:00,Columbus Blue Jackets,3,Dallas Stars,1,,16125,,"Continuation of suspended game from 2014-03-10, where Rich Peverley (DAL) suffered a cardiac event on the bench. Played full 60 minutes, but game started with 1-0 Columbus lead.",Wednesday
+2014-04-09,20:00:00,Detroit Red Wings,3,Pittsburgh Penguins,4,SO,18620,,,Wednesday
+2014-04-10,19:00:00,Washington Capitals,5,Carolina Hurricanes,2,,15735,,,Thursday
+2014-04-10,21:30:00,Los Angeles Kings,3,Edmonton Oilers,0,,16839,,,Thursday
+2014-04-10,19:30:00,Toronto Maple Leafs,2,Florida Panthers,4,,13110,,,Thursday
+2014-04-10,20:00:00,St. Louis Blues,2,Minnesota Wild,4,,18664,,,Thursday
+2014-04-10,19:30:00,New York Islanders,2,Montreal Canadiens,0,,21273,,,Thursday
+2014-04-10,20:00:00,Phoenix Coyotes,0,Nashville Predators,2,,17174,,,Thursday
+2014-04-10,19:00:00,Buffalo Sabres,1,New York Rangers,2,,18006,,,Thursday
+2014-04-10,19:30:00,New Jersey Devils,1,Ottawa Senators,2,SO,19270,,,Thursday
+2014-04-10,19:30:00,Philadelphia Flyers,2,Tampa Bay Lightning,4,,19204,,,Thursday
+2014-04-10,22:00:00,Colorado Avalanche,4,Vancouver Canucks,2,,18910,,,Thursday
+2014-04-10,20:00:00,Boston Bruins,1,Winnipeg Jets,2,SO,15004,,,Thursday
+2014-04-11,21:00:00,Winnipeg Jets,5,Calgary Flames,3,,19289,,,Friday
+2014-04-11,20:30:00,St. Louis Blues,0,Dallas Stars,3,,18532,,,Friday
+2014-04-11,19:30:00,Carolina Hurricanes,2,Detroit Red Wings,1,,20066,,,Friday
+2014-04-11,19:30:00,New York Islanders,3,New Jersey Devils,2,SO,15858,,,Friday
+2014-04-11,22:00:00,Colorado Avalanche,1,San Jose Sharks,5,,17562,,,Friday
+2014-04-11,19:30:00,Columbus Blue Jackets,2,Tampa Bay Lightning,3,,18686,,,Friday
+2014-04-11,19:00:00,Chicago Blackhawks,0,Washington Capitals,4,,18506,,,Friday
+2014-04-12,12:30:00,Buffalo Sabres,1,Boston Bruins,4,,17565,,,Saturday
+2014-04-12,22:00:00,Vancouver Canucks,2,Edmonton Oilers,5,,16839,,,Saturday
+2014-04-12,19:00:00,Columbus Blue Jackets,3,Florida Panthers,2,,14241,,,Saturday
+2014-04-12,22:30:00,Anaheim Ducks,4,Los Angeles Kings,3,SO,18372,,,Saturday
+2014-04-12,19:00:00,New York Rangers,0,Montreal Canadiens,1,OT,21273,,,Saturday
+2014-04-12,20:00:00,Chicago Blackhawks,5,Nashville Predators,7,,17355,,,Saturday
+2014-04-12,19:00:00,Toronto Maple Leafs,0,Ottawa Senators,1,,20500,,,Saturday
+2014-04-12,21:00:00,San Jose Sharks,3,Phoenix Coyotes,2,,15438,,,Saturday
+2014-04-12,15:00:00,Philadelphia Flyers,4,Pittsburgh Penguins,3,OT,18673,,,Saturday
+2014-04-13,20:00:00,Colorado Avalanche,2,Anaheim Ducks,3,OT,17528,,,Sunday
+2014-04-13,17:00:00,New York Islanders,4,Buffalo Sabres,3,SO,18804,,,Sunday
+2014-04-13,20:00:00,Nashville Predators,7,Minnesota Wild,3,,18658,,,Sunday
+2014-04-13,15:00:00,Boston Bruins,2,New Jersey Devils,3,,16592,,,Sunday
+2014-04-13,15:00:00,Carolina Hurricanes,6,Philadelphia Flyers,5,SO,19727,,,Sunday
+2014-04-13,21:00:00,Dallas Stars,1,Phoenix Coyotes,2,,15146,,,Sunday
+2014-04-13,19:30:00,Ottawa Senators,3,Pittsburgh Penguins,2,SO,18663,,,Sunday
+2014-04-13,12:30:00,Detroit Red Wings,3,St. Louis Blues,0,,18430,,,Sunday
+2014-04-13,21:00:00,Calgary Flames,1,Vancouver Canucks,5,,18910,,,Sunday
+2014-04-13,15:00:00,Tampa Bay Lightning,1,Washington Capitals,0,SO,18506,,,Sunday

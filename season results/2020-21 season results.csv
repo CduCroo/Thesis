@@ -1,0 +1,869 @@
+Date,Time,Visitor,G_Visitor,Home,G_Home,OT_SO,Attendance,LOG,Notes,Day
+2021-01-13,22:30:00,St. Louis Blues,4,Colorado Avalanche,1,,,2:24,,Wednesday
+2021-01-13,22:00:00,Vancouver Canucks,5,Edmonton Oilers,3,,,2:24,,Wednesday
+2021-01-13,17:30:00,Pittsburgh Penguins,3,Philadelphia Flyers,6,,,2:21,,Wednesday
+2021-01-13,20:00:00,Chicago Blackhawks,1,Tampa Bay Lightning,5,,,2:26,,Wednesday
+2021-01-13,19:00:00,Montreal Canadiens,4,Toronto Maple Leafs,5,OT,,2:38,,Wednesday
+2021-01-14,21:00:00,San Jose Sharks,4,Arizona Coyotes,3,SO,2274.0,2:37,,Thursday
+2021-01-14,19:00:00,Washington Capitals,6,Buffalo Sabres,4,,,2:23,,Thursday
+2021-01-14,19:30:00,Carolina Hurricanes,3,Detroit Red Wings,0,,,2:25,,Thursday
+2021-01-14,21:00:00,Vancouver Canucks,2,Edmonton Oilers,5,,,2:30,,Thursday
+2021-01-14,22:00:00,Minnesota Wild,4,Los Angeles Kings,3,OT,,2:37,,Thursday
+2021-01-14,19:00:00,Boston Bruins,3,New Jersey Devils,2,SO,,2:43,,Thursday
+2021-01-14,20:00:00,Columbus Blue Jackets,1,Nashville Predators,3,,,2:29,,Thursday
+2021-01-14,19:00:00,New York Islanders,4,New York Rangers,0,,,2:30,,Thursday
+2021-01-14,22:00:00,Anaheim Ducks,2,Vegas Golden Knights,5,,,2:24,,Thursday
+2021-01-14,20:00:00,Calgary Flames,3,Winnipeg Jets,4,OT,,2:26,,Thursday
+2021-01-15,19:00:00,Washington Capitals,2,Buffalo Sabres,1,,,2:17,,Friday
+2021-01-15,21:00:00,St. Louis Blues,0,Colorado Avalanche,8,,,2:31,,Friday
+2021-01-15,19:00:00,Toronto Maple Leafs,3,Ottawa Senators,5,,,2:28,,Friday
+2021-01-15,19:00:00,Pittsburgh Penguins,2,Philadelphia Flyers,5,,,2:23,,Friday
+2021-01-15,19:00:00,Chicago Blackhawks,2,Tampa Bay Lightning,5,,,2:23,,Friday
+2021-01-16,16:00:00,San Jose Sharks,3,Arizona Coyotes,5,,2384.0,2:22,,Saturday
+2021-01-16,22:00:00,Vancouver Canucks,0,Calgary Flames,3,,,2:24,,Saturday
+2021-01-16,19:00:00,Carolina Hurricanes,2,Detroit Red Wings,4,,,2:28,,Saturday
+2021-01-16,19:00:00,Montreal Canadiens,5,Edmonton Oilers,1,,,2:20,,Saturday
+2021-01-16,21:00:00,Minnesota Wild,4,Los Angeles Kings,3,OT,,2:42,,Saturday
+2021-01-16,13:00:00,Boston Bruins,1,New Jersey Devils,2,OT,,2:34,,Saturday
+2021-01-16,20:00:00,Columbus Blue Jackets,2,Nashville Predators,5,,,2:28,,Saturday
+2021-01-16,19:00:00,New York Islanders,0,New York Rangers,5,,,2:41,,Saturday
+2021-01-16,19:00:00,Toronto Maple Leafs,3,Ottawa Senators,2,,,2:23,,Saturday
+2021-01-16,22:00:00,Anaheim Ducks,1,Vegas Golden Knights,2,OT,,2:18,,Saturday
+2021-01-17,19:00:00,Chicago Blackhawks,2,Florida Panthers,5,,4147.0,2:27,,Sunday
+2021-01-17,12:00:00,Washington Capitals,3,Pittsburgh Penguins,4,SO,,2:40,,Sunday
+2021-01-18,21:00:00,Minnesota Wild,0,Anaheim Ducks,1,,,2:28,,Monday
+2021-01-18,21:00:00,Vancouver Canucks,2,Calgary Flames,5,,,2:21,,Monday
+2021-01-18,12:00:00,Columbus Blue Jackets,3,Detroit Red Wings,2,,,2:37,,Monday
+2021-01-18,21:00:00,Montreal Canadiens,3,Edmonton Oilers,1,,,2:26,,Monday
+2021-01-18,20:00:00,Carolina Hurricanes,4,Nashville Predators,2,,,2:22,,Monday
+2021-01-18,17:00:00,Boston Bruins,0,New York Islanders,1,,,2:26,,Monday
+2021-01-18,19:30:00,Buffalo Sabres,6,Philadelphia Flyers,1,,,2:26,,Monday
+2021-01-18,20:00:00,San Jose Sharks,4,St. Louis Blues,5,,,2:32,,Monday
+2021-01-18,19:00:00,Winnipeg Jets,1,Toronto Maple Leafs,3,,,2:20,,Monday
+2021-01-18,22:00:00,Arizona Coyotes,2,Vegas Golden Knights,4,,,2:33,,Monday
+2021-01-19,19:30:00,Columbus Blue Jackets,2,Detroit Red Wings,3,OT,,2:21,,Tuesday
+2021-01-19,19:00:00,Chicago Blackhawks,4,Florida Panthers,5,OT,3667.0,2:34,,Tuesday
+2021-01-19,22:00:00,Colorado Avalanche,3,Los Angeles Kings,2,,,2:27,,Tuesday
+2021-01-19,19:00:00,New Jersey Devils,4,New York Rangers,3,,,2:30,,Tuesday
+2021-01-19,19:00:00,Winnipeg Jets,4,Ottawa Senators,3,OT,,2:29,,Tuesday
+2021-01-19,19:00:00,Buffalo Sabres,0,Philadelphia Flyers,3,,,2:29,,Tuesday
+2021-01-19,19:00:00,Washington Capitals,4,Pittsburgh Penguins,5,OT,,2:34,,Tuesday
+2021-01-20,21:30:00,Minnesota Wild,3,Anaheim Ducks,2,,,2:33,,Wednesday
+2021-01-20,21:00:00,San Jose Sharks,2,St. Louis Blues,1,SO,,2:36,,Wednesday
+2021-01-20,19:00:00,Edmonton Oilers,3,Toronto Maple Leafs,1,,,2:17,,Wednesday
+2021-01-20,22:00:00,Montreal Canadiens,5,Vancouver Canucks,6,SO,,2:31,,Wednesday
+2021-01-20,22:00:00,Arizona Coyotes,2,Vegas Golden Knights,5,,,2:24,,Wednesday
+2021-01-21,19:00:00,Philadelphia Flyers,4,Boston Bruins,5,SO,,2:46,,Thursday
+2021-01-21,19:00:00,Tampa Bay Lightning,3,Columbus Blue Jackets,2,OT,,2:29,,Thursday
+2021-01-21,22:00:00,Colorado Avalanche,2,Los Angeles Kings,4,,,2:25,,Thursday
+2021-01-21,19:00:00,New Jersey Devils,1,New York Islanders,4,,,2:25,,Thursday
+2021-01-21,19:00:00,Winnipeg Jets,4,Ottawa Senators,1,,,2:25,,Thursday
+2021-01-21,21:30:00,Montreal Canadiens,7,Vancouver Canucks,3,,,2:31,,Thursday
+2021-01-22,22:00:00,Colorado Avalanche,3,Anaheim Ducks,2,OT,,2:35,,Friday
+2021-01-22,21:00:00,Vegas Golden Knights,2,Arizona Coyotes,5,,2712.0,2:21,,Friday
+2021-01-22,20:00:00,Detroit Red Wings,1,Chicago Blackhawks,4,,,2:17,,Friday
+2021-01-22,20:30:00,Nashville Predators,0,Dallas Stars,7,,4214.0,2:32,,Friday
+2021-01-22,20:00:00,San Jose Sharks,1,Minnesota Wild,4,,,2:28,,Friday
+2021-01-22,19:00:00,New York Rangers,3,Pittsburgh Penguins,4,SO,,2:27,,Friday
+2021-01-22,19:00:00,Edmonton Oilers,2,Toronto Maple Leafs,4,,,2:21,,Friday
+2021-01-22,19:00:00,Buffalo Sabres,3,Washington Capitals,4,SO,,2:39,,Friday
+2021-01-23,19:00:00,Philadelphia Flyers,1,Boston Bruins,6,,,2:26,,Saturday
+2021-01-23,14:00:00,Tampa Bay Lightning,2,Columbus Blue Jackets,5,,,2:26,,Saturday
+2021-01-23,20:00:00,Los Angeles Kings,2,St. Louis Blues,4,,,2:27,,Saturday
+2021-01-23,19:00:00,Montreal Canadiens,5,Vancouver Canucks,2,,,2:29,,Saturday
+2021-01-23,22:00:00,Ottawa Senators,3,Winnipeg Jets,6,,,2:27,,Saturday
+2021-01-24,20:00:00,Colorado Avalanche,1,Anaheim Ducks,3,,,2:19,,Sunday
+2021-01-24,16:00:00,Vegas Golden Knights,1,Arizona Coyotes,0,,2672.0,2:17,,Sunday
+2021-01-24,16:00:00,Toronto Maple Leafs,3,Calgary Flames,2,,,2:22,,Sunday
+2021-01-24,12:30:00,Detroit Red Wings,2,Chicago Blackhawks,6,,,2:11,,Sunday
+2021-01-24,20:00:00,Nashville Predators,2,Dallas Stars,3,,4056.0,2:28,,Sunday
+2021-01-24,20:00:00,San Jose Sharks,5,Minnesota Wild,3,,,2:36,,Sunday
+2021-01-24,19:00:00,New York Islanders,0,New Jersey Devils,2,,,2:24,,Sunday
+2021-01-24,19:00:00,New York Rangers,2,Pittsburgh Penguins,3,,,2:25,,Sunday
+2021-01-24,20:00:00,Los Angeles Kings,6,St. Louis Blues,3,,,2:28,,Sunday
+2021-01-24,21:00:00,Edmonton Oilers,4,Winnipeg Jets,3,,,2:27,,Sunday
+2021-01-24,15:00:00,Buffalo Sabres,4,Washington Capitals,3,SO,,2:44,,Sunday
+2021-01-25,22:00:00,Ottawa Senators,1,Vancouver Canucks,7,,,2:30,,Monday
+2021-01-26,21:00:00,Anaheim Ducks,1,Arizona Coyotes,0,,1808.0,2:25,,Tuesday
+2021-01-26,19:00:00,Pittsburgh Penguins,2,Boston Bruins,3,OT,,2:40,,Tuesday
+2021-01-26,19:00:00,New York Rangers,2,Buffalo Sabres,3,,,2:22,,Tuesday
+2021-01-26,19:00:00,Florida Panthers,4,Columbus Blue Jackets,3,SO,,2:29,,Tuesday
+2021-01-26,21:00:00,Toronto Maple Leafs,4,Calgary Flames,3,,,2:24,,Tuesday
+2021-01-26,21:00:00,San Jose Sharks,3,Colorado Avalanche,7,,,2:32,,Tuesday
+2021-01-26,20:30:00,Detroit Red Wings,1,Dallas Stars,2,OT,4109.0,2:26,,Tuesday
+2021-01-26,20:00:00,Los Angeles Kings,2,Minnesota Wild,1,,,2:22,,Tuesday
+2021-01-26,19:00:00,Philadelphia Flyers,5,New Jersey Devils,3,,,2:24,,Tuesday
+2021-01-26,20:00:00,Chicago Blackhawks,2,Nashville Predators,3,OT,,2:28,,Tuesday
+2021-01-26,21:00:00,St. Louis Blues,5,Vegas Golden Knights,4,SO,,2:41,,Tuesday
+2021-01-26,20:00:00,Edmonton Oilers,4,Winnipeg Jets,6,,,2:21,,Tuesday
+2021-01-26,19:00:00,New York Islanders,2,Washington Capitals,3,,,2:25,,Tuesday
+2021-01-27,19:30:00,Chicago Blackhawks,1,Nashville Predators,2,SO,,2:24,,Wednesday
+2021-01-27,20:00:00,Ottawa Senators,1,Vancouver Canucks,5,,,2:22,,Wednesday
+2021-01-28,21:00:00,Anaheim Ducks,2,Arizona Coyotes,3,,2252.0,2:25,,Thursday
+2021-01-28,19:00:00,Pittsburgh Penguins,1,Boston Bruins,4,,,2:15,,Thursday
+2021-01-28,19:00:00,New York Rangers,3,Buffalo Sabres,2,OT,,2:28,,Thursday
+2021-01-28,19:00:00,Tampa Bay Lightning,0,Carolina Hurricanes,1,OT,,2:23,,Thursday
+2021-01-28,19:00:00,Florida Panthers,2,Columbus Blue Jackets,3,SO,,2:30,,Thursday
+2021-01-28,21:00:00,San Jose Sharks,0,Colorado Avalanche,3,,,2:25,,Thursday
+2021-01-28,20:30:00,Detroit Red Wings,3,Dallas Stars,7,,4214.0,2:27,,Thursday
+2021-01-28,22:00:00,Toronto Maple Leafs,4,Edmonton Oilers,3,,,2:22,,Thursday
+2021-01-28,20:00:00,Los Angeles Kings,3,Minnesota Wild,5,,,2:32,,Thursday
+2021-01-28,19:00:00,Calgary Flames,2,Montreal Canadiens,4,,,2:27,,Thursday
+2021-01-28,19:00:00,Philadelphia Flyers,3,New Jersey Devils,1,,,2:19,,Thursday
+2021-01-28,22:00:00,Ottawa Senators,1,Vancouver Canucks,4,,,2:20,,Thursday
+2021-01-28,19:00:00,New York Islanders,3,Washington Capitals,6,,,2:28,,Thursday
+2021-01-29,20:00:00,Columbus Blue Jackets,2,Chicago Blackhawks,1,,,2:16,,Friday
+2021-01-30,21:00:00,St. Louis Blues,6,Anaheim Ducks,1,,,2:19,,Saturday
+2021-01-30,13:00:00,New Jersey Devils,3,Buffalo Sabres,4,SO,,2:39,,Saturday
+2021-01-30,19:00:00,Dallas Stars,1,Carolina Hurricanes,4,,,2:33,,Saturday
+2021-01-30,19:00:00,Florida Panthers,3,Detroit Red Wings,2,OT,,2:30,,Saturday
+2021-01-30,19:00:00,Toronto Maple Leafs,3,Edmonton Oilers,4,OT,,2:31,,Saturday
+2021-01-30,20:00:00,Colorado Avalanche,5,Minnesota Wild,1,,,2:31,,Saturday
+2021-01-30,19:00:00,Calgary Flames,2,Montreal Canadiens,0,,,2:31,,Saturday
+2021-01-30,19:00:00,Pittsburgh Penguins,5,New York Rangers,4,OT,,2:27,,Saturday
+2021-01-30,19:00:00,New York Islanders,2,Philadelphia Flyers,3,OT,,2:19,,Saturday
+2021-01-30,19:00:00,Nashville Predators,3,Tampa Bay Lightning,4,,,2:35,,Saturday
+2021-01-30,22:00:00,Vancouver Canucks,4,Winnipeg Jets,1,,,2:22,,Saturday
+2021-01-30,19:00:00,Boston Bruins,3,Washington Capitals,4,OT,,2:28,,Saturday
+2021-01-31,20:00:00,St. Louis Blues,4,Anaheim Ducks,1,,,2:23,,Sunday
+2021-01-31,13:00:00,New Jersey Devils,5,Buffalo Sabres,3,,,2:24,,Sunday
+2021-01-31,17:00:00,Dallas Stars,3,Carolina Hurricanes,4,SO,,2:42,,Sunday
+2021-01-31,19:00:00,Columbus Blue Jackets,1,Chicago Blackhawks,3,,,2:15,,Sunday
+2021-01-31,17:00:00,Florida Panthers,3,Detroit Red Wings,2,,,2:29,,Sunday
+2021-01-31,21:00:00,Ottawa Senators,5,Edmonton Oilers,8,,,2:33,,Sunday
+2021-01-31,20:00:00,Colorado Avalanche,3,Minnesota Wild,4,OT,,2:31,,Sunday
+2021-01-31,19:00:00,New York Islanders,3,Philadelphia Flyers,4,OT,,2:25,,Sunday
+2021-02-01,19:00:00,Vancouver Canucks,2,Montreal Canadiens,6,,,2:20,,Monday
+2021-02-01,19:00:00,Pittsburgh Penguins,1,New York Rangers,3,,,2:20,,Monday
+2021-02-01,19:00:00,Nashville Predators,2,Tampa Bay Lightning,5,,,2:25,,Monday
+2021-02-01,20:00:00,Calgary Flames,4,Winnipeg Jets,3,SO,,2:18,,Monday
+2021-02-01,19:00:00,Boston Bruins,5,Washington Capitals,3,,,2:27,,Monday
+2021-02-02,19:00:00,Dallas Stars,6,Columbus Blue Jackets,3,,,2:21,,Tuesday
+2021-02-02,20:00:00,Carolina Hurricanes,4,Chicago Blackhawks,3,SO,,2:34,,Tuesday
+2021-02-02,20:30:00,Minnesota Wild,1,Colorado Avalanche,2,,,2:29,,Tuesday
+2021-02-02,22:00:00,Ottawa Senators,2,Edmonton Oilers,4,,,2:26,,Tuesday
+2021-02-02,22:00:00,Anaheim Ducks,3,Los Angeles Kings,1,,,2:19,,Tuesday
+2021-02-02,19:00:00,Vancouver Canucks,3,Montreal Canadiens,5,,,2:28,,Tuesday
+2021-02-02,20:00:00,Arizona Coyotes,3,St. Louis Blues,4,,,2:30,,Tuesday
+2021-02-02,20:00:00,Calgary Flames,2,Winnipeg Jets,3,,,2:17,,Tuesday
+2021-02-03,20:00:00,Boston Bruins,4,Philadelphia Flyers,3,OT,,2:27,,Wednesday
+2021-02-03,17:30:00,Detroit Red Wings,1,Tampa Bay Lightning,5,,,2:18,,Wednesday
+2021-02-04,19:00:00,Dallas Stars,3,Columbus Blue Jackets,4,,,2:24,,Thursday
+2021-02-04,20:00:00,Carolina Hurricanes,4,Chicago Blackhawks,6,,,2:32,,Thursday
+2021-02-04,19:00:00,Nashville Predators,6,Florida Panthers,5,OT,3698.0,2:39,,Thursday
+2021-02-04,19:00:00,Ottawa Senators,3,Montreal Canadiens,2,,,2:26,,Thursday
+2021-02-04,19:00:00,Washington Capitals,2,New York Rangers,4,,,2:27,,Thursday
+2021-02-04,20:00:00,Arizona Coyotes,4,St. Louis Blues,3,,,2:22,,Thursday
+2021-02-04,19:00:00,Vancouver Canucks,3,Toronto Maple Leafs,7,,,2:25,,Thursday
+2021-02-04,20:00:00,Calgary Flames,1,Winnipeg Jets,4,,,2:17,,Thursday
+2021-02-05,22:00:00,San Jose Sharks,5,Anaheim Ducks,4,SO,,2:41,,Friday
+2021-02-05,19:00:00,Nashville Predators,1,Florida Panthers,2,,,2:33,,Friday
+2021-02-05,19:00:00,Boston Bruins,2,Philadelphia Flyers,1,,,2:30,,Friday
+2021-02-05,19:00:00,Detroit Red Wings,1,Tampa Bay Lightning,3,,,2:21,,Friday
+2021-02-05,22:00:00,Los Angeles Kings,2,Vegas Golden Knights,5,,,2:31,,Friday
+2021-02-06,22:00:00,San Jose Sharks,1,Anaheim Ducks,2,SO,,2:36,,Saturday
+2021-02-06,22:00:00,Edmonton Oilers,4,Calgary Flames,6,,,2:33,,Saturday
+2021-02-06,19:00:00,Pittsburgh Penguins,3,New York Islanders,4,,,2:15,,Saturday
+2021-02-06,13:00:00,Montreal Canadiens,2,Ottawa Senators,1,,,2:28,,Saturday
+2021-02-06,15:00:00,Arizona Coyotes,3,St. Louis Blues,1,,,2:21,,Saturday
+2021-02-06,19:00:00,Vancouver Canucks,1,Toronto Maple Leafs,5,,,2:25,,Saturday
+2021-02-07,15:00:00,Carolina Hurricanes,6,Columbus Blue Jackets,5,,,2:33,,Sunday
+2021-02-07,15:00:00,Chicago Blackhawks,2,Dallas Stars,1,OT,4203.0,2:29,,Sunday
+2021-02-07,15:00:00,Detroit Red Wings,4,Florida Panthers,1,,3706.0,2:26,,Sunday
+2021-02-07,15:00:00,Los Angeles Kings,3,Vegas Golden Knights,4,,,2:21,,Sunday
+2021-02-07,12:00:00,Philadelphia Flyers,7,Washington Capitals,4,,,2:18,,Sunday
+2021-02-08,19:00:00,Carolina Hurricanes,2,Columbus Blue Jackets,3,,,2:29,,Monday
+2021-02-08,20:00:00,Tampa Bay Lightning,4,Nashville Predators,1,,,2:28,,Monday
+2021-02-08,19:00:00,New York Islanders,2,New York Rangers,0,,,2:16,,Monday
+2021-02-08,19:00:00,Edmonton Oilers,3,Ottawa Senators,1,,,2:25,,Monday
+2021-02-08,20:00:00,Arizona Coyotes,4,St. Louis Blues,3,SO,,2:42,,Monday
+2021-02-08,19:00:00,Vancouver Canucks,1,Toronto Maple Leafs,3,,,2:18,,Monday
+2021-02-09,22:00:00,Winnipeg Jets,2,Calgary Flames,3,,,2:22,,Tuesday
+2021-02-09,20:30:00,Chicago Blackhawks,2,Dallas Stars,1,OT,4059.0,2:22,,Tuesday
+2021-02-09,19:00:00,Detroit Red Wings,1,Florida Panthers,2,,3477.0,2:14,,Tuesday
+2021-02-09,22:00:00,San Jose Sharks,4,Los Angeles Kings,3,SO,,2:30,,Tuesday
+2021-02-09,20:30:00,Tampa Bay Lightning,6,Nashville Predators,1,,,2:33,,Tuesday
+2021-02-09,19:00:00,Edmonton Oilers,3,Ottawa Senators,2,,,2:26,,Tuesday
+2021-02-09,22:00:00,Anaheim Ducks,4,Vegas Golden Knights,5,,,2:23,,Tuesday
+2021-02-10,19:30:00,Toronto Maple Leafs,4,Montreal Canadiens,2,,,2:23,,Wednesday
+2021-02-10,19:00:00,Boston Bruins,3,New York Rangers,2,OT,,2:32,,Wednesday
+2021-02-11,20:00:00,Columbus Blue Jackets,6,Chicago Blackhawks,5,,,2:19,,Thursday
+2021-02-11,20:30:00,Carolina Hurricanes,5,Dallas Stars,3,,3687.0,2:41,,Thursday
+2021-02-11,19:00:00,Tampa Bay Lightning,2,Florida Panthers,5,,3808.0,2:21,,Thursday
+2021-02-11,22:00:00,San Jose Sharks,2,Los Angeles Kings,6,,,2:24,,Thursday
+2021-02-11,20:00:00,Edmonton Oilers,3,Montreal Canadiens,0,,,2:21,,Thursday
+2021-02-11,20:00:00,Detroit Red Wings,2,Nashville Predators,3,,,2:22,,Thursday
+2021-02-11,19:00:00,Pittsburgh Penguins,4,New York Islanders,3,SO,,2:40,,Thursday
+2021-02-11,22:00:00,Calgary Flames,3,Vancouver Canucks,1,,,2:26,,Thursday
+2021-02-11,22:00:00,Anaheim Ducks,1,Vegas Golden Knights,0,,,2:11,,Thursday
+2021-02-11,20:00:00,Ottawa Senators,1,Winnipeg Jets,5,,,2:16,,Thursday
+2021-02-12,21:00:00,St. Louis Blues,4,Arizona Coyotes,1,,2457.0,2:29,,Friday
+2021-02-12,19:00:00,Boston Bruins,1,New York Rangers,0,,,2:30,,Friday
+2021-02-13,20:00:00,St. Louis Blues,5,Arizona Coyotes,4,OT,3237.0,2:34,,Saturday
+2021-02-13,20:00:00,Columbus Blue Jackets,2,Chicago Blackhawks,3,OT,,2:20,,Saturday
+2021-02-13,20:00:00,Carolina Hurricanes,4,Dallas Stars,3,SO,4071.0,2:43,,Saturday
+2021-02-13,19:00:00,Tampa Bay Lightning,6,Florida Panthers,1,,4509.0,2:32,,Saturday
+2021-02-13,20:00:00,Detroit Red Wings,4,Nashville Predators,2,,,2:20,,Saturday
+2021-02-13,19:00:00,Boston Bruins,2,New York Islanders,4,,,2:30,,Saturday
+2021-02-13,16:00:00,Vegas Golden Knights,3,San Jose Sharks,1,,,2:27,,Saturday
+2021-02-13,19:00:00,Montreal Canadiens,2,Toronto Maple Leafs,1,,,2:12,,Saturday
+2021-02-13,22:00:00,Calgary Flames,1,Vancouver Canucks,3,,,2:25,,Saturday
+2021-02-13,15:00:00,Ottawa Senators,2,Winnipeg Jets,1,,,2:17,,Saturday
+2021-02-14,15:00:00,Washington Capitals,3,Pittsburgh Penguins,6,,,2:30,,Sunday
+2021-02-14,19:00:00,Colorado Avalanche,0,Vegas Golden Knights,1,,,2:23,,Sunday
+2021-02-15,16:00:00,St. Louis Blues,0,Arizona Coyotes,1,,2554.0,2:21,,Monday
+2021-02-15,19:00:00,New York Islanders,3,Buffalo Sabres,1,,,2:19,,Monday
+2021-02-15,19:00:00,Columbus Blue Jackets,3,Carolina Hurricanes,7,,,2:37,,Monday
+2021-02-15,19:30:00,Chicago Blackhawks,3,Detroit Red Wings,2,OT,,2:23,,Monday
+2021-02-15,21:00:00,Winnipeg Jets,6,Edmonton Oilers,5,,,2:24,,Monday
+2021-02-15,22:30:00,Anaheim Ducks,2,San Jose Sharks,3,,,2:23,,Monday
+2021-02-15,19:00:00,Florida Panthers,6,Tampa Bay Lightning,4,,100.0,2:35,,Monday
+2021-02-15,19:00:00,Ottawa Senators,6,Toronto Maple Leafs,5,OT,,2:40,,Monday
+2021-02-15,22:00:00,Calgary Flames,4,Vancouver Canucks,3,OT,,2:32,,Monday
+2021-02-16,19:00:00,New York Islanders,3,Buffalo Sabres,0,,,2:27,,Tuesday
+2021-02-16,22:00:00,Minnesota Wild,0,Los Angeles Kings,4,,,2:31,,Tuesday
+2021-02-16,19:00:00,New Jersey Devils,5,New York Rangers,2,,,2:35,,Tuesday
+2021-02-16,19:00:00,Washington Capitals,3,Pittsburgh Penguins,1,,,2:22,,Tuesday
+2021-02-16,22:00:00,Colorado Avalanche,3,Vegas Golden Knights,2,,,2:23,,Tuesday
+2021-02-17,17:00:00,Florida Panthers,4,Carolina Hurricanes,3,OT,,2:33,,Wednesday
+2021-02-17,22:00:00,Vancouver Canucks,5,Calgary Flames,1,,,2:20,,Wednesday
+2021-02-17,19:30:00,Chicago Blackhawks,2,Detroit Red Wings,0,,,2:12,,Wednesday
+2021-02-17,22:00:00,Winnipeg Jets,2,Edmonton Oilers,3,,,2:25,,Wednesday
+2021-02-17,19:00:00,Ottawa Senators,1,Toronto Maple Leafs,2,,,2:22,,Wednesday
+2021-02-18,22:00:00,Minnesota Wild,3,Anaheim Ducks,1,,,2:26,,Thursday
+2021-02-18,21:00:00,Los Angeles Kings,3,Arizona Coyotes,2,SO,2281.0,2:35,,Thursday
+2021-02-18,19:00:00,New Jersey Devils,3,Boston Bruins,2,,,2:28,,Thursday
+2021-02-18,19:00:00,Nashville Predators,0,Columbus Blue Jackets,3,,,2:23,,Thursday
+2021-02-18,19:00:00,New York Rangers,3,Philadelphia Flyers,2,SO,,2:41,,Thursday
+2021-02-18,19:00:00,New York Islanders,1,Pittsburgh Penguins,4,,,2:22,,Thursday
+2021-02-18,20:00:00,San Jose Sharks,2,St. Louis Blues,3,OT,,2:30,,Thursday
+2021-02-18,19:00:00,Ottawa Senators,3,Toronto Maple Leafs,7,,,2:23,,Thursday
+2021-02-18,19:00:00,Buffalo Sabres,1,Washington Capitals,3,,,2:12,,Thursday
+2021-02-19,19:00:00,Chicago Blackhawks,3,Carolina Hurricanes,5,,,2:24,,Friday
+2021-02-19,21:00:00,Edmonton Oilers,2,Calgary Flames,1,,,2:12,,Friday
+2021-02-19,19:00:00,Florida Panthers,7,Detroit Red Wings,2,,,2:30,,Friday
+2021-02-19,22:00:00,Winnipeg Jets,2,Vancouver Canucks,0,,,2:21,,Friday
+2021-02-20,21:00:00,Minnesota Wild,5,Anaheim Ducks,1,,,2:26,,Saturday
+2021-02-20,19:00:00,Los Angeles Kings,4,Arizona Coyotes,2,,3187.0,2:18,,Saturday
+2021-02-20,19:00:00,Tampa Bay Lightning,0,Carolina Hurricanes,4,,,2:20,,Saturday
+2021-02-20,19:00:00,Nashville Predators,4,Columbus Blue Jackets,2,,,2:31,,Saturday
+2021-02-20,15:00:00,Vegas Golden Knights,2,Colorado Avalanche,3,,,0:35,NHL Outdoors at Lake Tahoe,Saturday
+2021-02-20,17:00:00,Florida Panthers,1,Detroit Red Wings,2,,,2:28,,Saturday
+2021-02-20,22:00:00,Calgary Flames,1,Edmonton Oilers,7,,,2:35,,Saturday
+2021-02-20,19:00:00,Toronto Maple Leafs,5,Montreal Canadiens,3,,,2:29,,Saturday
+2021-02-20,12:30:00,Buffalo Sabres,3,New Jersey Devils,2,,,2:21,,Saturday
+2021-02-20,19:00:00,New York Islanders,2,Pittsburgh Penguins,3,,,2:20,,Saturday
+2021-02-20,19:00:00,San Jose Sharks,5,St. Louis Blues,4,,,2:30,,Saturday
+2021-02-20,12:30:00,New York Rangers,4,Washington Capitals,1,,,2:25,,Saturday
+2021-02-21,19:30:00,Philadelphia Flyers,3,Boston Bruins,7,,,2:28,NHL Outdoors at Lake Tahoe,Sunday
+2021-02-21,19:00:00,Montreal Canadiens,2,Ottawa Senators,3,OT,,2:34,,Sunday
+2021-02-21,22:00:00,Winnipeg Jets,4,Vancouver Canucks,3,OT,,2:26,,Sunday
+2021-02-21,14:00:00,New Jersey Devils,3,Washington Capitals,4,,,2:28,,Sunday
+2021-02-22,21:00:00,Anaheim Ducks,3,Arizona Coyotes,4,,2346.0,2:47,,Monday
+2021-02-22,19:00:00,Tampa Bay Lightning,4,Carolina Hurricanes,2,,,2:33,,Monday
+2021-02-22,21:00:00,Vegas Golden Knights,3,Colorado Avalanche,0,,,2:18,,Monday
+2021-02-22,19:00:00,Dallas Stars,1,Florida Panthers,3,,3510.0,2:23,,Monday
+2021-02-22,19:00:00,Buffalo Sabres,2,New York Islanders,3,,,2:23,,Monday
+2021-02-22,22:30:00,Minnesota Wild,6,San Jose Sharks,2,,,2:29,,Monday
+2021-02-22,20:00:00,Los Angeles Kings,3,St. Louis Blues,0,,,2:19,,Monday
+2021-02-22,19:00:00,Calgary Flames,3,Toronto Maple Leafs,0,,,2:22,,Monday
+2021-02-23,19:00:00,Chicago Blackhawks,6,Columbus Blue Jackets,5,SO,,2:39,,Tuesday
+2021-02-23,19:30:00,Nashville Predators,2,Detroit Red Wings,0,,,2:29,,Tuesday
+2021-02-23,19:00:00,Buffalo Sabres,4,New Jersey Devils,1,,,2:30,,Tuesday
+2021-02-23,19:00:00,Montreal Canadiens,4,Ottawa Senators,5,SO,,2:44,,Tuesday
+2021-02-23,22:00:00,Edmonton Oilers,4,Vancouver Canucks,3,,,2:28,,Tuesday
+2021-02-23,19:00:00,Pittsburgh Penguins,3,Washington Capitals,2,OT,,2:30,,Tuesday
+2021-02-24,21:00:00,Anaheim Ducks,3,Arizona Coyotes,4,SO,2319.0,2:46,,Wednesday
+2021-02-24,21:00:00,Minnesota Wild,6,Colorado Avalanche,2,,,2:26,,Wednesday
+2021-02-24,17:00:00,Dallas Stars,3,Florida Panthers,0,,3324.0,2:31,,Wednesday
+2021-02-24,19:00:00,New York Rangers,3,Philadelphia Flyers,4,,,2:27,,Wednesday
+2021-02-24,21:30:00,Los Angeles Kings,2,St. Louis Blues,1,,,2:23,,Wednesday
+2021-02-24,17:00:00,Carolina Hurricanes,0,Tampa Bay Lightning,3,,500.0,2:18,,Wednesday
+2021-02-24,19:00:00,Calgary Flames,1,Toronto Maple Leafs,2,OT,,2:24,,Wednesday
+2021-02-25,19:00:00,New Jersey Devils,4,Buffalo Sabres,3,OT,,2:22,,Thursday
+2021-02-25,19:00:00,Chicago Blackhawks,2,Columbus Blue Jackets,0,,,2:14,,Thursday
+2021-02-25,19:30:00,Nashville Predators,2,Detroit Red Wings,5,,,2:23,,Thursday
+2021-02-25,19:00:00,Dallas Stars,2,Florida Panthers,3,,3844.0,2:28,,Thursday
+2021-02-25,19:00:00,Boston Bruins,2,New York Islanders,7,,,2:24,,Thursday
+2021-02-25,19:00:00,Calgary Flames,1,Ottawa Senators,6,,,2:19,,Thursday
+2021-02-25,19:00:00,Carolina Hurricanes,1,Tampa Bay Lightning,3,,536.0,2:31,,Thursday
+2021-02-25,22:00:00,Edmonton Oilers,3,Vancouver Canucks,0,,,2:19,,Thursday
+2021-02-25,20:00:00,Montreal Canadiens,3,Winnipeg Jets,6,,,2:22,,Thursday
+2021-02-25,19:00:00,Pittsburgh Penguins,2,Washington Capitals,5,,,2:25,,Thursday
+2021-02-26,21:00:00,Colorado Avalanche,3,Arizona Coyotes,2,,2495.0,2:28,,Friday
+2021-02-26,20:00:00,Los Angeles Kings,1,Minnesota Wild,3,,,2:22,,Friday
+2021-02-26,19:00:00,Boston Bruins,2,New York Rangers,6,,1800.0,2:33,,Friday
+2021-02-27,22:00:00,Vegas Golden Knights,3,Anaheim Ducks,2,OT,,2:33,,Saturday
+2021-02-27,21:00:00,Colorado Avalanche,6,Arizona Coyotes,2,,3224.0,2:23,,Saturday
+2021-02-27,13:00:00,Philadelphia Flyers,3,Buffalo Sabres,0,,,2:23,,Saturday
+2021-02-27,20:00:00,Detroit Red Wings,5,Chicago Blackhawks,3,,,2:17,,Saturday
+2021-02-27,19:00:00,Toronto Maple Leafs,4,Edmonton Oilers,0,,,2:22,,Saturday
+2021-02-27,19:00:00,Carolina Hurricanes,4,Florida Panthers,3,SO,4281.0,2:53,,Saturday
+2021-02-27,20:00:00,Los Angeles Kings,3,Minnesota Wild,4,OT,,2:37,,Saturday
+2021-02-27,13:00:00,Washington Capitals,5,New Jersey Devils,2,,,2:27,,Saturday
+2021-02-27,15:00:00,Columbus Blue Jackets,1,Nashville Predators,2,,,2:24,,Saturday
+2021-02-27,19:00:00,Pittsburgh Penguins,4,New York Islanders,3,OT,,2:30,,Saturday
+2021-02-27,13:00:00,Calgary Flames,6,Ottawa Senators,3,,,2:32,,Saturday
+2021-02-27,22:30:00,St. Louis Blues,7,San Jose Sharks,6,,,2:34,,Saturday
+2021-02-27,19:00:00,Dallas Stars,0,Tampa Bay Lightning,5,,537.0,2:18,,Saturday
+2021-02-27,22:00:00,Montreal Canadiens,1,Winnipeg Jets,2,OT,,2:27,,Saturday
+2021-02-28,15:00:00,Philadelphia Flyers,3,Buffalo Sabres,0,,,2:13,,Sunday
+2021-02-28,19:00:00,Detroit Red Wings,2,Chicago Blackhawks,7,,,2:25,,Sunday
+2021-02-28,15:00:00,Washington Capitals,3,New Jersey Devils,2,,,2:25,,Sunday
+2021-02-28,15:00:00,Columbus Blue Jackets,1,Nashville Predators,3,,,2:25,,Sunday
+2021-02-28,17:00:00,Pittsburgh Penguins,0,New York Islanders,2,,,2:22,,Sunday
+2021-02-28,12:00:00,Boston Bruins,4,New York Rangers,1,,1800.0,2:24,,Sunday
+2021-03-01,22:00:00,St. Louis Blues,5,Anaheim Ducks,4,,,2:29,,Monday
+2021-03-01,22:00:00,Toronto Maple Leafs,3,Edmonton Oilers,0,,,2:23,,Monday
+2021-03-01,19:00:00,Carolina Hurricanes,3,Florida Panthers,2,OT,3817.0,2:30,,Monday
+2021-03-01,19:00:00,Calgary Flames,1,Ottawa Senators,5,,,2:25,,Monday
+2021-03-01,22:30:00,Colorado Avalanche,2,San Jose Sharks,6,,,2:22,,Monday
+2021-03-01,22:00:00,Minnesota Wild,4,Vegas Golden Knights,5,OT,2605.0,2:31,,Monday
+2021-03-01,20:00:00,Vancouver Canucks,4,Winnipeg Jets,0,,,2:20,,Monday
+2021-03-02,19:00:00,Detroit Red Wings,1,Columbus Blue Jackets,4,,1953.0,2:23,,Tuesday
+2021-03-02,20:30:00,Tampa Bay Lightning,2,Dallas Stars,0,,4067.0,2:24,,Tuesday
+2021-03-02,19:00:00,Ottawa Senators,1,Montreal Canadiens,3,,,2:25,,Tuesday
+2021-03-02,19:00:00,New York Islanders,2,New Jersey Devils,1,,1800.0,2:27,,Tuesday
+2021-03-02,20:00:00,Carolina Hurricanes,4,Nashville Predators,2,,,2:27,,Tuesday
+2021-03-02,19:00:00,Buffalo Sabres,2,New York Rangers,3,,1800.0,2:18,,Tuesday
+2021-03-02,19:00:00,Philadelphia Flyers,2,Pittsburgh Penguins,5,,2800.0,2:27,,Tuesday
+2021-03-02,20:00:00,Vancouver Canucks,2,Winnipeg Jets,5,,,2:17,,Tuesday
+2021-03-03,21:30:00,St. Louis Blues,3,Anaheim Ducks,2,,,2:28,,Wednesday
+2021-03-03,19:00:00,Washington Capitals,2,Boston Bruins,1,SO,,2:48,,Wednesday
+2021-03-03,20:00:00,Toronto Maple Leafs,6,Edmonton Oilers,1,,,2:22,,Wednesday
+2021-03-03,22:00:00,Arizona Coyotes,3,Los Angeles Kings,2,,,2:20,,Wednesday
+2021-03-03,22:30:00,Colorado Avalanche,4,San Jose Sharks,0,,,2:25,,Wednesday
+2021-03-03,22:00:00,Minnesota Wild,1,Vegas Golden Knights,5,,2610.0,2:25,,Wednesday
+2021-03-04,19:00:00,Detroit Red Wings,2,Carolina Hurricanes,5,,2924.0,2:30,,Thursday
+2021-03-04,21:00:00,Ottawa Senators,3,Calgary Flames,7,,,2:27,,Thursday
+2021-03-04,20:00:00,Tampa Bay Lightning,3,Chicago Blackhawks,2,OT,,2:30,,Thursday
+2021-03-04,20:30:00,Columbus Blue Jackets,3,Dallas Stars,2,,4112.0,2:18,,Thursday
+2021-03-04,19:00:00,Winnipeg Jets,4,Montreal Canadiens,3,OT,,2:22,,Thursday
+2021-03-04,19:00:00,New York Rangers,6,New Jersey Devils,1,,,2:27,,Thursday
+2021-03-04,20:00:00,Florida Panthers,5,Nashville Predators,4,,,2:36,,Thursday
+2021-03-04,19:00:00,Buffalo Sabres,2,New York Islanders,5,,,2:17,,Thursday
+2021-03-04,19:00:00,Philadelphia Flyers,4,Pittsburgh Penguins,3,,2800.0,2:25,,Thursday
+2021-03-04,22:00:00,Toronto Maple Leafs,1,Vancouver Canucks,3,,,2:17,,Thursday
+2021-03-05,21:00:00,Minnesota Wild,5,Arizona Coyotes,1,,2541.0,2:30,,Friday
+2021-03-05,19:00:00,Washington Capitals,1,Boston Bruins,5,,,3:01,,Friday
+2021-03-05,20:00:00,Tampa Bay Lightning,3,Chicago Blackhawks,4,SO,,2:37,,Friday
+2021-03-05,21:00:00,Anaheim Ducks,2,Colorado Avalanche,3,OT,,2:32,,Friday
+2021-03-05,21:00:00,St. Louis Blues,3,Los Angeles Kings,2,OT,,2:22,,Friday
+2021-03-05,22:30:00,Vegas Golden Knights,5,San Jose Sharks,4,OT,,2:32,,Friday
+2021-03-06,19:00:00,Minnesota Wild,2,Arizona Coyotes,5,,3141.0,2:33,,Saturday
+2021-03-06,20:00:00,Anaheim Ducks,5,Colorado Avalanche,4,OT,,2:39,,Saturday
+2021-03-06,20:00:00,Columbus Blue Jackets,0,Dallas Stars,5,,4203.0,2:25,,Saturday
+2021-03-06,22:00:00,Calgary Flames,2,Edmonton Oilers,3,,,2:24,,Saturday
+2021-03-06,21:00:00,St. Louis Blues,3,Los Angeles Kings,4,OT,,2:24,,Saturday
+2021-03-06,19:00:00,Winnipeg Jets,1,Montreal Canadiens,7,,,2:18,,Saturday
+2021-03-06,13:00:00,New York Rangers,6,New Jersey Devils,3,,1800.0,2:23,,Saturday
+2021-03-06,14:00:00,Florida Panthers,6,Nashville Predators,2,,,2:30,,Saturday
+2021-03-06,13:00:00,Buffalo Sabres,2,New York Islanders,5,,,2:16,,Saturday
+2021-03-06,13:00:00,Philadelphia Flyers,3,Pittsburgh Penguins,4,,2800.0,2:30,,Saturday
+2021-03-06,22:30:00,Vegas Golden Knights,4,San Jose Sharks,0,,,2:15,,Saturday
+2021-03-06,19:00:00,Toronto Maple Leafs,2,Vancouver Canucks,4,,,2:30,,Saturday
+2021-03-07,17:00:00,New Jersey Devils,1,Boston Bruins,0,,,2:25,,Sunday
+2021-03-07,17:00:00,Florida Panthers,2,Carolina Hurricanes,4,,2924.0,2:49,,Sunday
+2021-03-07,21:30:00,Ottawa Senators,4,Calgary Flames,3,SO,,2:42,,Sunday
+2021-03-07,14:30:00,Tampa Bay Lightning,6,Chicago Blackhawks,3,,,2:27,,Sunday
+2021-03-07,20:00:00,Nashville Predators,4,Dallas Stars,3,SO,3976.0,2:44,,Sunday
+2021-03-07,12:00:00,Buffalo Sabres,2,New York Islanders,5,,,2:20,,Sunday
+2021-03-07,19:00:00,Washington Capitals,3,Philadelphia Flyers,1,,3023.0,2:23,,Sunday
+2021-03-07,19:30:00,New York Rangers,1,Pittsburgh Penguins,5,,2800.0,2:26,,Sunday
+2021-03-08,22:00:00,Los Angeles Kings,5,Anaheim Ducks,6,OT,,2:27,,Monday
+2021-03-08,21:00:00,Arizona Coyotes,3,Colorado Avalanche,2,,,2:29,,Monday
+2021-03-08,21:00:00,Ottawa Senators,2,Edmonton Oilers,3,,,2:23,,Monday
+2021-03-08,20:00:00,Vegas Golden Knights,0,Minnesota Wild,2,,,2:22,,Monday
+2021-03-08,21:00:00,St. Louis Blues,2,San Jose Sharks,3,OT,,2:30,,Monday
+2021-03-08,22:00:00,Montreal Canadiens,1,Vancouver Canucks,2,SO,,2:33,,Monday
+2021-03-09,19:00:00,Nashville Predators,2,Carolina Hurricanes,3,OT,2924.0,2:45,,Tuesday
+2021-03-09,19:00:00,Florida Panthers,4,Columbus Blue Jackets,2,,3448.0,2:23,,Tuesday
+2021-03-09,20:30:00,Chicago Blackhawks,1,Dallas Stars,6,,4211.0,2:20,,Tuesday
+2021-03-09,19:30:00,Tampa Bay Lightning,4,Detroit Red Wings,3,OT,,2:32,,Tuesday
+2021-03-09,19:00:00,Boston Bruins,1,New York Islanders,2,SO,,2:32,,Tuesday
+2021-03-09,19:00:00,Buffalo Sabres,4,Philadelphia Flyers,5,SO,2838.0,2:34,,Tuesday
+2021-03-09,18:00:00,New York Rangers,2,Pittsburgh Penguins,4,,2800.0,2:28,,Tuesday
+2021-03-09,19:00:00,Winnipeg Jets,4,Toronto Maple Leafs,3,,,2:16,,Tuesday
+2021-03-09,19:00:00,New Jersey Devils,4,Washington Capitals,5,OT,,2:35,,Tuesday
+2021-03-10,21:30:00,Los Angeles Kings,5,Anaheim Ducks,1,,,2:21,,Wednesday
+2021-03-10,21:00:00,Arizona Coyotes,1,Colorado Avalanche,2,OT,,2:35,,Wednesday
+2021-03-10,20:00:00,Ottawa Senators,1,Edmonton Oilers,7,,,2:27,,Wednesday
+2021-03-10,19:00:00,Vegas Golden Knights,3,Minnesota Wild,4,,,2:26,,Wednesday
+2021-03-10,23:00:00,Montreal Canadiens,5,Vancouver Canucks,1,,,2:27,,Wednesday
+2021-03-11,19:00:00,New York Rangers,0,Boston Bruins,4,,,2:22,,Thursday
+2021-03-11,19:00:00,Pittsburgh Penguins,5,Buffalo Sabres,2,,,2:22,,Thursday
+2021-03-11,19:00:00,Nashville Predators,1,Carolina Hurricanes,5,,2924.0,2:23,,Thursday
+2021-03-11,19:00:00,Florida Panthers,5,Columbus Blue Jackets,4,OT,3739.0,2:26,,Thursday
+2021-03-11,21:00:00,Montreal Canadiens,1,Calgary Flames,2,,,2:22,,Thursday
+2021-03-11,20:30:00,Chicago Blackhawks,4,Dallas Stars,2,,4213.0,2:23,,Thursday
+2021-03-11,19:30:00,Tampa Bay Lightning,4,Detroit Red Wings,6,,,2:41,,Thursday
+2021-03-11,19:00:00,New Jersey Devils,3,New York Islanders,5,,1000.0,2:23,,Thursday
+2021-03-11,19:00:00,Washington Capitals,5,Philadelphia Flyers,3,,2807.0,2:32,,Thursday
+2021-03-11,19:00:00,Winnipeg Jets,3,Toronto Maple Leafs,4,OT,,2:27,,Thursday
+2021-03-12,22:00:00,San Jose Sharks,6,Anaheim Ducks,0,,,2:24,,Friday
+2021-03-12,21:00:00,Los Angeles Kings,0,Colorado Avalanche,2,,,2:29,,Friday
+2021-03-12,21:00:00,Ottawa Senators,2,Edmonton Oilers,6,,,2:24,,Friday
+2021-03-12,20:00:00,Arizona Coyotes,0,Minnesota Wild,4,,,2:22,,Friday
+2021-03-12,20:00:00,Vegas Golden Knights,5,St. Louis Blues,4,OT,,2:36,,Friday
+2021-03-13,22:00:00,San Jose Sharks,3,Anaheim Ducks,1,,,2:25,,Saturday
+2021-03-13,13:00:00,New York Rangers,4,Boston Bruins,0,,,2:32,,Saturday
+2021-03-13,19:00:00,Pittsburgh Penguins,3,Buffalo Sabres,0,,,2:22,,Saturday
+2021-03-13,17:00:00,Dallas Stars,3,Columbus Blue Jackets,4,OT,4160.0,2:27,,Saturday
+2021-03-13,19:00:00,Montreal Canadiens,1,Calgary Flames,3,,,2:25,,Saturday
+2021-03-13,19:00:00,Chicago Blackhawks,2,Florida Panthers,4,,4721.0,2:26,,Saturday
+2021-03-13,19:00:00,New York Islanders,3,New Jersey Devils,2,,1800.0,2:17,,Saturday
+2021-03-13,19:00:00,Washington Capitals,5,Philadelphia Flyers,4,,3083.0,2:19,,Saturday
+2021-03-13,20:00:00,Vegas Golden Knights,5,St. Louis Blues,1,,,2:27,,Saturday
+2021-03-13,19:00:00,Nashville Predators,3,Tampa Bay Lightning,6,,3800.0,2:24,,Saturday
+2021-03-13,19:00:00,Winnipeg Jets,5,Toronto Maple Leafs,2,,,2:29,,Saturday
+2021-03-13,22:00:00,Edmonton Oilers,1,Vancouver Canucks,2,,,2:26,,Saturday
+2021-03-14,17:00:00,Dallas Stars,2,Columbus Blue Jackets,1,SO,3992.0,2:32,,Sunday
+2021-03-14,17:30:00,Los Angeles Kings,1,Colorado Avalanche,4,,,2:19,,Sunday
+2021-03-14,17:00:00,Carolina Hurricanes,2,Detroit Red Wings,1,,,2:23,,Sunday
+2021-03-14,14:00:00,Arizona Coyotes,1,Minnesota Wild,4,,,2:24,,Sunday
+2021-03-14,17:00:00,New York Islanders,3,New Jersey Devils,2,SO,1800.0,2:48,,Sunday
+2021-03-14,19:00:00,Toronto Maple Leafs,3,Ottawa Senators,4,,,2:23,,Sunday
+2021-03-15,19:00:00,Washington Capitals,6,Buffalo Sabres,0,,,2:18,,Monday
+2021-03-15,21:00:00,Edmonton Oilers,3,Calgary Flames,4,,,2:22,,Monday
+2021-03-15,19:00:00,Chicago Blackhawks,3,Florida Panthers,6,,4512.0,2:32,,Monday
+2021-03-15,19:00:00,Philadelphia Flyers,5,New York Rangers,4,OT,1639.0,2:40,,Monday
+2021-03-15,19:00:00,Vancouver Canucks,3,Ottawa Senators,2,OT,,2:37,,Monday
+2021-03-15,19:00:00,Boston Bruins,1,Pittsburgh Penguins,4,,2800.0,2:28,,Monday
+2021-03-15,16:00:00,Nashville Predators,4,Tampa Bay Lightning,1,,3800.0,2:28,,Monday
+2021-03-15,22:00:00,San Jose Sharks,1,Vegas Golden Knights,2,,3473.0,2:43,,Monday
+2021-03-15,20:00:00,Montreal Canadiens,4,Winnipeg Jets,2,,,2:30,,Monday
+2021-03-16,21:00:00,Anaheim Ducks,4,Colorado Avalanche,8,,,2:34,,Tuesday
+2021-03-16,20:30:00,Tampa Bay Lightning,4,Dallas Stars,3,SO,4057.0,2:43,,Tuesday
+2021-03-16,19:30:00,Carolina Hurricanes,2,Detroit Red Wings,4,,,2:28,,Tuesday
+2021-03-16,20:00:00,Arizona Coyotes,0,Minnesota Wild,3,,,2:23,,Tuesday
+2021-03-16,19:00:00,Buffalo Sabres,2,New Jersey Devils,3,,1800.0,2:27,,Tuesday
+2021-03-16,19:00:00,Boston Bruins,2,Pittsburgh Penguins,1,,2800.0,2:30,,Tuesday
+2021-03-16,19:00:00,New York Islanders,1,Washington Capitals,3,,,2:21,,Tuesday
+2021-03-17,22:00:00,Edmonton Oilers,7,Calgary Flames,3,,,2:23,,Wednesday
+2021-03-17,22:00:00,St. Louis Blues,1,Los Angeles Kings,4,,,2:24,,Wednesday
+2021-03-17,19:30:00,Philadelphia Flyers,0,New York Rangers,9,,1723.0,2:26,,Wednesday
+2021-03-17,19:00:00,Vancouver Canucks,3,Ottawa Senators,2,SO,,2:34,,Wednesday
+2021-03-17,22:00:00,San Jose Sharks,4,Vegas Golden Knights,5,,3473.0,2:32,,Wednesday
+2021-03-17,21:00:00,Montreal Canadiens,3,Winnipeg Jets,4,OT,,2:22,,Wednesday
+2021-03-18,22:00:00,Arizona Coyotes,2,Anaheim Ducks,3,OT,,2:28,,Thursday
+2021-03-18,19:00:00,Boston Bruins,4,Buffalo Sabres,1,,,2:25,,Thursday
+2021-03-18,19:00:00,Columbus Blue Jackets,3,Carolina Hurricanes,2,OT,2924.0,2:31,,Thursday
+2021-03-18,21:00:00,Minnesota Wild,1,Colorado Avalanche,5,,,2:31,,Thursday
+2021-03-18,19:30:00,Dallas Stars,2,Detroit Red Wings,3,,,2:27,,Thursday
+2021-03-18,21:00:00,Winnipeg Jets,1,Edmonton Oilers,2,,,2:25,,Thursday
+2021-03-18,19:00:00,Nashville Predators,2,Florida Panthers,1,,4559.0,2:30,,Thursday
+2021-03-18,19:00:00,Pittsburgh Penguins,2,New Jersey Devils,3,,1800.0,2:33,,Thursday
+2021-03-18,19:00:00,Philadelphia Flyers,4,New York Islanders,3,,1400.0,2:28,,Thursday
+2021-03-18,19:00:00,Chicago Blackhawks,2,Tampa Bay Lightning,4,,3800.0,2:22,,Thursday
+2021-03-19,22:00:00,Vegas Golden Knights,4,Los Angeles Kings,2,,,2:29,,Friday
+2021-03-19,19:00:00,Vancouver Canucks,3,Montreal Canadiens,2,OT,,2:28,,Friday
+2021-03-19,21:00:00,St. Louis Blues,2,San Jose Sharks,1,SO,,2:41,,Friday
+2021-03-19,19:00:00,Calgary Flames,4,Toronto Maple Leafs,3,,,2:25,,Friday
+2021-03-19,19:00:00,New York Rangers,1,Washington Capitals,2,,,2:20,,Friday
+2021-03-20,20:00:00,Arizona Coyotes,5,Anaheim Ducks,1,,,2:24,,Saturday
+2021-03-20,19:00:00,Columbus Blue Jackets,3,Carolina Hurricanes,2,SO,2924.0,2:39,,Saturday
+2021-03-20,15:00:00,Minnesota Wild,0,Colorado Avalanche,6,,,2:31,,Saturday
+2021-03-20,19:00:00,Dallas Stars,3,Detroit Red Wings,0,,,2:20,,Saturday
+2021-03-20,22:00:00,Winnipeg Jets,2,Edmonton Oilers,4,,,2:22,,Saturday
+2021-03-20,14:00:00,Nashville Predators,0,Florida Panthers,2,,4358.0,2:22,,Saturday
+2021-03-20,19:00:00,Vancouver Canucks,4,Montreal Canadiens,5,SO,,2:36,,Saturday
+2021-03-20,13:00:00,Pittsburgh Penguins,3,New Jersey Devils,1,,1800.0,2:22,,Saturday
+2021-03-20,19:00:00,Philadelphia Flyers,1,New York Islanders,6,,1400.0,2:18,,Saturday
+2021-03-20,21:00:00,St. Louis Blues,5,San Jose Sharks,2,,,2:25,,Saturday
+2021-03-20,16:00:00,Chicago Blackhawks,1,Tampa Bay Lightning,4,,3800.0,2:20,,Saturday
+2021-03-20,19:00:00,Calgary Flames,0,Toronto Maple Leafs,2,,,2:25,,Saturday
+2021-03-20,19:00:00,New York Rangers,3,Washington Capitals,1,,,2:28,,Saturday
+2021-03-21,20:30:00,Nashville Predators,4,Dallas Stars,3,SO,4011.0,2:48,,Sunday
+2021-03-21,18:00:00,Vegas Golden Knights,1,Los Angeles Kings,3,,,2:29,,Sunday
+2021-03-21,13:00:00,New Jersey Devils,2,Pittsburgh Penguins,1,OT,2800.0,2:21,,Sunday
+2021-03-21,16:00:00,Florida Panthers,3,Tampa Bay Lightning,5,,3800.0,2:36,,Sunday
+2021-03-22,22:00:00,Colorado Avalanche,5,Arizona Coyotes,1,,2593.0,2:22,,Monday
+2021-03-22,19:00:00,Carolina Hurricanes,3,Columbus Blue Jackets,0,,3829.0,2:17,,Monday
+2021-03-22,19:30:00,Anaheim Ducks,1,Minnesota Wild,2,,,2:23,,Monday
+2021-03-22,19:00:00,Buffalo Sabres,3,New York Rangers,5,,1800.0,2:24,,Monday
+2021-03-22,19:00:00,Calgary Flames,1,Ottawa Senators,2,,,2:17,,Monday
+2021-03-22,19:00:00,New York Islanders,2,Philadelphia Flyers,1,OT,2820.0,2:23,,Monday
+2021-03-22,22:30:00,Los Angeles Kings,1,San Jose Sharks,2,,,2:22,,Monday
+2021-03-22,22:00:00,Winnipeg Jets,4,Vancouver Canucks,0,,,2:18,,Monday
+2021-03-22,22:00:00,St. Louis Blues,1,Vegas Golden Knights,5,,3750.0,2:22,,Monday
+2021-03-23,22:00:00,Colorado Avalanche,4,Arizona Coyotes,5,SO,2539.0,2:41,,Tuesday
+2021-03-23,20:00:00,Florida Panthers,2,Chicago Blackhawks,3,,,2:28,,Tuesday
+2021-03-23,20:30:00,Tampa Bay Lightning,2,Dallas Stars,1,,4103.0,2:32,,Tuesday
+2021-03-23,20:00:00,Detroit Red Wings,0,Nashville Predators,2,,,2:24,,Tuesday
+2021-03-23,19:00:00,New Jersey Devils,4,Philadelphia Flyers,3,,2882.0,2:28,,Tuesday
+2021-03-24,17:30:00,Anaheim Ducks,2,Minnesota Wild,3,,,2:29,,Wednesday
+2021-03-24,17:00:00,Calgary Flames,1,Ottawa Senators,3,,,2:16,,Wednesday
+2021-03-24,20:00:00,Buffalo Sabres,2,Pittsburgh Penguins,5,,2800.0,2:26,,Wednesday
+2021-03-24,22:30:00,Los Angeles Kings,2,San Jose Sharks,4,,,2:24,,Wednesday
+2021-03-24,22:30:00,Winnipeg Jets,5,Vancouver Canucks,1,,,2:24,,Wednesday
+2021-03-25,19:00:00,New York Islanders,4,Boston Bruins,3,OT,2191.0,2:40,,Thursday
+2021-03-25,19:00:00,Carolina Hurricanes,4,Columbus Blue Jackets,3,OT,4033.0,2:32,,Thursday
+2021-03-25,20:00:00,Florida Panthers,0,Chicago Blackhawks,3,,,2:21,,Thursday
+2021-03-25,21:00:00,Vegas Golden Knights,1,Colorado Avalanche,5,,,2:30,,Thursday
+2021-03-25,20:30:00,Tampa Bay Lightning,3,Dallas Stars,4,,4187.0,2:34,,Thursday
+2021-03-25,20:00:00,St. Louis Blues,0,Minnesota Wild,2,,,2:21,,Thursday
+2021-03-25,20:00:00,Detroit Red Wings,1,Nashville Predators,7,,,2:28,,Thursday
+2021-03-25,19:00:00,Toronto Maple Leafs,3,Ottawa Senators,2,OT,,2:41,,Thursday
+2021-03-25,19:00:00,New York Rangers,8,Philadelphia Flyers,3,,2854.0,2:32,,Thursday
+2021-03-25,19:00:00,Buffalo Sabres,0,Pittsburgh Penguins,4,,2800.0,2:25,,Thursday
+2021-03-25,19:00:00,New Jersey Devils,3,Washington Capitals,4,,,2:31,,Thursday
+2021-03-26,22:00:00,San Jose Sharks,2,Arizona Coyotes,5,,3007.0,2:23,,Friday
+2021-03-26,22:00:00,Winnipeg Jets,3,Calgary Flames,2,,,2:24,,Friday
+2021-03-26,20:00:00,Anaheim Ducks,4,St. Louis Blues,1,,,2:23,,Friday
+2021-03-26,19:00:00,New Jersey Devils,0,Washington Capitals,4,,,2:25,,Friday
+2021-03-27,22:00:00,San Jose Sharks,0,Arizona Coyotes,4,,3217.0,2:27,,Saturday
+2021-03-27,13:00:00,Buffalo Sabres,2,Boston Bruins,3,,2191.0,2:28,,Saturday
+2021-03-27,19:00:00,Tampa Bay Lightning,3,Carolina Hurricanes,4,,4433.0,2:31,,Saturday
+2021-03-27,22:00:00,Winnipeg Jets,2,Calgary Flames,4,,,2:22,,Saturday
+2021-03-27,20:00:00,Nashville Predators,3,Chicago Blackhawks,1,,,2:15,,Saturday
+2021-03-27,15:00:00,Vegas Golden Knights,3,Colorado Avalanche,2,OT,,2:29,,Saturday
+2021-03-27,20:00:00,Florida Panthers,4,Dallas Stars,3,OT,4209.0,2:44,,Saturday
+2021-03-27,15:00:00,Columbus Blue Jackets,1,Detroit Red Wings,3,,,2:20,,Saturday
+2021-03-27,13:00:00,New York Rangers,1,Philadelphia Flyers,2,,3069.0,2:24,,Saturday
+2021-03-27,19:00:00,New York Islanders,3,Pittsburgh Penguins,6,,2800.0,2:23,,Saturday
+2021-03-27,19:00:00,Edmonton Oilers,3,Toronto Maple Leafs,4,OT,,2:27,,Saturday
+2021-03-28,17:30:00,New Jersey Devils,1,Boston Bruins,0,,2191.0,2:46,,Sunday
+2021-03-28,20:00:00,Nashville Predators,3,Chicago Blackhawks,2,,,2:22,,Sunday
+2021-03-28,18:00:00,Florida Panthers,4,Dallas Stars,1,,4026.0,2:35,,Sunday
+2021-03-28,15:00:00,Columbus Blue Jackets,1,Detroit Red Wings,4,,,2:18,,Sunday
+2021-03-28,17:00:00,Anaheim Ducks,3,St. Louis Blues,2,OT,,2:30,,Sunday
+2021-03-28,12:00:00,New York Rangers,4,Washington Capitals,5,,,2:28,,Sunday
+2021-03-29,19:00:00,Philadelphia Flyers,4,Buffalo Sabres,3,OT,,2:31,,Monday
+2021-03-29,22:00:00,Winnipeg Jets,5,Calgary Flames,1,,,2:24,,Monday
+2021-03-29,21:00:00,Anaheim Ducks,2,Colorado Avalanche,5,,,2:31,,Monday
+2021-03-29,19:00:00,New York Islanders,1,Pittsburgh Penguins,2,,2800.0,2:26,,Monday
+2021-03-29,22:30:00,Minnesota Wild,3,San Jose Sharks,4,SO,,2:37,,Monday
+2021-03-29,19:00:00,Edmonton Oilers,3,Toronto Maple Leafs,2,OT,,2:24,,Monday
+2021-03-29,22:00:00,Los Angeles Kings,1,Vegas Golden Knights,4,,3950.0,2:13,,Monday
+2021-03-30,19:00:00,New Jersey Devils,4,Boston Bruins,5,SO,2191.0,2:50,,Tuesday
+2021-03-30,19:30:00,Carolina Hurricanes,1,Chicago Blackhawks,2,,,2:25,,Tuesday
+2021-03-30,19:00:00,Detroit Red Wings,1,Florida Panthers,4,,4321.0,2:23,,Tuesday
+2021-03-30,19:00:00,Edmonton Oilers,0,Montreal Canadiens,4,,,2:29,,Tuesday
+2021-03-30,20:00:00,Dallas Stars,2,Nashville Predators,3,OT,,2:26,,Tuesday
+2021-03-30,19:00:00,Washington Capitals,2,New York Rangers,5,,1761.0,2:27,,Tuesday
+2021-03-30,19:00:00,Columbus Blue Jackets,3,Tampa Bay Lightning,1,,3800.0,2:41,,Tuesday
+2021-03-31,19:30:00,Philadelphia Flyers,1,Buffalo Sabres,6,,,2:21,,Wednesday
+2021-03-31,21:30:00,Arizona Coyotes,3,Colorado Avalanche,9,,,2:34,,Wednesday
+2021-03-31,22:30:00,Minnesota Wild,2,San Jose Sharks,4,,,2:28,,Wednesday
+2021-03-31,22:00:00,Los Angeles Kings,4,Vegas Golden Knights,2,,3950.0,2:26,,Wednesday
+2021-03-31,19:30:00,Toronto Maple Leafs,3,Winnipeg Jets,1,,,2:23,,Wednesday
+2021-04-01,19:00:00,Pittsburgh Penguins,4,Boston Bruins,1,,2191.0,2:33,,Thursday
+2021-04-01,19:00:00,New York Rangers,3,Buffalo Sabres,2,OT,,2:26,,Thursday
+2021-04-01,20:00:00,Carolina Hurricanes,4,Chicago Blackhawks,3,,,2:31,,Thursday
+2021-04-01,19:00:00,Detroit Red Wings,2,Florida Panthers,3,OT,4359.0,2:35,,Thursday
+2021-04-01,20:00:00,Dallas Stars,4,Nashville Predators,1,,,2:24,,Thursday
+2021-04-01,19:00:00,Washington Capitals,4,New York Islanders,8,,1400.0,2:33,,Thursday
+2021-04-01,19:00:00,Montreal Canadiens,4,Ottawa Senators,1,,,2:22,,Thursday
+2021-04-01,19:00:00,Columbus Blue Jackets,2,Tampa Bay Lightning,3,,3800.0,2:28,,Thursday
+2021-04-01,22:30:00,Minnesota Wild,3,Vegas Golden Knights,2,SO,3950.0,2:36,,Thursday
+2021-04-02,22:00:00,Arizona Coyotes,4,Anaheim Ducks,2,,,2:26,,Friday
+2021-04-02,21:00:00,St. Louis Blues,2,Colorado Avalanche,3,,4039.0,2:28,,Friday
+2021-04-02,21:00:00,Calgary Flames,2,Edmonton Oilers,3,,,2:21,,Friday
+2021-04-02,22:00:00,San Jose Sharks,3,Los Angeles Kings,0,,,2:26,,Friday
+2021-04-02,19:00:00,Washington Capitals,2,New Jersey Devils,1,OT,3600.0,2:29,,Friday
+2021-04-02,20:00:00,Toronto Maple Leafs,2,Winnipeg Jets,1,SO,,2:28,,Friday
+2021-04-03,13:00:00,Pittsburgh Penguins,5,Boston Bruins,7,,2191.0,2:44,,Saturday
+2021-04-03,19:00:00,New York Rangers,2,Buffalo Sabres,3,SO,,2:39,,Saturday
+2021-04-03,19:00:00,Dallas Stars,3,Carolina Hurricanes,2,,4987.0,2:30,,Saturday
+2021-04-03,21:00:00,St. Louis Blues,1,Colorado Avalanche,2,,4035.0,2:29,,Saturday
+2021-04-03,19:00:00,Columbus Blue Jackets,2,Florida Panthers,5,,4375.0,2:28,,Saturday
+2021-04-03,22:00:00,San Jose Sharks,3,Los Angeles Kings,2,,,2:18,,Saturday
+2021-04-03,19:00:00,Ottawa Senators,6,Montreal Canadiens,3,,,2:33,,Saturday
+2021-04-03,15:00:00,Chicago Blackhawks,0,Nashville Predators,3,,,2:26,,Saturday
+2021-04-03,19:00:00,Philadelphia Flyers,2,New York Islanders,3,SO,1400.0,2:41,,Saturday
+2021-04-03,13:00:00,Detroit Red Wings,1,Tampa Bay Lightning,2,,3800.0,2:17,,Saturday
+2021-04-03,21:00:00,Minnesota Wild,2,Vegas Golden Knights,1,,3950.0,2:24,,Saturday
+2021-04-04,21:00:00,Arizona Coyotes,3,Anaheim Ducks,2,OT,,2:37,,Sunday
+2021-04-04,19:00:00,Dallas Stars,0,Carolina Hurricanes,1,,4987.0,2:21,,Sunday
+2021-04-04,21:00:00,Toronto Maple Leafs,4,Calgary Flames,2,,,2:17,,Sunday
+2021-04-04,17:00:00,Columbus Blue Jackets,0,Florida Panthers,3,,4069.0,2:20,,Sunday
+2021-04-04,15:00:00,Washington Capitals,5,New Jersey Devils,4,,3600.0,2:32,,Sunday
+2021-04-04,12:00:00,Detroit Red Wings,5,Tampa Bay Lightning,1,,3800.0,2:20,,Sunday
+2021-04-05,19:00:00,Philadelphia Flyers,3,Boston Bruins,2,OT,2191.0,2:38,,Monday
+2021-04-05,21:30:00,Toronto Maple Leafs,5,Calgary Flames,3,,,2:27,,Monday
+2021-04-05,22:00:00,Arizona Coyotes,5,Los Angeles Kings,2,,,2:35,,Monday
+2021-04-05,20:00:00,Colorado Avalanche,5,Minnesota Wild,4,,3000.0,3:00,,Monday
+2021-04-05,19:00:00,Edmonton Oilers,2,Montreal Canadiens,3,OT,,2:29,,Monday
+2021-04-05,20:00:00,Vegas Golden Knights,6,St. Louis Blues,1,,,2:44,,Monday
+2021-04-05,19:00:00,Ottawa Senators,3,Winnipeg Jets,4,,,2:20,,Monday
+2021-04-06,19:00:00,Florida Panthers,2,Carolina Hurricanes,5,,4987.0,2:30,,Tuesday
+2021-04-06,19:00:00,Tampa Bay Lightning,2,Columbus Blue Jackets,4,,4080.0,2:30,,Tuesday
+2021-04-06,20:00:00,Dallas Stars,2,Chicago Blackhawks,4,,,2:30,,Tuesday
+2021-04-06,19:30:00,Nashville Predators,3,Detroit Red Wings,2,SO,,2:32,,Tuesday
+2021-04-06,19:00:00,Buffalo Sabres,5,New Jersey Devils,3,,3600.0,2:22,,Tuesday
+2021-04-06,19:00:00,Washington Capitals,0,New York Islanders,1,,1400.0,2:28,,Tuesday
+2021-04-06,19:00:00,Pittsburgh Penguins,4,New York Rangers,8,,1693.0,2:30,,Tuesday
+2021-04-06,19:00:00,Boston Bruins,4,Philadelphia Flyers,2,,2638.0,2:36,,Tuesday
+2021-04-06,22:30:00,Anaheim Ducks,5,San Jose Sharks,1,,,2:24,,Tuesday
+2021-04-07,22:00:00,Arizona Coyotes,3,Los Angeles Kings,4,,,2:27,,Wednesday
+2021-04-07,21:00:00,Colorado Avalanche,3,Minnesota Wild,8,,3000.0,2:47,,Wednesday
+2021-04-07,17:00:00,Edmonton Oilers,4,Ottawa Senators,2,,,2:20,,Wednesday
+2021-04-07,21:00:00,Vegas Golden Knights,1,St. Louis Blues,3,,,2:29,,Wednesday
+2021-04-07,19:30:00,Montreal Canadiens,2,Toronto Maple Leafs,3,,,2:27,,Wednesday
+2021-04-08,19:00:00,New Jersey Devils,6,Buffalo Sabres,3,,,2:20,,Thursday
+2021-04-08,19:00:00,Florida Panthers,0,Carolina Hurricanes,3,,4987.0,2:29,,Thursday
+2021-04-08,19:00:00,Tampa Bay Lightning,6,Columbus Blue Jackets,4,,4143.0,2:37,,Thursday
+2021-04-08,20:00:00,Dallas Stars,5,Chicago Blackhawks,1,,,2:22,,Thursday
+2021-04-08,19:30:00,Nashville Predators,7,Detroit Red Wings,1,,,2:26,,Thursday
+2021-04-08,19:00:00,Winnipeg Jets,4,Montreal Canadiens,2,,,2:25,,Thursday
+2021-04-08,19:00:00,Philadelphia Flyers,2,New York Islanders,3,SO,1400.0,2:43,,Thursday
+2021-04-08,19:00:00,Pittsburgh Penguins,5,New York Rangers,2,,1800.0,2:25,,Thursday
+2021-04-08,19:00:00,Edmonton Oilers,3,Ottawa Senators,1,,,2:19,,Thursday
+2021-04-08,19:00:00,Boston Bruins,4,Washington Capitals,2,,,2:34,,Thursday
+2021-04-09,22:00:00,Colorado Avalanche,2,Anaheim Ducks,0,,,2:21,,Friday
+2021-04-09,19:00:00,Washington Capitals,4,Buffalo Sabres,3,,,2:31,,Friday
+2021-04-09,19:00:00,Pittsburgh Penguins,6,New Jersey Devils,4,,3600.0,2:27,,Friday
+2021-04-09,19:00:00,New York Rangers,4,New York Islanders,1,,1400.0,2:25,,Friday
+2021-04-09,22:30:00,Los Angeles Kings,2,San Jose Sharks,5,,,2:27,,Friday
+2021-04-09,20:00:00,Minnesota Wild,1,St. Louis Blues,9,,,2:27,,Friday
+2021-04-09,22:00:00,Arizona Coyotes,4,Vegas Golden Knights,7,,3950.0,2:25,,Friday
+2021-04-10,19:00:00,Detroit Red Wings,5,Carolina Hurricanes,4,SO,4987.0,2:41,,Saturday
+2021-04-10,19:00:00,Chicago Blackhawks,4,Columbus Blue Jackets,3,,4502.0,2:53,,Saturday
+2021-04-10,22:00:00,Edmonton Oilers,0,Calgary Flames,5,,,2:28,,Saturday
+2021-04-10,14:00:00,Florida Panthers,1,Dallas Stars,4,,4165.0,2:27,,Saturday
+2021-04-10,19:00:00,Winnipeg Jets,5,Montreal Canadiens,0,,,2:22,,Saturday
+2021-04-10,20:00:00,Tampa Bay Lightning,3,Nashville Predators,0,,,2:33,,Saturday
+2021-04-10,14:00:00,Boston Bruins,2,Philadelphia Flyers,3,,3025.0,2:29,,Saturday
+2021-04-10,22:30:00,Los Angeles Kings,4,San Jose Sharks,2,,,2:22,,Saturday
+2021-04-10,20:00:00,Minnesota Wild,2,St. Louis Blues,3,OT,,2:31,,Saturday
+2021-04-10,19:00:00,Ottawa Senators,5,Toronto Maple Leafs,6,,,2:20,,Saturday
+2021-04-11,18:00:00,Colorado Avalanche,4,Anaheim Ducks,1,,,2:39,,Sunday
+2021-04-11,19:00:00,Washington Capitals,8,Boston Bruins,1,,2191.0,2:32,,Sunday
+2021-04-11,19:00:00,Pittsburgh Penguins,5,New Jersey Devils,2,,3600.0,2:29,,Sunday
+2021-04-11,20:00:00,Dallas Stars,2,Nashville Predators,3,SO,,2:32,,Sunday
+2021-04-11,19:00:00,New York Rangers,2,New York Islanders,3,OT,1400.0,2:42,,Sunday
+2021-04-11,14:00:00,Buffalo Sabres,5,Philadelphia Flyers,3,,3250.0,2:31,,Sunday
+2021-04-11,16:00:00,Arizona Coyotes,0,Vegas Golden Knights,1,,3950.0,2:25,,Sunday
+2021-04-12,19:00:00,Detroit Red Wings,3,Carolina Hurricanes,1,,4987.0,2:30,,Monday
+2021-04-12,19:00:00,Chicago Blackhawks,4,Columbus Blue Jackets,3,OT,4093.0,2:31,,Monday
+2021-04-12,21:00:00,Arizona Coyotes,2,Colorado Avalanche,4,,4042.0,2:42,,Monday
+2021-04-12,22:00:00,Vegas Golden Knights,4,Los Angeles Kings,2,,,2:20,,Monday
+2021-04-12,19:00:00,Toronto Maple Leafs,2,Montreal Canadiens,4,,,2:21,,Monday
+2021-04-12,19:00:00,Winnipeg Jets,2,Ottawa Senators,4,,,2:20,,Monday
+2021-04-12,22:30:00,Anaheim Ducks,4,San Jose Sharks,0,,,2:24,,Monday
+2021-04-13,19:00:00,Buffalo Sabres,2,Boston Bruins,3,SO,2191.0,2:45,,Tuesday
+2021-04-13,20:30:00,Florida Panthers,3,Dallas Stars,2,OT,4199.0,2:47,,Tuesday
+2021-04-13,19:00:00,New York Rangers,3,New Jersey Devils,0,,3600.0,2:15,,Tuesday
+2021-04-13,20:00:00,Tampa Bay Lightning,2,Nashville Predators,7,,,2:25,,Tuesday
+2021-04-13,19:30:00,Calgary Flames,3,Toronto Maple Leafs,2,OT,,2:23,,Tuesday
+2021-04-13,19:00:00,Philadelphia Flyers,1,Washington Capitals,6,,,2:26,,Tuesday
+2021-04-14,22:00:00,Vegas Golden Knights,6,Los Angeles Kings,2,,,2:24,,Wednesday
+2021-04-14,14:00:00,Arizona Coyotes,2,Minnesota Wild,5,,3000.0,2:18,,Wednesday
+2021-04-14,19:00:00,Calgary Flames,4,Montreal Canadiens,1,,,2:22,,Wednesday
+2021-04-14,19:00:00,Winnipeg Jets,3,Ottawa Senators,2,,,2:23,,Wednesday
+2021-04-14,22:30:00,Anaheim Ducks,4,San Jose Sharks,1,,,2:31,,Wednesday
+2021-04-14,19:30:00,Colorado Avalanche,4,St. Louis Blues,3,,,2:33,,Wednesday
+2021-04-15,19:00:00,New York Islanders,1,Boston Bruins,4,,2191.0,2:34,,Thursday
+2021-04-15,19:00:00,Nashville Predators,1,Carolina Hurricanes,4,,4987.0,2:27,,Thursday
+2021-04-15,20:30:00,Columbus Blue Jackets,1,Dallas Stars,4,,4201.0,2:20,,Thursday
+2021-04-15,19:30:00,Chicago Blackhawks,1,Detroit Red Wings,4,,,2:14,,Thursday
+2021-04-15,19:00:00,New Jersey Devils,0,New York Rangers,4,,1688.0,2:16,,Thursday
+2021-04-15,19:00:00,Philadelphia Flyers,2,Pittsburgh Penguins,1,SO,4672.0,2:40,,Thursday
+2021-04-15,19:00:00,Florida Panthers,2,Tampa Bay Lightning,3,OT,3800.0,2:25,,Thursday
+2021-04-15,19:00:00,Winnipeg Jets,5,Toronto Maple Leafs,2,,,2:20,,Thursday
+2021-04-15,19:00:00,Buffalo Sabres,5,Washington Capitals,2,,,2:21,,Thursday
+2021-04-16,22:00:00,Vegas Golden Knights,4,Anaheim Ducks,0,,1717.0,2:21,,Friday
+2021-04-16,19:00:00,New York Islanders,0,Boston Bruins,3,,2191.0,2:26,,Friday
+2021-04-16,20:00:00,San Jose Sharks,2,Minnesota Wild,3,,3000.0,2:19,,Friday
+2021-04-16,18:00:00,Calgary Flames,1,Montreal Canadiens,2,,,2:18,,Friday
+2021-04-17,18:00:00,St. Louis Blues,2,Arizona Coyotes,3,,3981.0,2:19,,Saturday
+2021-04-17,15:00:00,Pittsburgh Penguins,3,Buffalo Sabres,2,,,2:17,,Saturday
+2021-04-17,19:00:00,Nashville Predators,1,Carolina Hurricanes,3,,4987.0,2:28,,Saturday
+2021-04-17,20:00:00,Columbus Blue Jackets,1,Dallas Stars,5,,5643.0,2:27,,Saturday
+2021-04-17,19:00:00,Chicago Blackhawks,4,Detroit Red Wings,0,,,2:22,,Saturday
+2021-04-17,20:00:00,San Jose Sharks,2,Minnesota Wild,5,,3000.0,2:23,,Saturday
+2021-04-17,16:00:00,Ottawa Senators,4,Montreal Canadiens,0,,,2:17,,Saturday
+2021-04-17,12:30:00,New Jersey Devils,3,New York Rangers,6,,1800.0,2:24,,Saturday
+2021-04-17,12:30:00,Washington Capitals,6,Philadelphia Flyers,3,,3430.0,2:28,,Saturday
+2021-04-17,19:00:00,Florida Panthers,5,Tampa Bay Lightning,3,,3800.0,2:23,,Saturday
+2021-04-17,19:00:00,Edmonton Oilers,3,Winnipeg Jets,0,,,2:15,,Saturday
+2021-04-18,16:00:00,Vegas Golden Knights,5,Anaheim Ducks,2,,1717.0,2:25,,Sunday
+2021-04-18,12:00:00,Washington Capitals,3,Boston Bruins,6,,2191.0,2:35,,Sunday
+2021-04-18,15:00:00,Pittsburgh Penguins,2,Buffalo Sabres,4,,,2:25,,Sunday
+2021-04-18,15:00:00,New York Rangers,5,New Jersey Devils,3,,3500.0,2:24,,Sunday
+2021-04-18,18:30:00,New York Islanders,1,Philadelphia Flyers,0,OT,3603.0,2:25,,Sunday
+2021-04-18,19:00:00,Toronto Maple Leafs,2,Vancouver Canucks,3,OT,,2:24,,Sunday
+2021-04-19,21:00:00,Minnesota Wild,5,Arizona Coyotes,2,,3481.0,2:24,,Monday
+2021-04-19,21:00:00,Ottawa Senators,4,Calgary Flames,2,,,2:22,,Monday
+2021-04-19,19:30:00,Detroit Red Wings,2,Dallas Stars,3,SO,4812.0,2:32,,Monday
+2021-04-19,21:00:00,Montreal Canadiens,1,Edmonton Oilers,4,,,2:26,,Monday
+2021-04-19,19:00:00,Columbus Blue Jackets,2,Florida Panthers,4,,4041.0,2:30,,Monday
+2021-04-19,20:00:00,Chicago Blackhawks,2,Nashville Predators,5,,,2:27,,Monday
+2021-04-19,19:00:00,Carolina Hurricanes,2,Tampa Bay Lightning,3,OT,3800.0,2:36,,Monday
+2021-04-19,22:00:00,San Jose Sharks,2,Vegas Golden Knights,3,SO,3950.0,2:43,,Monday
+2021-04-20,18:30:00,Boston Bruins,2,Buffalo Sabres,0,,,2:39,,Tuesday
+2021-04-20,20:30:00,Detroit Red Wings,2,Dallas Stars,5,,5148.0,2:25,,Tuesday
+2021-04-20,19:00:00,Columbus Blue Jackets,1,Florida Panthers,5,,4132.0,2:27,,Tuesday
+2021-04-20,22:00:00,Anaheim Ducks,1,Los Angeles Kings,4,,1431.0,2:26,,Tuesday
+2021-04-20,19:00:00,New York Rangers,1,New York Islanders,6,,1400.0,2:11,,Tuesday
+2021-04-20,19:00:00,New Jersey Devils,6,Pittsburgh Penguins,7,,4672.0,2:31,,Tuesday
+2021-04-20,19:00:00,Carolina Hurricanes,4,Tampa Bay Lightning,1,,3800.0,2:28,,Tuesday
+2021-04-20,21:00:00,Toronto Maple Leafs,3,Vancouver Canucks,6,,,2:25,,Tuesday
+2021-04-21,21:00:00,Minnesota Wild,4,Arizona Coyotes,1,,3736.0,2:23,,Wednesday
+2021-04-21,19:00:00,Nashville Predators,4,Chicago Blackhawks,5,OT,,2:26,,Wednesday
+2021-04-21,22:00:00,Montreal Canadiens,4,Edmonton Oilers,3,,,2:25,,Wednesday
+2021-04-21,21:30:00,San Jose Sharks,2,Vegas Golden Knights,5,,3950.0,2:26,,Wednesday
+2021-04-22,19:00:00,Boston Bruins,5,Buffalo Sabres,1,,,2:24,,Thursday
+2021-04-22,19:30:00,Dallas Stars,3,Detroit Red Wings,7,,,2:29,,Thursday
+2021-04-22,19:00:00,Carolina Hurricanes,4,Florida Panthers,2,,4683.0,2:39,,Thursday
+2021-04-22,19:00:00,Washington Capitals,1,New York Islanders,0,SO,1400.0,2:28,,Thursday
+2021-04-22,19:00:00,Philadelphia Flyers,3,New York Rangers,2,,1800.0,2:30,,Thursday
+2021-04-22,19:00:00,New Jersey Devils,1,Pittsburgh Penguins,5,,4672.0,2:15,,Thursday
+2021-04-22,20:00:00,Colorado Avalanche,4,St. Louis Blues,2,,,2:26,,Thursday
+2021-04-22,19:00:00,Columbus Blue Jackets,1,Tampa Bay Lightning,3,,4200.0,2:23,,Thursday
+2021-04-22,22:00:00,Ottawa Senators,3,Vancouver Canucks,0,,,2:25,,Thursday
+2021-04-22,19:00:00,Toronto Maple Leafs,5,Winnipeg Jets,3,,,2:19,,Thursday
+2021-04-23,19:00:00,Boston Bruins,4,Buffalo Sabres,6,,,2:31,,Friday
+2021-04-23,21:00:00,Montreal Canadiens,2,Calgary Flames,4,,,2:28,,Friday
+2021-04-23,20:00:00,Nashville Predators,3,Chicago Blackhawks,1,,,2:21,,Friday
+2021-04-23,22:00:00,Minnesota Wild,4,Los Angeles Kings,2,,1091.0,2:21,,Friday
+2021-04-23,19:00:00,Philadelphia Flyers,1,New York Rangers,4,,1800.0,2:22,,Friday
+2021-04-24,21:00:00,Vegas Golden Knights,5,Anaheim Ducks,1,,1717.0,2:25,,Saturday
+2021-04-24,19:00:00,Montreal Canadiens,2,Calgary Flames,5,,,2:31,,Saturday
+2021-04-24,19:00:00,Dallas Stars,2,Detroit Red Wings,1,OT,,2:24,,Saturday
+2021-04-24,19:00:00,Carolina Hurricanes,3,Florida Panthers,4,OT,4838.0,2:31,,Saturday
+2021-04-24,22:00:00,Arizona Coyotes,4,Los Angeles Kings,0,,1497.0,2:25,,Saturday
+2021-04-24,19:00:00,Washington Capitals,6,New York Islanders,3,,1400.0,2:28,,Saturday
+2021-04-24,12:30:00,New Jersey Devils,2,Pittsburgh Penguins,4,,4672.0,2:24,,Saturday
+2021-04-24,21:00:00,Minnesota Wild,6,San Jose Sharks,3,,,2:20,,Saturday
+2021-04-24,15:00:00,Colorado Avalanche,3,St. Louis Blues,5,,,2:32,,Saturday
+2021-04-24,22:00:00,Ottawa Senators,2,Vancouver Canucks,4,,,2:27,,Saturday
+2021-04-24,19:00:00,Toronto Maple Leafs,4,Winnipeg Jets,1,,,2:22,,Saturday
+2021-04-25,18:00:00,Buffalo Sabres,3,New York Rangers,6,,1800.0,2:20,,Sunday
+2021-04-25,18:00:00,New Jersey Devils,3,Philadelphia Flyers,4,SO,3651.0,2:42,,Sunday
+2021-04-25,15:00:00,Boston Bruins,0,Pittsburgh Penguins,1,,4672.0,2:26,,Sunday
+2021-04-25,19:00:00,Columbus Blue Jackets,3,Tampa Bay Lightning,4,OT,4200.0,2:26,,Sunday
+2021-04-26,18:30:00,Montreal Canadiens,2,Calgary Flames,1,,,2:21,,Monday
+2021-04-26,19:30:00,Carolina Hurricanes,3,Dallas Stars,4,OT,5364.0,2:34,,Monday
+2021-04-26,22:00:00,Anaheim Ducks,1,Los Angeles Kings,4,,1373.0,2:18,,Monday
+2021-04-26,20:00:00,Florida Panthers,1,Nashville Predators,4,,,2:26,,Monday
+2021-04-26,19:00:00,Vancouver Canucks,1,Ottawa Senators,2,,,2:17,,Monday
+2021-04-26,22:30:00,Arizona Coyotes,4,San Jose Sharks,6,,520.0,2:25,,Monday
+2021-04-26,19:00:00,Colorado Avalanche,1,St. Louis Blues,4,,,2:23,,Monday
+2021-04-26,21:00:00,Edmonton Oilers,6,Winnipeg Jets,1,,,2:11,,Monday
+2021-04-27,19:00:00,Detroit Red Wings,0,Columbus Blue Jackets,1,SO,4316.0,2:29,,Tuesday
+2021-04-27,20:00:00,Tampa Bay Lightning,7,Chicago Blackhawks,4,,,2:27,,Tuesday
+2021-04-27,20:30:00,Carolina Hurricanes,5,Dallas Stars,1,,6014.0,2:22,,Tuesday
+2021-04-27,19:00:00,Philadelphia Flyers,4,New Jersey Devils,6,,3600.0,2:36,,Tuesday
+2021-04-27,20:00:00,Florida Panthers,7,Nashville Predators,4,,,2:30,,Tuesday
+2021-04-27,19:00:00,Buffalo Sabres,1,New York Rangers,3,,1796.0,2:22,,Tuesday
+2021-04-27,19:00:00,Boston Bruins,3,Pittsburgh Penguins,1,,4672.0,2:26,,Tuesday
+2021-04-27,19:00:00,New York Islanders,0,Washington Capitals,1,,2133.0,2:27,,Tuesday
+2021-04-28,22:00:00,Anaheim Ducks,3,Los Angeles Kings,2,,1763.0,2:19,,Wednesday
+2021-04-28,19:00:00,St. Louis Blues,4,Minnesota Wild,3,,3000.0,2:25,,Wednesday
+2021-04-28,20:00:00,Toronto Maple Leafs,4,Montreal Canadiens,1,,,2:20,,Wednesday
+2021-04-28,17:30:00,Vancouver Canucks,3,Ottawa Senators,6,,,2:23,,Wednesday
+2021-04-28,22:30:00,Arizona Coyotes,2,San Jose Sharks,4,,1037.0,2:26,,Wednesday
+2021-04-28,21:30:00,Colorado Avalanche,2,Vegas Golden Knights,5,,3950.0,2:26,,Wednesday
+2021-04-28,21:00:00,Edmonton Oilers,3,Winnipeg Jets,1,,,2:24,,Wednesday
+2021-04-29,19:00:00,Buffalo Sabres,2,Boston Bruins,5,,2191.0,2:31,,Thursday
+2021-04-29,19:00:00,Detroit Red Wings,1,Carolina Hurricanes,3,,4987.0,2:24,,Thursday
+2021-04-29,20:00:00,Florida Panthers,4,Chicago Blackhawks,3,OT,,2:24,,Thursday
+2021-04-29,21:00:00,Calgary Flames,3,Edmonton Oilers,1,,,2:23,,Thursday
+2021-04-29,20:00:00,St. Louis Blues,5,Minnesota Wild,4,OT,3000.0,2:33,,Thursday
+2021-04-29,19:00:00,Philadelphia Flyers,3,New Jersey Devils,5,,3600.0,2:29,,Thursday
+2021-04-29,19:00:00,New York Islanders,4,New York Rangers,0,,1800.0,2:21,,Thursday
+2021-04-29,19:00:00,Dallas Stars,0,Tampa Bay Lightning,3,,4200.0,2:16,,Thursday
+2021-04-29,19:30:00,Vancouver Canucks,1,Toronto Maple Leafs,4,,,2:21,,Thursday
+2021-04-29,19:00:00,Pittsburgh Penguins,5,Washington Capitals,4,OT,2133.0,2:44,,Thursday
+2021-04-30,22:00:00,Los Angeles Kings,2,Anaheim Ducks,1,,1717.0,2:24,,Friday
+2021-04-30,22:00:00,Vegas Golden Knights,0,Arizona Coyotes,3,,5111.0,2:23,,Friday
+2021-04-30,21:00:00,San Jose Sharks,0,Colorado Avalanche,3,,4045.0,2:21,,Friday
+2021-04-30,19:00:00,Winnipeg Jets,3,Montreal Canadiens,5,,,2:22,,Friday
+2021-05-01,22:00:00,Los Angeles Kings,2,Anaheim Ducks,6,,1717.0,2:22,,Saturday
+2021-05-01,22:00:00,Vegas Golden Knights,3,Arizona Coyotes,2,OT,5671.0,2:33,,Saturday
+2021-05-01,13:00:00,Buffalo Sabres,2,Boston Bruins,6,,2191.0,2:35,,Saturday
+2021-05-01,19:00:00,Columbus Blue Jackets,1,Carolina Hurricanes,2,OT,4987.0,2:24,,Saturday
+2021-05-01,20:00:00,Florida Panthers,5,Chicago Blackhawks,4,,,2:20,,Saturday
+2021-05-01,20:00:00,San Jose Sharks,3,Colorado Avalanche,4,,4037.0,2:30,,Saturday
+2021-05-01,15:00:00,Tampa Bay Lightning,0,Detroit Red Wings,1,SO,,2:43,,Saturday
+2021-05-01,22:00:00,Calgary Flames,1,Edmonton Oilers,4,,,2:23,,Saturday
+2021-05-01,20:00:00,St. Louis Blues,3,Minnesota Wild,4,OT,3000.0,2:28,,Saturday
+2021-05-01,19:00:00,Ottawa Senators,2,Montreal Canadiens,3,OT,,2:25,,Saturday
+2021-05-01,20:00:00,Dallas Stars,0,Nashville Predators,1,OT,,2:29,,Saturday
+2021-05-01,19:00:00,New York Rangers,0,New York Islanders,3,,1400.0,2:13,,Saturday
+2021-05-01,19:00:00,New Jersey Devils,4,Philadelphia Flyers,1,,2683.0,2:23,,Saturday
+2021-05-01,19:00:00,Vancouver Canucks,1,Toronto Maple Leafs,5,,,2:20,,Saturday
+2021-05-01,19:00:00,Pittsburgh Penguins,3,Washington Capitals,0,,2133.0,2:25,,Saturday
+2021-05-02,15:00:00,Tampa Bay Lightning,2,Detroit Red Wings,1,,,2:24,,Sunday
+2021-05-03,22:00:00,Los Angeles Kings,3,Arizona Coyotes,2,,4983.0,2:24,,Monday
+2021-05-03,19:00:00,New York Islanders,2,Buffalo Sabres,4,,,2:26,,Monday
+2021-05-03,19:00:00,Chicago Blackhawks,2,Carolina Hurricanes,5,,4987.0,2:27,,Monday
+2021-05-03,19:00:00,Nashville Predators,4,Columbus Blue Jackets,3,OT,4210.0,2:30,,Monday
+2021-05-03,19:00:00,Dallas Stars,4,Florida Panthers,5,OT,4702.0,2:35,,Monday
+2021-05-03,20:00:00,Vegas Golden Knights,5,Minnesota Wild,6,,3000.0,2:37,,Monday
+2021-05-03,19:00:00,Toronto Maple Leafs,2,Montreal Canadiens,3,OT,,2:31,,Monday
+2021-05-03,19:00:00,Boston Bruins,3,New Jersey Devils,0,,3600.0,2:23,,Monday
+2021-05-03,19:00:00,Washington Capitals,6,New York Rangers,3,,1800.0,2:32,,Monday
+2021-05-03,19:00:00,Winnipeg Jets,1,Ottawa Senators,2,,,2:19,,Monday
+2021-05-03,19:00:00,Pittsburgh Penguins,2,Philadelphia Flyers,7,,2542.0,2:32,,Monday
+2021-05-03,22:30:00,Colorado Avalanche,5,San Jose Sharks,4,OT,1071.0,2:24,,Monday
+2021-05-03,20:00:00,Anaheim Ducks,1,St. Louis Blues,3,,,2:26,,Monday
+2021-05-03,22:00:00,Edmonton Oilers,5,Vancouver Canucks,3,,,2:20,,Monday
+2021-05-04,19:00:00,New York Islanders,3,Buffalo Sabres,4,SO,,2:28,,Tuesday
+2021-05-04,19:00:00,Chicago Blackhawks,3,Carolina Hurricanes,6,,4987.0,2:24,,Tuesday
+2021-05-04,19:00:00,Boston Bruins,3,New Jersey Devils,4,OT,3600.0,2:42,,Tuesday
+2021-05-04,19:00:00,Pittsburgh Penguins,7,Philadelphia Flyers,3,,2961.0,2:33,,Tuesday
+2021-05-04,22:00:00,Edmonton Oilers,4,Vancouver Canucks,1,,,2:16,,Tuesday
+2021-05-05,22:00:00,Los Angeles Kings,4,Arizona Coyotes,2,,6964.0,2:27,,Wednesday
+2021-05-05,19:00:00,Nashville Predators,2,Columbus Blue Jackets,4,,4084.0,2:23,,Wednesday
+2021-05-05,21:30:00,Winnipeg Jets,4,Calgary Flames,0,,,2:16,,Wednesday
+2021-05-05,20:00:00,Vegas Golden Knights,3,Minnesota Wild,2,OT,3000.0,2:38,,Wednesday
+2021-05-05,19:00:00,Washington Capitals,4,New York Rangers,2,,1800.0,2:35,,Wednesday
+2021-05-05,19:00:00,Montreal Canadiens,1,Ottawa Senators,5,,,2:27,,Wednesday
+2021-05-05,21:30:00,Colorado Avalanche,2,San Jose Sharks,3,,1041.0,2:26,,Wednesday
+2021-05-05,20:00:00,Anaheim Ducks,3,St. Louis Blues,2,SO,,2:39,,Wednesday
+2021-05-05,19:00:00,Dallas Stars,2,Tampa Bay Lightning,6,,4200.0,2:26,,Wednesday
+2021-05-06,19:00:00,New York Rangers,0,Boston Bruins,4,,2191.0,2:21,,Thursday
+2021-05-06,19:00:00,Chicago Blackhawks,2,Carolina Hurricanes,1,OT,4987.0,2:25,,Thursday
+2021-05-06,21:00:00,Vancouver Canucks,6,Edmonton Oilers,3,,,2:29,,Thursday
+2021-05-06,19:00:00,New Jersey Devils,2,New York Islanders,1,,1400.0,2:18,,Thursday
+2021-05-06,19:00:00,Buffalo Sabres,4,Pittsburgh Penguins,8,,4672.0,2:19,,Thursday
+2021-05-06,19:00:00,Montreal Canadiens,2,Toronto Maple Leafs,5,,,2:23,,Thursday
+2021-05-07,19:00:00,Detroit Red Wings,5,Columbus Blue Jackets,2,,4402.0,2:14,,Friday
+2021-05-07,22:00:00,Colorado Avalanche,3,Los Angeles Kings,2,,2115.0,2:17,,Friday
+2021-05-07,20:00:00,Anaheim Ducks,3,Minnesota Wild,4,OT,3000.0,2:27,,Friday
+2021-05-07,22:30:00,Arizona Coyotes,5,San Jose Sharks,2,,1145.0,2:34,,Friday
+2021-05-07,19:00:00,Dallas Stars,5,Tampa Bay Lightning,2,,4200.0,2:31,,Friday
+2021-05-07,22:00:00,St. Louis Blues,3,Vegas Golden Knights,4,OT,7567.0,2:27,,Friday
+2021-05-07,19:00:00,Philadelphia Flyers,4,Washington Capitals,2,,2133.0,2:23,,Friday
+2021-05-08,15:00:00,New York Rangers,5,Boston Bruins,4,,2191.0,2:33,,Saturday
+2021-05-08,19:00:00,Detroit Red Wings,4,Columbus Blue Jackets,5,OT,4493.0,2:31,,Saturday
+2021-05-08,22:00:00,Vancouver Canucks,3,Edmonton Oilers,4,,,2:20,,Saturday
+2021-05-08,19:00:00,Tampa Bay Lightning,1,Florida Panthers,5,,5040.0,2:35,,Saturday
+2021-05-08,22:00:00,Colorado Avalanche,3,Los Angeles Kings,2,,2482.0,2:18,,Saturday
+2021-05-08,20:00:00,Anaheim Ducks,3,Minnesota Wild,4,OT,3300.0,2:29,,Saturday
+2021-05-08,20:00:00,Carolina Hurricanes,1,Nashville Predators,3,,,2:22,,Saturday
+2021-05-08,19:00:00,New Jersey Devils,1,New York Islanders,5,,,2:21,,Saturday
+2021-05-08,15:00:00,Buffalo Sabres,0,Pittsburgh Penguins,1,,4672.0,2:16,,Saturday
+2021-05-08,22:30:00,Arizona Coyotes,5,San Jose Sharks,4,OT,1249.0,2:30,,Saturday
+2021-05-08,19:00:00,Montreal Canadiens,2,Toronto Maple Leafs,3,,,2:29,,Saturday
+2021-05-08,22:00:00,St. Louis Blues,1,Vegas Golden Knights,4,,7567.0,2:35,,Saturday
+2021-05-08,19:00:00,Ottawa Senators,4,Winnipeg Jets,2,,,2:16,,Saturday
+2021-05-08,19:00:00,Philadelphia Flyers,1,Washington Capitals,2,OT,2133.0,2:29,,Saturday
+2021-05-09,20:00:00,Ottawa Senators,1,Calgary Flames,6,,,2:23,,Sunday
+2021-05-09,19:00:00,Dallas Stars,2,Chicago Blackhawks,4,,3820.0,2:12,,Sunday
+2021-05-10,19:00:00,New York Islanders,2,Boston Bruins,3,OT,4565.0,2:38,,Monday
+2021-05-10,20:00:00,Dallas Stars,5,Chicago Blackhawks,4,OT,3917.0,2:26,,Monday
+2021-05-10,19:00:00,Tampa Bay Lightning,0,Florida Panthers,4,,5040.0,2:30,,Monday
+2021-05-10,22:00:00,St. Louis Blues,2,Los Angeles Kings,1,OT,2154.0,2:29,,Monday
+2021-05-10,19:00:00,Edmonton Oilers,4,Montreal Canadiens,3,OT,,2:26,,Monday
+2021-05-10,20:00:00,Carolina Hurricanes,0,Nashville Predators,5,,,2:25,,Monday
+2021-05-10,19:00:00,New Jersey Devils,2,Philadelphia Flyers,4,,3882.0,2:18,,Monday
+2021-05-10,22:00:00,Colorado Avalanche,2,Vegas Golden Knights,1,,7567.0,2:21,,Monday
+2021-05-10,20:00:00,Vancouver Canucks,3,Winnipeg Jets,1,,,2:23,,Monday
+2021-05-11,20:00:00,Vancouver Canucks,0,Winnipeg Jets,5,,,2:17,,Tuesday
+2021-05-11,19:00:00,Boston Bruins,1,Washington Capitals,2,,2133.0,2:20,,Tuesday
+2021-05-12,21:00:00,Los Angeles Kings,0,Colorado Avalanche,6,,4042.0,2:28,,Wednesday
+2021-05-12,17:00:00,Edmonton Oilers,4,Montreal Canadiens,3,OT,,2:18,,Wednesday
+2021-05-12,20:00:00,Toronto Maple Leafs,3,Ottawa Senators,4,OT,,2:22,,Wednesday
+2021-05-12,21:00:00,Vegas Golden Knights,6,San Jose Sharks,0,,1654.0,2:17,,Wednesday
+2021-05-12,21:00:00,Minnesota Wild,0,St. Louis Blues,4,,,2:20,,Wednesday
+2021-05-13,21:00:00,Vancouver Canucks,1,Calgary Flames,4,,,2:21,,Thursday
+2021-05-13,21:00:00,Los Angeles Kings,1,Colorado Avalanche,5,,4045.0,2:25,,Thursday
+2021-05-13,20:00:00,Minnesota Wild,3,St. Louis Blues,7,,,2:19,,Thursday
+2021-05-14,20:00:00,Toronto Maple Leafs,2,Winnipeg Jets,4,,,2:13,,Friday
+2021-05-15,15:30:00,Vancouver Canucks,4,Edmonton Oilers,1,,,2:15,,Saturday
+2021-05-16,22:30:00,Calgary Flames,6,Vancouver Canucks,5,OT,,2:34,,Sunday
+2021-05-18,16:00:00,Calgary Flames,2,Vancouver Canucks,4,,,2:28,,Tuesday
+2021-05-19,15:30:00,Vancouver Canucks,2,Calgary Flames,6,,,2:27,,Wednesday
